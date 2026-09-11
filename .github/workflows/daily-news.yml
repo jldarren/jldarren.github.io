@@ -1,0 +1,53 @@
+name: 每日资讯聚合
+
+on:
+  schedule:
+    # UTC 时间：每天 00:00 与 12:00（北京时间 08:00 / 20:00）
+    - cron: "0 0,12 * * *"
+  workflow_dispatch: # 允许在 Actions 页面手动触发
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 配置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装依赖
+        run: pip install -r scripts/requirements.txt
+
+      - name: 抓取资讯
+        run: python3 scripts/fetch_news.py --config config/feeds.yaml --data-dir data
+
+      - name: 生成 AI 摘要（未配置 API Key 时自动跳过）
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+        run: python3 scripts/summarize.py --config config/feeds.yaml --data-dir data
+
+      - name: 提交数据变更
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "本次运行没有新增数据"
+          else
+            git commit -m "chore(news): 更新资讯数据 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

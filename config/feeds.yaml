@@ -1,0 +1,137 @@
+# ============================================================
+#  资讯源配置 - 想换关注方向，改这个文件即可（无需改代码）
+# ============================================================
+#
+# 结构说明：
+#   settings   : 全局抓取/保留策略
+#   categories : 分类列表，新增/删除/重命名分类后前端会自动跟着变
+#     - id       : 分类标识（英文，前端筛选用）
+#     - name     : 分类显示名
+#     - color    : 分类主题色
+#     - keywords : 分类级关键词过滤（空列表 = 不过滤，全量保留）
+#                  命中标题或摘要中的任意一个词即保留
+#     - feeds    : 该分类下的 RSS / Atom 源
+#         - name     : 来源显示名
+#         - url      : RSS/Atom 地址
+#         - keywords : 可选，覆盖分类级关键词（给综合型源单独设过滤条件）
+#         - disabled : true 表示临时停用该源
+#
+# 提示：不想看某个方向，直接删掉对应分类，或给源标上 disabled: true。
+# ============================================================
+
+settings:
+  retention_days: 3          # 首页保留最近几天的新闻
+  max_items_per_feed: 15     # 单个源每次最多取多少条
+  max_total_items: 600       # news.json 最多保留多少条（防止文件无限膨胀）
+  request_timeout: 20        # 单个源的请求超时（秒）
+  exclude_keywords: []       # 全局排除关键词，例如 ["广告", "赞助", "招聘"]
+
+# 可选：AI 一句话摘要（见 scripts/summarize.py；未配置 API Key 时自动跳过）
+ai:
+  enabled: true
+  max_items_per_run: 40      # 每次运行最多摘要多少条
+  max_age_hours: 48          # 只摘要最近多少小时内发布的新闻
+  batch_size: 20             # 每次请求打包多少条
+
+categories:
+  # ---------------------------------------------------------
+  # 人工智能
+  # ---------------------------------------------------------
+  - id: ai
+    name: 人工智能
+    color: "#6366f1"
+    keywords: []             # 以下均为 AI 垂直源，无需再过滤
+    feeds:
+      - name: 量子位
+        url: https://www.qbitai.com/feed
+      - name: 雷峰网
+        url: https://www.leiphone.com/feed
+      - name: MIT Technology Review
+        url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+      - name: Google AI Blog
+        url: https://blog.google/technology/ai/rss/
+      - name: OpenAI News
+        url: https://openai.com/news/rss.xml
+      - name: Hugging Face Blog
+        url: https://huggingface.co/blog/feed.xml
+      - name: Simon Willison
+        url: https://simonwillison.net/atom/everything/
+      - name: VentureBeat AI
+        url: https://venturebeat.com/category/ai/feed/
+      - name: Machine Learning Mastery
+        url: https://machinelearningmastery.com/feed/
+      - name: arXiv cs.AI
+        url: https://export.arxiv.org/rss/cs.AI
+      - name: arXiv cs.LG
+        url: https://export.arxiv.org/rss/cs.LG
+
+  # ---------------------------------------------------------
+  # 金融财经
+  # ---------------------------------------------------------
+  - id: finance
+    name: 金融财经
+    color: "#f59e0b"
+    keywords: []
+    feeds:
+      - name: 新浪财经
+        url: https://rss.sina.com.cn/finance/rollnews.xml
+      - name: 中新网财经
+        url: https://www.chinanews.com.cn/rss/finance.xml
+      - name: CNBC Markets
+        url: https://www.cnbc.com/id/100003114/device/rss/rss.html
+      - name: CNBC Economy
+        url: https://www.cnbc.com/id/10001147/device/rss/rss.html
+      - name: WSJ Markets
+        url: https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+      - name: Yahoo Finance
+        url: https://finance.yahoo.com/news/rssindex
+      - name: Bloomberg Markets
+        url: https://feeds.bloomberg.com/markets/news.rss
+      - name: FT
+        url: https://www.ft.com/rss/home
+
+  # ---------------------------------------------------------
+  # 计算机科学与技术
+  # ---------------------------------------------------------
+  - id: tech
+    name: 计算机科学与技术
+    color: "#10b981"
+    keywords: []
+    feeds:
+      - name: Hacker News
+        url: https://hnrss.org/frontpage
+        # 综合源：只保留与 AI / 系统 / 编程 / 安全相关的条目
+        keywords:
+          - AI
+          - LLM
+          - GPT
+          - Claude
+          - machine learning
+          - Rust
+          - Go
+          - Linux
+          - kernel
+          - compiler
+          - database
+          - security
+          - vulnerability
+          - open source
+          - programming
+      - name: InfoQ 中文
+        url: https://www.infoq.cn/feed
+      - name: 酷 壳 CoolShell
+        url: https://coolshell.cn/feed
+      - name: GitHub Blog
+        url: https://github.blog/feed/
+      - name: The Verge
+        url: https://www.theverge.com/rss/index.xml
+      - name: Solidot
+        url: https://www.solidot.org/index.rss
+      - name: IT之家
+        url: https://www.ithome.com/rss/
+      - name: 钛媒体
+        url: https://www.tmtpost.com/rss.xml
+      - name: 美团技术团队
+        url: https://tech.meituan.com/feed/
+      - name: 阮一峰科技爱好者周刊
+        url: https://www.ruanyifeng.com/blog/atom.xml

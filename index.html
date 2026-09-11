@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TechPulse · AI / 财经 / 计算机 每日资讯聚合</title>
+<meta name="description" content="每天自动聚合人工智能、金融财经、计算机科学与技术领域的中英文资讯。">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <div class="brand">
+      <span class="brand-mark">TP</span>
+      <div>
+        <h1 class="brand-title">TechPulse</h1>
+        <p class="brand-sub">AI · 财经 · 计算机科学与技术 · 每日聚合</p>
+      </div>
+    </div>
+    <div class="header-actions">
+      <span class="updated" id="updated">加载中…</span>
+      <button class="icon-btn" id="themeToggle" type="button" aria-label="切换主题" title="切换深色/浅色">◐</button>
+      <a class="icon-btn" href="about.html" title="关于与自定义说明">?</a>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="controls" aria-label="筛选与搜索">
+    <div class="chips" id="categoryChips" role="group" aria-label="分类筛选"></div>
+    <div class="controls-row">
+      <div class="search-box">
+        <input type="search" id="searchInput" placeholder="搜索标题、来源、摘要…" autocomplete="off" aria-label="搜索资讯">
+      </div>
+      <label class="switch">
+        <input type="checkbox" id="todayOnly">
+        <span>只看今天</span>
+      </label>
+      <select id="archiveSelect" aria-label="按天归档"></select>
+    </div>
+    <p class="result-count" id="resultCount"></p>
+  </section>
+
+  <section id="feed" class="feed" aria-live="polite">
+    <div class="skeleton-wrap" id="skeleton">
+      <div class="skeleton"></div>
+      <div class="skeleton"></div>
+      <div class="skeleton"></div>
+    </div>
+  </section>
+
+  <p class="empty" id="emptyState" hidden>没有匹配的资讯，试试更换分类或关键词。</p>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p id="footerInfo">数据源由 GitHub Actions 每日自动更新</p>
+    <p class="muted">关注方向可定制：编辑仓库中的 <code>config/feeds.yaml</code>，新增/删除分类与 RSS 源即可。</p>
+  </div>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

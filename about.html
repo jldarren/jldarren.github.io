@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>关于 · TechPulse</title>
+<meta name="description" content="TechPulse 每日资讯聚合站的说明与定制方式。">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <div class="brand">
+      <span class="brand-mark">TP</span>
+      <div>
+        <h1 class="brand-title">TechPulse</h1>
+        <p class="brand-sub">AI · 财经 · 计算机科学与技术 · 每日聚合</p>
+      </div>
+    </div>
+    <div class="header-actions">
+      <a class="icon-btn" href="index.html" title="返回首页">←</a>
+    </div>
+  </div>
+</header>
+
+<main class="wrap" style="padding: 26px 20px 40px; max-width: 780px;">
+  <h2 style="font-size:17px; margin: 0 0 10px;">这是什么</h2>
+  <p style="color: var(--text-dim); margin-top:0;">
+    一个完全静态的资讯聚合站：GitHub Actions 每天定时抓取各路 RSS / Atom 源，
+    按分类聚合后生成 <code>data/news.json</code>，前端直接读取渲染。
+    没有后端、没有数据库、没有 Jekyll / Ruby 依赖。
+  </p>
+
+  <h2 style="font-size:17px; margin: 26px 0 10px;">怎么改关注方向</h2>
+  <p style="color: var(--text-dim); margin-top:0;">
+    所有关注方向都在 <code>config/feeds.yaml</code> 里定义，改完提交即可，前端会自动适配新的分类与配色：
+  </p>
+  <ul style="color: var(--text-dim); line-height: 1.9;">
+    <li>加/删分类：改 <code>categories</code> 列表（<code>id</code>、<code>name</code>、<code>color</code>）</li>
+    <li>加/删资讯源：改对应分类下的 <code>feeds</code>（RSS / Atom 地址）</li>
+    <li>临时停用某个源：给它加一行 <code>disabled: true</code></li>
+    <li>只想要某类内容：给分类或源配 <code>keywords</code>，命中标题/摘要才保留</li>
+    <li>首页保留天数、每源条数：改 <code>settings.retention_days</code>、<code>max_items_per_feed</code></li>
+  </ul>
+
+  <h2 style="font-size:17px; margin: 26px 0 10px;">本地预览</h2>
+  <pre style="padding:12px; overflow-x:auto; border:1px solid var(--border); border-radius:10px; background: var(--bg-soft); color: var(--text-dim); font-size:12.5px;">pip install -r scripts/requirements.txt
+python3 scripts/fetch_news.py        # 抓取并生成 data/news.json
+python3 -m http.server 8000          # 访问 http://localhost:8000</pre>
+
+  <h2 style="font-size:17px; margin: 26px 0 10px;">AI 一句话摘要（可选）</h2>
+  <p style="color: var(--text-dim); margin-top:0;">
+    在仓库 Settings → Secrets 中配置 <code>OPENAI_API_KEY</code>（或 DeepSeek / Moonshot 等兼容接口，
+    另配 <code>OPENAI_BASE_URL</code>、<code>OPENAI_MODEL</code> 变量），或配置 <code>ANTHROPIC_API_KEY</code>。
+    工作流会自动为最新资讯生成中文一句话摘要；未配置任何 Key 时该步骤自动跳过，站点照常运行。
+  </p>
+
+  <h2 style="font-size:17px; margin: 26px 0 10px;">内容归属</h2>
+  <p style="color: var(--text-dim); margin-top:0;">
+    本站仅做标题与摘要的聚合展示，版权归原作者与来源站点所有，点击标题即跳转原文。
+  </p>
+</main>
+
+<script>
+  var saved = localStorage.getItem("tp-theme");
+  if (saved) document.documentElement.setAttribute("data-theme", saved);
+</script>
+</body>
+</html>
