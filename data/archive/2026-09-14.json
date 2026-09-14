@@ -1,7 +1,7 @@
 {
  "date": "2026-09-14",
- "generated_at": "2026-09-14T01:45:21Z",
- "count": 156,
+ "generated_at": "2026-09-14T01:46:43Z",
+ "count": 217,
  "items": [
   {
    "id": "dcfce3bfeec84125",
@@ -13,6 +13,28 @@
    "published": "2026-09-14T09:00:00Z",
    "summary": "点击查看原文>",
    "fetched_at": "2026-09-14T01:45:21Z"
+  },
+  {
+   "id": "59e2415002336fc5",
+   "title": "小米米家充气宝 3 开启众筹：内置 5000mAh 锂电池，新增泄压阀设计，179 元",
+   "url": "https://www.ithome.com/1/001/926.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-14T01:45:16Z",
+   "summary": "IT之家 9 月 14 日消息，小米旗下米家充气宝 3 现已在小米有品开启众筹（ 点此购买 ），建议零售价 199 元，众筹价 179 元。 IT之家获悉，米家充气宝 3 搭载强劲电机，拥有 21mm 高精度合金压铸缸体，气压最高可达 150psi，充气速度提升 25%。 米家充气宝 3 内置 2 节 2500mAh 锂电池，可以满足 10 次汽车轮胎补气、19 次公路自行车充气、80 次 7 号篮球充气。 此外，米家充气宝 3 配备可视化屏幕，实时显示充气进度；新增泄压阀设计，调压更便捷；它还支持高精度胎压检测，设定气压值或选预设模式，一键充气，到压即停；搭载数字芯片传感器，检测精度达 ±1",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "bae41abab4151dce",
+   "title": "拜雅旗下阿凡途 AVENTHO Y 头戴式耳机发售：45mm 动圈、支持主动降噪，1199 元",
+   "url": "https://www.ithome.com/1/001/925.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-14T01:42:53Z",
+   "summary": "IT之家 9 月 14 日消息，拜雅旗下阿凡途 AVENTHO Y 头戴式耳机现已在京东发售，该产品搭载 45mm PRO 级动圈单元，提供至高 90 小时续航， 定价为 1199 元 。 该耳机提供星空蓝、曜石黑、莫兰绿和汽泡橙四种配色。机身采用折叠轻量化设计，由铝制滑块与不锈钢铰链构成，整机重量为 316 g。耳机匹配天鹅绒耳垫，提供透气体验。设备侧面配有防误触实体滑块开关与多功能按键，同时附带可拆卸麦克风及低延迟 USB-C 适配器。 该耳机搭载 45 mm 动圈单元，支持 ANC 主动降噪与通透模式，能够通过按键一键切换，耳机采用容量为 650 mAh 的可更换电池设计。在关闭降噪时最",
+   "fetched_at": "2026-09-14T01:46:43Z"
   },
   {
    "id": "801ab1a17eb0d650",
@@ -35,6 +57,17 @@
    "published": "2026-09-14T01:39:13Z",
    "summary": "The 10-year Treasury yield is closing in on 5%, a level last touched in October 2023. Strategists say the drivers behind higher yields are more important.",
    "fetched_at": "2026-09-14T01:45:21Z"
+  },
+  {
+   "id": "b8d63be6c0895c87",
+   "title": "谷歌云：两年即可回收 AI 服务器投资，自研芯片回收期仅为 GPU 一半",
+   "url": "https://www.ithome.com/1/001/923.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-14T01:38:19Z",
+   "summary": "IT之家 9 月 14 日消息，Google Cloud 首席执行官 Thomas Kurian 本月早些时候在高盛通信 + 技术大会上表示，谷歌云的平均 AI 服务器投资回收用时不到 2 年，而 自研芯片的投资回收期更是仅有 GPU 方案的一半 。 Thomas Kurian 表示， 其自研 AI 加速器业务规模是第二大超大规模数据中心运营商的 2 倍以上 。谷歌云的大部分基础设施合同都是为期五年的长期合同。 而对从芯片到模型的全链路控制 让谷歌能仅以友商一半乃至更低的价格提供 Gemini Flash 3.8 这样的产品 。这位主管宣称谷歌云在 AI 训练、AI 推理、CPU 三个细分领域",
+   "fetched_at": "2026-09-14T01:46:43Z"
   },
   {
    "id": "349b02fe42870c35",
@@ -268,6 +301,39 @@
    "fetched_at": "2026-09-14T01:45:21Z"
   },
   {
+   "id": "d068cb5493030918",
+   "title": "Autonomous Muslim Region in Philippines Holds First Election to Cement Peace",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-14/autonomous-muslim-region-in-philippines-holds-first-election-to-cement-peace",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T00:48:00Z",
+   "summary": "Voters in a predominantly Muslim autonomous region of the Philippines began casting ballots in the area’s first-ever parliamentary election, more than a decade after a peace deal with separatists ended four decades of conflict.",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "545aa198aca937f7",
+   "title": "Anthropic’s AI Warning Seen as Setback for Chip Stocks",
+   "url": "https://www.bloomberg.com/news/videos/2026-09-14/anthropic-s-ai-warning-seen-as-setback-for-chip-stocks-video",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T00:45:49Z",
+   "summary": "AI executives' calls to slow development of the technology are likely to weigh on chipmaker and supply-chain stocks in the near term. Bloomberg's Sunny Bangia and Anthony Stephens break down the news. (Source: Bloomberg)",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "8f3acb9c1f4a5b41",
+   "title": "Michael Dell’s family office leads $7.7bn deal to take insurance broker private",
+   "url": "https://www.ft.com/content/5495d88b-b457-498a-bedd-64a954b538cd?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T00:45:21Z",
+   "summary": "DFO Management and Sequence near acquisition of Baldwin Group as industry undergoes wave of consolidation",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
    "id": "157d157dd3943042",
    "title": "演员李现新增 OPPO 首席影像家认证，有望代言 Find X10 系列手机",
    "url": "https://www.ithome.com/1/001/908.htm",
@@ -312,6 +378,17 @@
    "fetched_at": "2026-09-14T01:45:21Z"
   },
   {
+   "id": "2686570a63025f61",
+   "title": "Gold Edges Lower as Hot US Inflation Bolsters Fed Rate-Hike Bets",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-14/gold-edges-lower-as-hot-us-inflation-bolsters-fed-rate-hike-bets",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T00:33:00Z",
+   "summary": "Gold edged lower, after hotter-than-expected US inflation data raised prospects that the Federal Reserve will hike interest rates later this week.",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
    "id": "3dab7f1784c134f3",
    "title": "commit-rewriter 0.1",
    "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
@@ -343,6 +420,17 @@
    "published": "2026-09-14T00:04:41Z",
    "summary": "Anthropic CEO公开信警告AI智能体可能掌控互联网，呼吁放缓增长；能源短缺与数据中心耗电成关键瓶颈。同时，苹果在FaceTime手语翻译API中拒绝AI捷径，接入真人翻译，暴露AI在手语视觉语法上的真实边界。",
    "fetched_at": "2026-09-14T01:45:21Z"
+  },
+  {
+   "id": "c675e1bc7e3b1896",
+   "title": "China’s Tax Clampdown Raises Fears of Founder Share Disposals",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-14/china-s-tax-clampdown-raises-fears-of-founder-share-disposals",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T00:03:09Z",
+   "summary": "Haidilao International Holding Ltd.’s sudden slump after its co-founder sold about $350 million worth of shares is putting the spotlight on other stocks that may be vulnerable to similar selling.",
+   "fetched_at": "2026-09-14T01:46:43Z"
   },
   {
    "id": "12e9dd6851803557",
@@ -411,6 +499,50 @@
    "fetched_at": "2026-09-14T01:45:21Z"
   },
   {
+   "id": "fbfe4137e6766986",
+   "title": "A $7 Billion Gas Bill Sees Developing Asian Nations Sour on LNG",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-13/a-7-billion-gas-bill-sees-developing-asian-nations-sour-on-lng",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T23:00:00Z",
+   "summary": "The loss of a fifth of liquefied natural gas supply due to the US-Iran war is blowing out costs for Asia’s developing markets, and forcing a rethink of the fuel’s long-term future in the region.",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "11a141af03d154ec",
+   "title": "Gulf states postpone talks with Iran over Hormuz impasse",
+   "url": "https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T22:37:17Z",
+   "summary": "Delay to crunch meeting because of lack of consensus sets back efforts to restore shipping through vital waterway",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "edf6e19cb34cadaa",
+   "title": "Trump’s Drug-Pricing Push to Cut Access Outside US, Study Finds",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-s-drug-pricing-push-to-cut-access-outside-us-study-finds",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T22:30:00Z",
+   "summary": "The Trump administration’s push to bring US drug spending down is a powerful incentive for pharmaceutical companies to boost prices and reduce access elsewhere in the world, a study found.",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "0ded817eb58f2ac9",
+   "title": "Anthropic tells investors it will be profitable for second straight quarter",
+   "url": "https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T22:29:46Z",
+   "summary": "Claude maker seeks to ease cash burn concerns before blockbuster IPO amid fears over pace of AI development",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
    "id": "ea587a83e802451d",
    "title": "“词元贷”给人工智能企业“贷”来什么？",
    "url": "https://www.chinanews.com.cn/cj/2026/09-14/10695874.shtml",
@@ -433,6 +565,50 @@
    "fetched_at": "2026-09-14T01:45:21Z"
   },
   {
+   "id": "5c30ba8a42b16739",
+   "title": "Stocks Retreat After AI Warnings, Oil Advances: Markets Wrap",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T22:06:01Z",
+   "summary": "Asian stocks and US equity-index futures retreated after major artificial intelligence companies called for a slowdown in the technology’s development, raising concerns about a sector that has powered this year’s rally. Oil rose.",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "bedaea7aee6bc28a",
+   "title": "Latest Oil Market News and Analysis for Sept. 14",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-13/latest-oil-market-news-and-analysis-for-sept-14",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T22:01:52Z",
+   "summary": "Oil advanced after Saudi Arabia shut a major crude pipeline following attacks, disrupting a route that’s been used to bypass the Strait of Hormuz during the US-Iran war and deepening a global energy crunch.",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "82eaa579a9c596fc",
+   "title": "Swedish election on a knife-edge",
+   "url": "https://www.ft.com/content/00e3c084-06e3-47b4-8230-185760216e60?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T21:52:23Z",
+   "summary": "Nordic region’s biggest economy faces weeks of uncertainty and tricky government negotiations",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "1a5b6e6fbf0a18ca",
+   "title": "Trump rejects calls from tech bosses for AI slowdown",
+   "url": "https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T21:34:22Z",
+   "summary": "President denounces demands for regulation as existential fears over technology move to the centre of US politics",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
    "id": "0fa77dcd1de2b3ff",
    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
@@ -442,6 +618,17 @@
    "published": "2026-09-13T21:06:13Z",
    "summary": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich Comments URL: https://news.ycombinator.com/item?id=49688695 Points: 461 # Comments: 187",
    "fetched_at": "2026-09-14T01:45:21Z"
+  },
+  {
+   "id": "2c69269934714260",
+   "title": "Trump scraps tariffs on Irish whiskey during visit to country",
+   "url": "https://www.ft.com/content/aa4465ff-5261-4c3b-874f-ce1a607efa70?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T20:47:43Z",
+   "summary": "The surprise move came a day after the US president stirred controversy by calling for Irish reunification",
+   "fetched_at": "2026-09-14T01:46:43Z"
   },
   {
    "id": "351b0e630c64bf01",
@@ -464,6 +651,39 @@
    "published": "2026-09-13T19:41:48Z",
    "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's prop",
    "fetched_at": "2026-09-14T01:45:21Z"
+  },
+  {
+   "id": "cd8a661e1f03061b",
+   "title": "Hormuz Meeting With Iran and Gulf Nations Delayed, Oman Says",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-13/hormuz-meeting-with-iran-and-gulf-nations-postponed-oman-says",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T19:17:03Z",
+   "summary": "A planned meeting for Monday between Iran and several Gulf nations on creating a temporary shipping lane through the Strait of Hormuz has been postponed, according to Oman’s foreign minister.",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "30cb6d06fb120b77",
+   "title": "Trump calls on Ukraine to stop striking Russian oil refineries",
+   "url": "https://www.ft.com/content/e3ba3f9a-9312-4d0b-99fd-2c80728f2dcd?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T19:08:31Z",
+   "summary": "US president says the attacks and not his war in Iran are responsible for diesel hitting record highs",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "f1b547cf56252347",
+   "title": "A 5% Treasury Yield Is Raising New Risks for Markets, Economy",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-13/a-5-treasury-yield-is-raising-new-risks-for-markets-economy",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T19:00:00Z",
+   "summary": "The bond selloff has driven a key Treasury yield to the verge of 5%, worsening angst from Wall Street to Washington about the higher borrowing costs hitting the US economy.",
+   "fetched_at": "2026-09-14T01:46:43Z"
   },
   {
    "id": "8b6c5a92da638f26",
@@ -510,6 +730,17 @@
    "fetched_at": "2026-09-14T01:45:21Z"
   },
   {
+   "id": "fdafa33f256f1c08",
+   "title": "Bloomberg This Weekend 09/13/2026",
+   "url": "https://www.bloomberg.com/news/videos/2026-09-13/bloomberg-this-weekend-09-13-2026-video",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T17:11:22Z",
+   "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Journalist & Features Writer Isabel Woodford, BMO Capital Markets Senior Economist Jennifer Lee, De",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
    "id": "b809d89bf56d74aa",
    "title": "Here are the 2 big things we're watching in this week's stock market",
    "url": "https://www.cnbc.com/2026/09/13/here-are-the-2-big-things-were-watching-in-this-weeks-stock-market.html",
@@ -554,6 +785,28 @@
    "fetched_at": "2026-09-14T01:45:21Z"
   },
   {
+   "id": "5ecc746cfd0e0b01",
+   "title": "Russia strikes Ukraine train line moments after foreign dignitaries pass",
+   "url": "https://www.ft.com/content/cdce9cd6-4857-4332-af34-ffc9ce45eadf?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T16:11:26Z",
+   "summary": "Train struck on route used by David Petraeus, Boris Johnson, Carl Bildt and other senior officials",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "e0d5487f6471d506",
+   "title": "Noel Tata Faces Biggest Crisis Yet With Regulator’s IPO Order",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-13/noel-tata-faces-biggest-crisis-yet-with-regulator-s-ipo-order",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T16:02:32Z",
+   "summary": "The Indian banking regulator’s refusal to exempt Tata Sons Pvt. from a public listing-rule comes as an unexpected blow for group patriarch Noel Tata, who’s already struggling to address leadership uncertainty at the top of the $185 billion conglomerate.",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
    "id": "67dac80dc5312e58",
    "title": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
    "url": "https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&utm_medium=article",
@@ -565,6 +818,17 @@
    "fetched_at": "2026-09-14T01:45:21Z"
   },
   {
+   "id": "d03d0f8646379584",
+   "title": "Le Pen vows to put French citizens first in campaign launch",
+   "url": "https://www.ft.com/content/d25e4152-afc5-4ff9-bfd9-3317413800ff?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T15:49:12Z",
+   "summary": "Far-right candidate seeks to stamp her authority on her party after weeks of internal tensions",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
    "id": "543492d805466c09",
    "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
@@ -574,6 +838,28 @@
    "published": "2026-09-13T15:44:38Z",
    "summary": "Article URL: https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/ Comments URL: https://news.ycombinator.com/item?id=49685253 Points: 357 # Comments: 190",
    "fetched_at": "2026-09-14T01:45:21Z"
+  },
+  {
+   "id": "799fad4dcfd90258",
+   "title": "By The Way: Headlines You May Have Missed",
+   "url": "https://www.bloomberg.com/news/videos/2026-09-13/by-the-way-headlines-you-may-have-missed-video",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T15:42:29Z",
+   "summary": "The middle-class side-hustle, mean girl moms, and the 2026 Emmy awards: Watch Lisa Mateo, Christina Ruffini and Jeff Mason talk about headlines from this week you may have missed on Bloomberg This Weekend! (Source: Bloomberg)",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "3e7f0579cce1b21d",
+   "title": "Refining Bottleneck Sends Diesel to Record High",
+   "url": "https://www.bloomberg.com/news/videos/2026-09-13/refining-bottleneck-sends-diesel-to-record-high-video",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T15:22:21Z",
+   "summary": "Record diesel prices are exposing a critical constraint in global energy markets as refinery disruptions abroad collide with limited capacity in the US. GasBuddy’s Patrick De Haan is on Bloomberg This Weekend and says producing more crude alone won’t solve the problem because refiners are already op",
+   "fetched_at": "2026-09-14T01:46:43Z"
   },
   {
    "id": "5763e6cdac5e4d0b",
@@ -741,6 +1027,17 @@
    "fetched_at": "2026-09-14T01:45:21Z"
   },
   {
+   "id": "777edbaa49e7e493",
+   "title": "The calculated desperation of Trump-a-palooza",
+   "url": "https://www.ft.com/content/d4604abb-d357-4ebd-b709-23902d1e1868?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T12:00:05Z",
+   "summary": "Whatever happens in midterm elections, the president wants the world to know that he is the only person who matters in the Republican Party",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
    "id": "ed60bc70cf720c35",
    "title": "Your car is selling your data",
    "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
@@ -783,6 +1080,28 @@
    "published": "2026-09-13T11:52:33Z",
    "summary": "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
    "fetched_at": "2026-09-14T01:45:21Z"
+  },
+  {
+   "id": "a6ab1081f861c422",
+   "title": "Why teenagers are doing worse at school",
+   "url": "https://www.ft.com/content/dc5012ed-cb82-469e-9be8-e65ac7f6745c?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T11:00:05Z",
+   "summary": "Falling global test scores underscore the importance of core knowledge, attention and mindset",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "8641be58bb3e250c",
+   "title": "Ukraine Says Passenger Train Headed to Warsaw Hit by Drone",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-13/ukraine-says-passenger-train-headed-to-warsaw-is-hit-by-drone",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T10:52:02Z",
+   "summary": "The locomotive of a passenger train traveling from Kyiv to Warsaw was hit by a Russian drone just kilometers from the Polish border on Sunday morning, Ukraine’s foreign minister said, as Moscow’s airstrikes push closer to NATO territory.",
+   "fetched_at": "2026-09-14T01:46:43Z"
   },
   {
    "id": "11087c77e7a58f5f",
@@ -950,6 +1269,28 @@
    "fetched_at": "2026-09-14T01:45:21Z"
   },
   {
+   "id": "7fc1f1d15d7a0bbf",
+   "title": "服务超100万家企业后，滴滴企业版发布商旅全程保障“超级省”",
+   "url": "https://www.tmtpost.com/8138408.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-13T06:05:47Z",
+   "summary": "数据显示，接入滴滴企业版的企业平均可节省30%的差旅总成本，员工在行程规划和报销上花费的时间普遍减少60%。",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "8d47811e37b3a5b9",
+   "title": "独家对话吴德周：从工具到Agent，AI眼镜的竞争逻辑变了",
+   "url": "https://www.tmtpost.com/8138191.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-13T05:15:46Z",
+   "summary": "“要活下来，必须转向垂直场景。”",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
    "id": "ff60eb1153be6095",
    "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
    "url": "https://www.qbitai.com/2026/09/488380.html",
@@ -1003,6 +1344,17 @@
    "published": "2026-09-12T21:41:36Z",
    "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems d",
    "fetched_at": "2026-09-14T01:45:21Z"
+  },
+  {
+   "id": "d4d3b8315be853fe",
+   "title": "Jewelry chain closes 53 stores after shutting down 2 brands",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/jewelry-chain-closes-53-stores-213700154.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-12T21:37:00Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
   },
   {
    "id": "fe9d508504e55624",
@@ -1060,6 +1412,17 @@
    "fetched_at": "2026-09-14T01:45:21Z"
   },
   {
+   "id": "b65c955551ba231e",
+   "title": "Musk sent governments a message about the robot economy",
+   "url": "https://finance.yahoo.com/economy/articles/musk-sent-governments-message-robot-174700228.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-12T17:47:00Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
    "id": "17f0f87ae2012345",
    "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
    "url": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
@@ -1093,6 +1456,17 @@
    "fetched_at": "2026-09-14T01:45:21Z"
   },
   {
+   "id": "e412bcd74fa6ce4f",
+   "title": "Samsara (IOT) Crosses $2B, But Growth Comes With A Hardware Tax",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/samsara-iot-crosses-2b-growth-160016151.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-12T16:00:16Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
    "id": "bc2a591af2ec9452",
    "title": "Waymo 举报了两名携带幽灵枪的青少年乘客",
    "url": "https://www.solidot.org/story?sid=85360",
@@ -1113,6 +1487,138 @@
    "published": "2026-09-12T15:31:13Z",
    "summary": "OpenAI 本周早些时候宣布通过动用约 1 万个 AI 智能体进行长达 88 小时的攻坚，于 9 月 5 日发现了一个 Navier-Stokes 方程失效的特例。Navier-Stokes 问题是克雷数学研究所列出的七大千禧年数学问题之一，它为每道题的解决提供了一百万美元奖金。目前七大问题只有庞加莱猜想确认解决，但解决该问题的俄罗斯数学家格里戈里·佩雷尔曼拒绝接受该奖。克雷数学研究所就此公开声明，表示将根据其评奖流程确认成果。根据克雷数学研究所的规则，OpenAI 首先需要在同行评审的期刊上发表解题结果，需要至少发表两年并且获得数学界的普遍认可。OpenAI 至今没有给出 Navier-S",
    "fetched_at": "2026-09-14T01:45:21Z"
+  },
+  {
+   "id": "bccddc29c201f32d",
+   "title": "Foxconn Just Delivered a Major Bullish Signal for Nvidia Stock",
+   "url": "https://finance.yahoo.com/technology/ai/articles/foxconn-just-delivered-major-bullish-153002905.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-12T15:30:02Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "06046d0e032270a4",
+   "title": "Here's who stands to make money from the Anthropic IPO",
+   "url": "https://finance.yahoo.com/markets/article/heres-who-stands-to-make-money-from-the-anthropic-ipo-151619986.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-12T15:16:19Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "1d2c2fca6a9baa23",
+   "title": "Genesco (GCO) Proves Smaller Sales Can Still Mean Bigger Profits",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/genesco-gco-proves-smaller-sales-150521690.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-12T15:05:21Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "bd03ba8e46469255",
+   "title": "Big Players ravage prediction markets",
+   "url": "https://finance.yahoo.com/markets/options/articles/big-players-ravage-prediction-markets-145400068.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-12T14:54:00Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "0bfd4975a764f2c6",
+   "title": "Cramer Asked Who Was Buying Gigantic Bloom Energy Calls. A Pelosi Filing Named Two of the Same Stocks Weeks Earlier.",
+   "url": "https://finance.yahoo.com/markets/options/articles/cramer-asked-buying-gigantic-bloom-145041797.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-12T14:50:41Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "a359c143d40af683",
+   "title": "Victoria’s Secret’s (VSXY) Bra Boom Just Rewrote Its Growth Story",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/victoria-secret-vsxy-bra-boom-144101942.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-12T14:41:01Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "9d4781f7964cbc57",
+   "title": "Morgan Stanley delivers blunt message to America’s pet owners",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-blunt-message-143700482.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-12T14:37:00Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "d9bea91c185359d2",
+   "title": "XRP Eyes Recovery to $1.55 as RLUSD Market Cap Grows by 50%",
+   "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-eyes-recovery-1-55-143258369.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-12T14:32:58Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "0ccd874c2f92d769",
+   "title": "Smith & Wesson’s (SWBI) Profit Turnaround Comes With a Catch",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/smith-wesson-swbi-profit-turnaround-142440248.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-12T14:24:40Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "c240f1ed4948d86c",
+   "title": "Wiley’s (WLY) AI Bet Is Starting To Pay Off",
+   "url": "https://finance.yahoo.com/technology/ai/articles/wiley-wly-ai-bet-starting-141033390.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-12T14:10:33Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "2ff347aed2a5f369",
+   "title": "Why AMD Stock Forecast Has Room to Run",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-forecast-room-140002995.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-12T14:00:02Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "a9cd0e0b7531d505",
+   "title": "Descartes (DSGX) Posts Record Q2 Results, Analysts See 30% Upside",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/descartes-dsgx-posts-record-q2-135154400.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-12T13:51:54Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
   },
   {
    "id": "96c1300793a2d942",
@@ -1718,6 +2224,171 @@
    "published": "2026-09-11T00:28:39Z",
    "summary": "Release: github-to-sqlite 2.9.1 Fix for compatibility with sqlite-utils 4.x . #85 Tags: github , sqlite",
    "fetched_at": "2026-09-14T01:45:21Z"
+  },
+  {
+   "id": "cb50b0c3c8564548",
+   "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+   "url": "https://huggingface.co/blog/gradio-workflow-1111",
+   "source": "Hugging Face Blog",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-10T00:00:00Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "e8608e40b7228951",
+   "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+   "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+   "source": "Hugging Face Blog",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-09T15:36:24Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "4f420d1c5cd0cb94",
+   "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+   "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+   "source": "Hugging Face Blog",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-08T14:23:07Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "96a3500c5a4b2fb7",
+   "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+   "url": "https://huggingface.co/blog/Hcompany/neomme",
+   "source": "Hugging Face Blog",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-03T13:13:48Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "45020768fad998be",
+   "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+   "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+   "source": "Hugging Face Blog",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-03T00:00:00Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "86b47b47cb7422fd",
+   "title": "Give Your Coding Agents a Memory You Own",
+   "url": "https://huggingface.co/blog/funes",
+   "source": "Hugging Face Blog",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-03T00:00:00Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "b844bdeeb825fb68",
+   "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+   "url": "https://huggingface.co/blog/train-to-paint-with-code",
+   "source": "Hugging Face Blog",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-03T00:00:00Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "23bdbfdbd061867c",
+   "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+   "url": "https://huggingface.co/blog/allenai/benchmirt",
+   "source": "Hugging Face Blog",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-01T21:39:07Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "85562dc16345cc8b",
+   "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+   "url": "https://huggingface.co/blog/webgpu-kernels",
+   "source": "Hugging Face Blog",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-01T00:00:00Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "b0b2c2da12a5bc45",
+   "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+   "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+   "source": "Hugging Face Blog",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-08-28T00:00:00Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "5309d96554639301",
+   "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+   "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+   "source": "Hugging Face Blog",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-08-26T00:00:00Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "74043a2c13e42e05",
+   "title": "Granite 4.2 LLMs: How They're Built",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+   "source": "Hugging Face Blog",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-08-25T15:14:14Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "f6b26e55a4899220",
+   "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+   "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+   "source": "Hugging Face Blog",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-08-25T11:39:24Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "2983dbf79834f512",
+   "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+   "url": "https://huggingface.co/blog/gradio-workflow-guide",
+   "source": "Hugging Face Blog",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-08-25T00:00:00Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "bcd3314d2ba2a36f",
+   "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+   "url": "https://huggingface.co/blog/pwc-search",
+   "source": "Hugging Face Blog",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-08-21T00:00:00Z",
+   "summary": "",
+   "fetched_at": "2026-09-14T01:46:43Z"
   }
  ]
 }
