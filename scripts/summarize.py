@@ -151,7 +151,9 @@ def main() -> int:
     args = parser.parse_args()
     quiet = args.quiet
 
-    config = yaml.safe_load(Path(args.config).read_text(encoding="utf-8")) or {}
+    config = yaml.safe_load(
+        Path(args.config).expanduser().resolve().read_text(encoding="utf-8")
+    ) or {}
     ai_config = config.get("ai") or {}
     if not ai_config.get("enabled", True) and not args.force:
         log("ai.enabled=false，跳过摘要步骤", quiet)

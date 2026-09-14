@@ -3,7 +3,14 @@ name: 每日资讯聚合
 on:
   schedule:
     # UTC 时间：每天 00:00 与 12:00（北京时间 08:00 / 20:00）
+    # 注意：GitHub 的定时任务可能延迟数十分钟到数小时触发，属正常现象
     - cron: "0 0,12 * * *"
+  push:
+    # 改了抓取配置或脚本后立即重跑一次（只监听这两个路径，避免与机器人提交互相触发）
+    paths:
+      - "config/feeds.yaml"
+      - "scripts/**"
+      - ".github/workflows/daily-news.yml"
   workflow_dispatch: # 允许在 Actions 页面手动触发
 
 permissions:
@@ -32,6 +39,7 @@ jobs:
         run: python3 scripts/fetch_news.py --config config/feeds.yaml --data-dir data
 
       - name: 生成 AI 摘要（未配置 API Key 时自动跳过）
+        continue-on-error: true # 摘要失败不影响数据提交
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_BASE_URL: ${{ vars.OPENAI_BASE_URL }}

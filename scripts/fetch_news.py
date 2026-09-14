@@ -119,6 +119,14 @@ def make_id(url: str, title: str) -> str:
     return hashlib.sha1(basis.encode("utf-8")).hexdigest()[:16]
 
 
+def display_path(path: Path) -> str:
+    """日志用的简短路径；不在仓库内时直接返回原路径（避免 relative_to 抛异常）。"""
+    try:
+        return str(path.relative_to(ROOT))
+    except ValueError:
+        return str(path)
+
+
 # --------------------------------------------------------------------------
 # 网络与解析
 # --------------------------------------------------------------------------
@@ -285,7 +293,8 @@ def main() -> int:
         if not args.quiet:
             print(message, flush=True)
 
-    config_path = Path(args.config)
+    # 统一转成绝对路径：CI 中传入的是相对路径，直接调用 relative_to 会抛异常
+    config_path = Path(args.config).expanduser().resolve()
     if not config_path.exists():
         print(f"配置文件不存在: {config_path}", file=sys.stderr)
         return 1
@@ -293,7 +302,7 @@ def main() -> int:
     settings = config.get("settings") or {}
     categories = config.get("categories") or []
 
-    data_dir = Path(args.data_dir)
+    data_dir = Path(args.data_dir).expanduser().resolve()
     news_path = data_dir / "news.json"
     archive_dir = data_dir / "archive"
 
@@ -391,8 +400,8 @@ def main() -> int:
     )
     write_json(archive_dir / "index.json", {"days": days[:90]})
 
-    log(f"已写入 {news_path.relative_to(ROOT)}（{len(kept)} 条）")
-    log(f"已写入 {archive_path.relative_to(ROOT)}（{len(archive_items)} 条）")
+    log(f"已写入 {display_path(news_path)}（{len(kept)} 条）")
+    log(f"已写入 {display_path(archive_path)}（{len(archive_items)} 条）")
     return 0
 
 
