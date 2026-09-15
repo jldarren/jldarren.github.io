@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T17:54:31Z",
+ "generated_at": "2026-09-15T04:01:59Z",
  "retention_days": 3,
  "categories": [
   {
@@ -137,12 +137,1398 @@
   }
  ],
  "stats": {
-  "total": 455,
-  "new": 158,
-  "feeds_ok": 27,
-  "feeds_failed": 2
+  "total": 600,
+  "new": 262,
+  "feeds_ok": 28,
+  "feeds_failed": 1
  },
  "items": [
+  {
+   "id": "46c76eae0d9a8c2f",
+   "title": "Meta 打造“组织第二大脑”智能体的设计思路",
+   "url": "https://www.infoq.cn/article/4OXJdfB36TpMRdvrVgIc?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T11:21:00Z",
+   "summary": "点击查看原文>",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "9516fd5cdb3720a4",
+   "title": "从 Trace 到规模化实时评估：面向生产流量的 Agent 可观测实践｜QCon上海",
+   "url": "https://www.infoq.cn/article/556HrGKWUqWSg7NM3YT3?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T10:08:44Z",
+   "summary": "点击查看原文>",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "8c6bbd39aba72fb6",
+   "title": "在金融支付系统中实施混沌工程：来自企业级 ECS 部署的经验教训",
+   "url": "https://www.infoq.cn/article/I6k1mOtQ9fltk7Ep1hZE?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T09:04:00Z",
+   "summary": "点击查看原文>",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "7f50b9c870d90f7a",
+   "title": "湘财祈年：白糖收盘评论20080612",
+   "url": "http://finance.sina.com.cn/money/future/20080612/16444975129.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "湘财祈年：白糖收盘评论20080612",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "89a4c75425a0ccb3",
+   "title": "专家：应积极支持本土私募股权基金走出国门",
+   "url": "http://finance.sina.com.cn/review/20080612/16444975128.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "专家：应积极支持本土私募股权基金走出国门",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "d48a558b60fe36e8",
+   "title": "上海金鹏：燃料油日评-美原油库存意外大幅下降，沪油放量冲高",
+   "url": "http://finance.sina.com.cn/money/future/20080612/16444975127.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "上海金鹏：燃料油日评-美原油库存意外大幅下降，沪油放量冲高",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "245584a0fbfc9640",
+   "title": "倍特解盘燃油0612",
+   "url": "http://finance.sina.com.cn/money/future/20080612/16444975126.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "倍特解盘燃油0612",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "e1d13d7d681df347",
+   "title": "华通铂银看市-原油大幅上涨 金银收高",
+   "url": "http://finance.sina.com.cn/money/future/20080612/16444975125.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "华通铂银看市-原油大幅上涨 金银收高",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "9c46b3c966709ce1",
+   "title": "上海期货交易所（期锌）交易综述0612",
+   "url": "http://finance.sina.com.cn/money/future/20080612/16444975124.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "上海期货交易所（期锌）交易综述0612",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "50707d95df04764e",
+   "title": "上海期货交易所（期铜）交易综述0612",
+   "url": "http://finance.sina.com.cn/money/future/20080612/16444975123.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "上海期货交易所（期铜）交易综述0612",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "09830a8065401f4f",
+   "title": "上海期货交易所（期铝）交易综述0612",
+   "url": "http://finance.sina.com.cn/money/future/20080612/16444975122.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "上海期货交易所（期铝）交易综述0612",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "c9f9e29357ded404",
+   "title": "刘建华个展(图)",
+   "url": "http://finance.sina.com.cn/money/collection/ysqsl/20080612/16434975120.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "刘建华个展(图)",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "476086f2e47dd1f2",
+   "title": "中国CPI涨幅下行但通胀压力依存",
+   "url": "http://finance.sina.com.cn/china/hgjj/20080612/16434975119.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "中国CPI涨幅下行但通胀压力依存",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "b37b1b93a0b408d8",
+   "title": "国际油价再回136美元",
+   "url": "http://finance.sina.com.cn/world/gjjj/20080612/16434975118.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "国际油价再回136美元",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "93c913919453753e",
+   "title": "亚太综述：主要股市全线尽墨",
+   "url": "http://finance.sina.com.cn/stock/othermarket/20080612/16424975117.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "亚太综述：主要股市全线尽墨",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "200e921c9861439a",
+   "title": "都亚特画廊(图)",
+   "url": "http://finance.sina.com.cn/money/collection/ysqsl/20080612/16414975116.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "都亚特画廊(图)",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "c588c966b91db0d1",
+   "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
+   "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
+   "source": "美团技术团队",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "dcd327682447228b",
+   "title": "美团智播——数字人直播技术创新与实践",
+   "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
+   "source": "美团技术团队",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "美团智播围绕 AI 主播「长得真→动得准→演得活→卖得好」构建了完整技术闭环：真人 1:1 复刻、换装换背景身份不跑偏；动作自然流畅，告别「木偶戏」；边说边动、音画一致；背后还有推理加速技术支撑万路并发开播，让普惠落地成为可能。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "0a9a49f730391517",
+   "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
+   "url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
+   "source": "美团技术团队",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "ACL 2026杰出论文奖（Outstanding Paper）揭晓，全球共 18 篇入选，其中包含美团履约技术团队的1篇论文。本文介绍了一种专为 RLVR 设计的低秩训练方法，以及它在业务 Agentic RL 中的落地经验。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "4e8227e28349abd9",
+   "title": "美团搜索3.0：LLM 语义表征在排序模型的探索与应用",
+   "url": "https://tech.meituan.com/2026/08/20/01-meituan-Query-3.0.html",
+   "source": "美团技术团队",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "美团搜索团队正依托团垂融合新架构与生成式大模型新技术，全面重构本地生活搜索底座。本系列技术博客将持续介绍美团搜索 3.0 的技术探索，本文聚焦 LLM 语义表征在服务零售排序场景上的三期实践——从单点特征验证到系统性表征体系构建，再到跨场景迁移复用，探索语义匹配信号在搜索排序中的应用路径。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "da1d446c01571a4e",
+   "title": "KDD'26美团学术论文精选及KDD Cup'26 DataAgents赛道冠军思路解读",
+   "url": "https://tech.meituan.com/2026/08/13/KDD-2026-meituan-papers.html",
+   "source": "美团技术团队",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "本文精选了美团技术团队被 KDD 2026 收录的 8 篇论文进行分享，这些论文覆盖了推荐大模型、生成与奖励建模框架、智能体搜索、Transformer 框架、元泛化框架等技术领域。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "6064b6036f129ffd",
+   "title": "Agent评测漫谈 —— 由浅入深讲解Agent评测",
+   "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
+   "source": "美团技术团队",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "本篇博客是一篇科普文章，由浅入深的介绍Agent评测。其中前两章系统介绍了评测是什么，以及如何建立评测体系；其中第二章是美团图灵Agent评测团队深入美团各业务团队BP总结出的实践经验，是我们在两年实践过程中逐步打磨出来的认知。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "cf8524a8a5bf65d8",
+   "title": "美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化",
+   "url": "https://tech.meituan.com/2026/07/28/CatPaw-LongCat.html",
+   "source": "美团技术团队",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "搭载美团 LongCat 2.0 的全场景 AI Agent 平台 CatPaw 正式上线，我们将模型能力从“跑得动”推向“用得好”。CatPaw 提供开箱即用的 AI 智能工作台与企业级 Agent 开发托管能力。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "09e62eb15568147b",
+   "title": "下一代搜索智能体评测基准！美团开源LoHoSearch，用知识图谱校准AI能力认知",
+   "url": "https://tech.meituan.com/2026/07/24/LongCat-LoHoSearch.html",
+   "source": "美团技术团队",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "过去一年，我们见证了 Search Agent 能力的显著演进。在 BrowseComp 等评测上，顶尖模型准确率从最初的 30% 区间迅速攀升至 90% 以上。然而，当基准迅速饱和，其区分模型能力的价值也随之递减。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "20e7c40f70ae20dc",
+   "title": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
+   "url": "https://tech.meituan.com/2026/07/24/LongCat-MineExplorer.html",
+   "source": "美团技术团队",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "美团 LongCat 团队构建了 MineExplorer —— 首个在开放世界中做到分钟级长程任务的评测基准，系统性地评测多模态大模型在需要长程规划、并包含隐藏前置条件的任务中的真实能力。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "b21dd44a327013cf",
+   "title": "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码",
+   "url": "https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html",
+   "source": "美团技术团队",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T04:01:59Z",
+   "summary": "美团 LongCat-2.0 总参数 1.6T，平均激活约 48B，为真实的 Agentic Coding 任务而生，架构上创新性引入 LongCat 稀疏注意力和 N-gram Embedding，提升长上下文处理效率与 Token 级表示能力的同时，结合动态激活进一步强化了代码理解、生成以及执行的表现。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "10912e144b3f4089",
+   "title": "HORI 为 Nintendo Switch 2 带来复古格斗控制器，采用模块化摇杆",
+   "url": "https://www.ithome.com/1/002/516.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T04:01:57Z",
+   "summary": "IT之家 9 月 15 日消息，日本外设制造商 HORI 昨日公布了 HORI Arcade Classic Pro for Nintendo Switch 2 复古街机控制器。这款设备同时支持 Nintendo Switch，并通过 XInput 兼容运行 Windows 操作系统的设备。 HORI Arcade Classic Pro for Nintendo Switch 2 采用模块化设计， 左右两侧区域支持八向 / 四向摇杆、轨迹球、旋钮、八向摇杆 & 旋钮 4 种输入设备 ，用户可根据自身喜好安装在面板上；此外，其具备连击和按键分配功能。 这款产品将于 2027 年 2 月 28 ",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "b33f11f2fe1d4e93",
+   "title": "惠普战 X Pro 锐龙版上市：锐龙 AI 9 HX Pro 470、64GB + 2TB 存储，29999 元",
+   "url": "https://www.ithome.com/1/002/515.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T04:00:26Z",
+   "summary": "IT之家 9 月 15 日消息，惠普战 X Pro 14 2026 锐龙版现已在京东上架开售，采用高雅尊爵蓝配色，搭载 AMD 锐龙 AI 9 HX Pro 470 处理器，配备 64GB 内存、2TB 固态硬盘，定价 29999 元。 京东 惠普（HP）战 X Pro 14 英寸 2026 轻薄办公笔记本电脑全新 AMD 锐龙 AI 9HX Pro 470 64G 2T OLED 2.8K 意外险蓝色 29999 元 直达链接 2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。 数码补贴： 点此领券 手机 / 平板 / 3C 数码支持 8.5 ",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "062061e61712ca0e",
+   "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+   "url": "https://arxiv.org/abs/2609.13356",
+   "source": "arXiv cs.AI",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13356v1 Announce Type: new Abstract: In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGCM-1 is founded on a core premise: compact models cannot passively memorize the open web, but can over",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "f6a0573d6d76074b",
+   "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
+   "url": "https://arxiv.org/abs/2609.13396",
+   "source": "arXiv cs.AI",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13396v1 Announce Type: new Abstract: Multi-objective Bayesian optimisation (MOBO) is a sample-efficient approach for optimising expensive black-box functions with multiple objectives. In MOBO, the goal is to adequately approximate the Pareto front; that is, to obtain a high-quality soluti",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "75365bdaf27db52e",
+   "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
+   "url": "https://arxiv.org/abs/2609.13406",
+   "source": "arXiv cs.AI",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13406v1 Announce Type: new Abstract: When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomous and evolving intelligence, RSI is being claimed at many scales, while no single framework that formally describes these e",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "1c59e5219d4c8bcf",
+   "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
+   "url": "https://arxiv.org/abs/2609.13422",
+   "source": "arXiv cs.AI",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13422v1 Announce Type: new Abstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional work remains unclear. We study this problem through Vibe Patenting, an end-to-end patent-drafting testbed for AI-agent evaluat",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "15e83ccaebb10417",
+   "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+   "url": "https://arxiv.org/abs/2609.13436",
+   "source": "arXiv cs.AI",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13436v1 Announce Type: new Abstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, physical tasks require agents to continuously observe the environment, make consequential actions, and r",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "a9714293cca80cf2",
+   "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
+   "url": "https://arxiv.org/abs/2609.13437",
+   "source": "arXiv cs.AI",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13437v1 Announce Type: new Abstract: Scientific research is a continuous process that emphasizes inheritance. Methods developed by predecessors are often expanded upon by new researchers to explore more novel and in-depth scientific questions. However, the change of lab staff, such as stu",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "0c3994759a7aa927",
+   "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
+   "url": "https://arxiv.org/abs/2609.13457",
+   "source": "arXiv cs.AI",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13457v1 Announce Type: new Abstract: Timeseries multimodal large language models (TS-MLLMs) have recently begun leveraging the reasoning capabilities of large language models (LLMs) for question-answering tasks. However, these models often fail to capture dynamic temporal patterns, provid",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "95bad4f09da465ad",
+   "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
+   "url": "https://arxiv.org/abs/2609.13463",
+   "source": "arXiv cs.AI",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13463v1 Announce Type: new Abstract: The increasing deployment of AI agents in long-horizon tasks yields massive execution logs. Diagnosing failures within these records is crucial for reliability, as it transforms outcome-level signals into actionable interventions. The sheer scale of th",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "73b655e68d6bd032",
+   "title": "Governing at Machine Speed: An Adaptive Intelligence Architecture for Real-Time AI Policy Enforcement",
+   "url": "https://arxiv.org/abs/2609.13466",
+   "source": "arXiv cs.AI",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13466v1 Announce Type: new Abstract: Enterprise AI adoption has reached 78% of organizations globally, yet the infrastructure to govern that adoption has not kept pace. This paper identifies and characterizes the attestation deficit, a structural condition in which organizations maintain ",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "63b42024abbacf60",
+   "title": "OrchSLM: Probing the Dynamics of Small Language Model Orchestration",
+   "url": "https://arxiv.org/abs/2609.13470",
+   "source": "arXiv cs.AI",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13470v1 Announce Type: new Abstract: Although large language models (LLMs) have demonstrated remarkable capabilities, their reliance on cloud-scale infrastructure poses fundamental challenges for deployment in agentic pipelines, including latency, privacy, connectivity, and substantial co",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "e2d68eeaade97f1a",
+   "title": "Grounded Adjudication of Variations across Extracted TimeLines (GAVEL): Comparing Clinical Timelines Against Their Case Reports",
+   "url": "https://arxiv.org/abs/2609.13475",
+   "source": "arXiv cs.AI",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13475v1 Announce Type: new Abstract: Existing pipelines for clinical timeline extraction from case reports are evaluated using an expert reference and are limited by imperfect reference annotations and imprecise event alignment. We developed GAVEL, an LLM judge protocol that compares two ",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "7ceee5e8b00b5ed6",
+   "title": "Token Efficient Task Execution via Application Behavior Modeling for Web Agents",
+   "url": "https://arxiv.org/abs/2609.13491",
+   "source": "arXiv cs.AI",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13491v1 Announce Type: new Abstract: The strong performance of AI Agents across an impressive variety of tasks is driving an unprecedented investment in agentic infrastructures, however the cost of processing tokens is fast increasing. Web agents automate the execution of web-application ",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "92600d1334321319",
+   "title": "Fraglingo: Molecular Design via Attachment-Aware Autoregressive Fragment Generation",
+   "url": "https://arxiv.org/abs/2609.13519",
+   "source": "arXiv cs.AI",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13519v1 Announce Type: new Abstract: Molecular design is most effective when generation mirrors the edits chemists actually make: extending a scaffold, replacing a substituent, or decorating a scaffold at a specified attachment site while optimizing molecular properties. Fragment-based mo",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "2ca52a431a198246",
+   "title": "From Legal Text to AI-specific Risk Sources: A Systematic Analysis of the EU AI Act's High-Risk Requirements",
+   "url": "https://arxiv.org/abs/2609.13535",
+   "source": "arXiv cs.AI",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13535v1 Announce Type: new Abstract: The EU AI Act introduces mandatory requirements for high-risk AI systems with the explicit goal of ensuring the development and operation of trustworthy AI. At the same time, AI risk management practices rely on structured risk taxonomies to systematic",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "b7a890cc40d4d894",
+   "title": "Asclepius: An Adaptive Harness for Long-Horizon Clinical Agents",
+   "url": "https://arxiv.org/abs/2609.13543",
+   "source": "arXiv cs.AI",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13543v1 Announce Type: new Abstract: LLM agents are predominantly benchmarked on short, single-task trajectories, yet real deployments run for hours under contention, surfacing a different class of failures. We use the Clinical Environment Simulator (CES), in which an agent manages an ent",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "cb328841654a9d30",
+   "title": "BudgetBench: A Budget-Tiered Protocol and Pilot Harness for Memory Strategy Evaluation in Local Large Language Model Agents",
+   "url": "https://arxiv.org/abs/2609.13149",
+   "source": "arXiv cs.LG",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13149v1 Announce Type: new Abstract: For local large language model agents, active context is a scarce resource: memory capacity, prefill latency, cache growth, and service objectives all constrain how many input tokens each call can afford. We present BudgetBench, an active-budget protoc",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "5f5077e76c5d6090",
+   "title": "A derivative-fidelity failure mode in physics-informed neural networks: strengthened benchmark evidence from function-value training",
+   "url": "https://arxiv.org/abs/2609.13171",
+   "source": "arXiv cs.LG",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13171v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) use automatic differentiation to impose differential-equation residuals, but good agreement in function values does not necessarily imply accurate derivatives. This paper formulates derivative fidelity as a fail",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "5184da13615e87b7",
+   "title": "Land Art as a Big-Data Climate Sensor",
+   "url": "https://arxiv.org/abs/2609.13182",
+   "source": "arXiv cs.LG",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13182v1 Announce Type: new Abstract: Robert Smithson's 1970 land artwork Spiral Jetty, located in the north arm of Utah's Great Salt Lake, has alternated between submergence and exposure during severe lake decline. We analyze 1,744 co-registered Landsat 4-9 and Sentinel-2 image chips span",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "9a901b8cffaff705",
+   "title": "LLMs or Naive Bayes? Old Gems or New Ways",
+   "url": "https://arxiv.org/abs/2609.13185",
+   "source": "arXiv cs.LG",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13185v1 Announce Type: new Abstract: Large language models (LLMs) prompt a recurring question in research computing: should classical methods like Naive Bayes (NB) be retired? We benchmark Complement Naive Bayes against zero-shot and few-shot LLMs spanning four model families and a 37x ra",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "37e5d0902842499f",
+   "title": "Early Prediction of Satellite Collision Probability Using a Hybrid TCN-Transformer Model for a CDM-Based Conjunction Analysis Framework",
+   "url": "https://arxiv.org/abs/2609.13191",
+   "source": "arXiv cs.LG",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13191v1 Announce Type: new Abstract: The rapid expansion of operational satellites and orbital debris has increased the frequency of close approach events in low Earth orbit (LEO), creating a higher operational burden for satellite operators. This problem is especially critical for satell",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "e4901daed3454afd",
+   "title": "Evaluating LLM-Generated Rules for Heart Disease Prediction",
+   "url": "https://arxiv.org/abs/2609.13192",
+   "source": "arXiv cs.LG",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13192v1 Announce Type: new Abstract: This study compares traditional machine learning models and Large Language Model (LLM)-generated rule-based systems for heart disease prediction using the UCI Heart Disease dataset. Several classifiers, including Logistic Regression, K-Nearest Neighbor",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "3e31a7b516791fcc",
+   "title": "Diagnosing Faults in Reinforcement Learning Simulators and World Models with Canonical Polynomial Invariants",
+   "url": "https://arxiv.org/abs/2609.13194",
+   "source": "arXiv cs.LG",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13194v1 Announce Type: new Abstract: A large literature builds physical structure into learned dynamics on the premise that models respecting the underlying physics predict better. We test that premise using exact polynomial invariants recovered from trajectories and canonicalised as redu",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "32587d3f2a334965",
+   "title": "Machine Unlearning for Speech Question Answering in Large Audio-Language Models",
+   "url": "https://arxiv.org/abs/2609.13195",
+   "source": "arXiv cs.LG",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13195v1 Announce Type: new Abstract: Large Audio-Language Models (LALMs) have recently shown strong capabilities in speech understanding and question answering (QA), but they also inherit privacy risks from large-scale training data, including the unintended memorization of sensitive info",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "4e11cda9a2c4e9e5",
+   "title": "Algorithmic Information Dynamics of Learning: A Certified, Differentiable Complexity Controller for Grokking",
+   "url": "https://arxiv.org/abs/2609.13197",
+   "source": "arXiv cs.LG",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13197v1 Announce Type: new Abstract: Algorithmic Information Dynamics (AID) studies systems by perturbing them and measuring changes in algorithmic complexity, but its usual estimator, the Block Decomposition Method, is piecewise constant, restricting the calculus to finite differences. W",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "6409c89726780d91",
+   "title": "SPICE: Simple Polysemantic Feature Interpretation via Clustering-based Explanation",
+   "url": "https://arxiv.org/abs/2609.13198",
+   "source": "arXiv cs.LG",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13198v1 Announce Type: new Abstract: One of the pivotal recent challenges in neural network interpretability is polysemanticity, where a single neuron is activated by multiple, often unrelated concepts, hindering clear functional understanding. Although prior work has explored this phenom",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "a7da1f9295ce1a63",
+   "title": "Discovering and Preserving Category Correlation Knowledge via Adaptive Reciprocal Knowledge Distillation",
+   "url": "https://arxiv.org/abs/2609.13199",
+   "source": "arXiv cs.LG",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13199v1 Announce Type: new Abstract: Knowledge distillation aims to improve the performance of lightweight student models by transferring knowledge from larger and more powerful teacher models. However, a substantial size gap between teacher and student models often impedes effective know",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "8fe8fcb40db7a65b",
+   "title": "Criticality in Dissimilar Decomposition and Undersampling of Random Datasets with Anomalies",
+   "url": "https://arxiv.org/abs/2609.13201",
+   "source": "arXiv cs.LG",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13201v1 Announce Type: new Abstract: Training datasets for upcoming LLMs would include a significant amount of AI text/image data generated from current LLMs. In such a scenario, it is important to understand how this affects batch decompositions and thereby, the performance of the result",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "c64ccfa0b54dbd92",
+   "title": "Do Tabular Foundation Models Still Need Feature Engineering?",
+   "url": "https://arxiv.org/abs/2609.13202",
+   "source": "arXiv cs.LG",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13202v1 Announce Type: new Abstract: Feature engineering has long been a cornerstone of tabular machine learning. Tabular foundation models (TFMs) are pretrained on a wide range of tabular datasets and applied via in-context learning. Their rise raises a natural question: does manual feat",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "f53d21482fedc9b4",
+   "title": "Scalable partial information decomposition for symptom networks via supervised embeddings",
+   "url": "https://arxiv.org/abs/2609.13203",
+   "source": "arXiv cs.LG",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13203v1 Announce Type: new Abstract: Pairwise relationships among mental-health symptoms are routinely summarised asscalar edge weights, which cannot express whether two symptoms carry overlapping information about a third or information that appears only in combination. Partial informati",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "5607216a964065ba",
+   "title": "GradRepair-ODE: Certified Gradient Repair for Neural ODE Training",
+   "url": "https://arxiv.org/abs/2609.13204",
+   "source": "arXiv cs.LG",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T04:00:00Z",
+   "summary": "arXiv:2609.13204v1 Announce Type: new Abstract: Neural ordinary differential equations use numerical solvers inside the training loop. The solver determines the forward trajectory and also affects the gradient passed to the optimizer. That coupling creates a reliability problem for scientific machin",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "f12efff129f4c5d0",
+   "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+   "url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T03:57:40Z",
+   "summary": "China's investment slump deepened, retail sales growth slowed further in August while industrial output blew past estimates as Beijing warns of supply-demand imbalance.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "cb4ffb29a359aa1b",
+   "title": "Tata Group Stocks Rise on Optimism Over Holding Company IPO",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-15/tata-group-stocks-rise-on-optimism-over-holding-company-ipo",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T03:53:32Z",
+   "summary": "Tata Group stocks gained following Indian banking regulator’s refusal to exempt the conglomerate’s holding company Tata Sons Pvt. from a rule that requires it go for a public listing.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "2b5b85fec362955b",
+   "title": "智谱为什么还需要融资",
+   "url": "https://www.tmtpost.com/8140067.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T03:48:21Z",
+   "summary": "上市的尽头不是自给自足，而是更高杠杆、更大规模的融资能力。在这个意义上，智谱的335亿和宇树的暴跌，讲的是同一个故事。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "69a45827da0e3fa9",
+   "title": "阿莫迪所说的“僵尸网络”到底有多恐怖？",
+   "url": "https://www.tmtpost.com/8140051.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T03:48:15Z",
+   "summary": "许愿容易，收场难。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "be7819d4ad2dc6bf",
+   "title": "高瓴创投90后大牛，空降DeepSeek当CFO",
+   "url": "https://www.tmtpost.com/8140058.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T03:48:10Z",
+   "summary": "DeepSeek敲定新任CFO。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "a01324da29a65f07",
+   "title": "国家统计局：截至 6 月末我国已建成 70 余条算力大通道",
+   "url": "https://www.ithome.com/1/002/511.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T03:45:19Z",
+   "summary": "IT之家 9 月 15 日消息，国务院新闻办公室今日上午召开新闻发布会，国家统计局相关负责人介绍 8 月份国民经济运行情况，并答记者问。 据央视新闻报道，发布会上介绍，今年是“十五五”开局之年， 包括“六张网”在内的一批重大工程项目陆续开工建设 ，跨区域交通干线、能源水利重大工程、新型基础设施、城市更新等项目有序推进，对高质量发展的支撑作用有望进一步凸显。 前八个月，与“六张网”相关的互联网和相关服务业投资同比增长 42%，航空运输业、水上运输业投资分别增长 16.7% 和 14.7%，电力供应业投资增长 12.7%，数据显示， 截至 6 月末，我国已经围绕算力枢纽建成 70 余条算力大通道 ",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "dc98be3509f8b374",
+   "title": "Weapon shortfalls, 'hundreds' of buildings and aircraft damaged, $33.4 billion spent: the U.S. government tallies costs of the Iran war",
+   "url": "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T03:45:15Z",
+   "summary": "The department revealed that the Iran war had cost an estimated $33.4 billion as of June 29.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "d7f1f9a6842da4d9",
+   "title": "我们需要警惕一种情形：美国AI巨头的“减速论”，可能会对开源模型构成实质性绞杀",
+   "url": "https://www.tmtpost.com/8140111.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T03:43:45Z",
+   "summary": "争霸战的赢家，属于那个先让利润追上故事的人。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "77bd3e032d7a5ae2",
+   "title": "耐克和lululemon双双失速，运动品牌进入碎片化时代",
+   "url": "https://www.tmtpost.com/8140080.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T03:43:39Z",
+   "summary": "耐克和lululemon为何双双失速。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "20fcb49518245c1f",
+   "title": "酒店品牌为何纷纷“搭上”舞台？",
+   "url": "https://www.tmtpost.com/8140084.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T03:43:33Z",
+   "summary": "酒店与舞台艺术，正在打破边界。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "9e32265f48136e7d",
+   "title": "国家统计局：房地产交易总量有所改善、趋于稳定",
+   "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696676.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T03:43:07Z",
+   "summary": "中新网9月15日电 9月15日，国新办就2026年8月份国民经济运行情况举行新闻发布会。在会上，国家统计局国民经济综合统计司司长付凌晖表示，今年以来，各地区各部门坚持因城施策，调整优化房地产政策，持续控增量、去库存、优供给，多渠道盘活存量商品房、化解库存，扎实推进城市更新，积极推动住房制度调整和优化，加快构建房地产发展新模式，效果正在逐步显现。主要表现在以下几个方面：",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "cb6864187566b546",
+   "title": "A股午评：超3900只个股飘绿，深指收涨，沪指、创业板指收跌",
+   "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696678.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T03:42:37Z",
+   "summary": "A股午评：超3900只个股飘绿，深指收涨，沪指、创业板指收跌；存储芯片概念股走强，发电设备、半导体上涨；餐饮旅游、农业、保险下跌",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "044924b2f45533b5",
+   "title": "Japan’s 20-Year Bond Sale Demand Stronger Than 12-Month Average",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-15/japan-s-20-year-bond-sale-demand-stronger-than-12-month-average",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T03:40:42Z",
+   "summary": "Japan’s 20-year government bond auction Tuesday saw stronger demand than the 12-month average as elevated yields underpinned buying.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "60a487534afb128e",
+   "title": "《漫威金刚狼》今日发售：登陆索尼 PS5 平台，标准版定价 548 港币",
+   "url": "https://www.ithome.com/1/002/504.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T03:39:25Z",
+   "summary": "IT之家 9 月 15 日消息，失眠组（Insomniac Games）新作《漫威金刚狼》今日正式发售，登陆索尼 PS5 平台。 以 PSN 港服为例，标准版定价 548 港币 （现汇率约合 469.9 元人民币） ，豪华版 628 港币 （IT之家注：现汇率约合 538.5 元人民币） 。豪华版包含 5 套专属战服、5 对专属狼爪及 3 个额外技能点等内容。 本作由索尼互动娱乐发行，是一款第三人称动作冒险游戏，采用线性叙事结构，主线流程约 12 至 15 小时。 游戏体积约 79.36GB，首发补丁将使其增至约 81.4GB。在标准版 PS5 主机上开启光线追踪后，游戏仍能以每秒 60 帧的",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "d7038291d066f0f8",
+   "title": "投票：苹果 iOS 27 正式版更新推送，你升级了吗？还满意吗？",
+   "url": "https://www.ithome.com/1/002/502.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T03:38:56Z",
+   "summary": "IT之家 9 月 15 日消息， 苹果今日（9 月 15 日）凌晨推送了 iOS 27.0 正式版更新 ，迎来多项性能优化，还从底层重构聚焦、照片和邮件 App 中的搜索功能。 iOS 27 终于补足了中国大陆节假日调休闹钟，并且中文输入法也进行了优化。不过，作为新版本重点的 Siri AI 和新一代 Apple 智能暂不在中国大陆提供。 iOS 27 正式版是否合你的胃口呢？初步上手又是否满意呢？IT之家小伙伴来投票啦。 document.write(\" \"); document.getElementById(\"vote2400\").innerHTML = voteStr; document",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "ed1889d3f52db57b",
+   "title": "Indian Bonds Sink on Central Bank Debt-Sale Plan, Global Selloff",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-15/indian-bonds-fall-as-rbi-debt-sale-plan-worsens-supply-pressures",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T03:38:24Z",
+   "summary": "Indian bonds declined after the central bank said it would sell sovereign notes to drain cash from lenders, adding to the supply of debt in a year when the market is already under pressure from record government borrowing.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "44c0290733533c78",
+   "title": "Weaker Baht Boosts Thai Export, Tourism Prospects, Official Says",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-15/weaker-baht-boosts-thai-export-tourism-prospects-official-says",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T03:38:06Z",
+   "summary": "The Thai baht’s recent decline is set to bolster the Southeast Asian nation’s exports and tourism — two key drivers of the economy, according to Vice Finance Minister Santitarn Sathirathai.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "4543ad588014ec71",
+   "title": "Slimbook 推出 CUBE 多功能 NAS，提供桌面与机架形态",
+   "url": "https://www.ithome.com/1/002/497.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T03:34:59Z",
+   "summary": "IT之家 9 月 15 日消息，西班牙 Linux 兼容硬件制造商 Slimbook 当地时间 14 日宣布推出多功能电脑 CUBE。其支持存储、备份、私有云、媒体中心、个人服务器、家庭实验室等应用场景，面向家庭用户、开发者、Linux 爱好者、小型企业。 CUBE 基于 AMD 锐龙 7 8845HS 处理器，提供桌面形态的 NAS CUBE 和 2U 机架形态的 RACK CUBE 两种形态，均提供 1 个 USB-C 40Gbps、3 个 USB-A 5Gbps、 4 个 2.5GbE RJ-45 ，支持 Linux、Windows 和 TrueNAS。 两种版本的 CUBE AMD 8",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "49388e13086b6939",
+   "title": "Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets",
+   "url": "https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T03:30:20Z",
+   "summary": "Oil and 10-year Treasury yields are moving in near lockstep, with their correlation at its strongest since 2019.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "ca56dccb1878bed3",
+   "title": "艾利和推出 CLARUS 克鲁斯 Hi-Fi 入耳式耳机，21999 元",
+   "url": "https://www.ithome.com/1/002/490.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T03:26:09Z",
+   "summary": "IT之家 9 月 15 日消息，艾利和（Astell&Kern）现已在京东上架 CLARUS 克鲁斯 Hi-Fi 入耳式耳机，定价为 21999 元。 京东 艾利和 Astell&Kern CLARUS 克鲁斯耳机 21999 元 直达链接 该耳机面板采用多面切割设计，使用航空级 6061-T6 铝合金材质，表面经过银色阳极氧化工艺处理，腔体轮廓遵循人体工学造型，可提供自然贴合的佩戴体验。 声学配置上，该产品搭载 9 单元系统。其低频由定制 9 mm 动圈与两枚 Sonion 动铁单元组成，中频采用三枚 Sonion 动铁阵列，高频则结合一枚 MEMS 单元与两枚 Sonion 动铁单元。这套",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "a2b7d2e94d97fea7",
+   "title": "国家统计局谈固定资产投资下降：不能简单用增速高低来评判投资成效",
+   "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696666.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T03:25:21Z",
+   "summary": "中新网9月15日电 9月15日，国新办就2026年8月份国民经济运行情况举行新闻发布会，国家统计局新闻发言人、国民经济综合统计司副司长王冠华表示，今年前八个月我国固定资产投资同比下降7.2%，这是多方面因素共同作用的结果。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "66a4c8257cb4be1f",
+   "title": "县域消费扩容更要提质",
+   "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696667.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T03:23:50Z",
+   "summary": "商务部等9部门近期联合印发《关于进一步激发下沉市场活力 活跃县域消费的意见》，提出“促进同品同款商品城乡‘同质同享’”。这一部署直面当前县域消费市场发展瓶颈，有望充分释放消费动能。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "9b28d83f0e3ad96f",
+   "title": "直径 16.68 米：国产最大直径盾构机“中铁 1662 号”在郑州下线",
+   "url": "https://www.ithome.com/1/002/489.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T03:23:25Z",
+   "summary": "IT之家 9 月 15 日消息，由中铁隧道局、中铁四局与中铁工程装备集团共同研制的超大直径泥水平衡盾构机“中铁 1662 号”今日在河南郑州下线。该设备是中国迄今自主研制的最大直径盾构机。 “中铁 1662 号”开挖直径 16.68 米，整机长 125 米，重约 4800 吨。它将用于合肥 G4001 连接线（北二环西延工程）下穿董铺水库项目隧道建设。 IT之家注：泥水平衡盾构机通过泥浆压力平衡开挖面水土压力，控制地表沉降。该隧道盾构段长约 2.9 公里，采用双洞双层结构设计。 盾构机作业面大，且需在陡坡急弯处作业，施工环境复杂，对设备掘进控制精度及姿态调整能力提出极高要求。 “中铁 1662",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "5be4041251e09f06",
+   "title": "全球可持续交通高峰论坛（2026）9月下旬将在北京举办",
+   "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696663.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T03:22:06Z",
+   "summary": "中新网北京9月15日电(记者 张尼)记者从交通运输部获悉，交通运输部将于9月22日至23日在北京举办全球可持续交通高峰论坛(2026)，论坛主题为“可持续交通：人享其行、物畅其流”，旨在进一步凝聚国际社会推动可持续交通发展合作的共识与合力。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "3eb3704ed173e504",
+   "title": "完美世界电竞再度于上海主办 2027 反恐精英世界锦标赛",
+   "url": "https://www.ithome.com/1/002/486.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T03:21:08Z",
+   "summary": "IT之家 9 月 15 日消息，完美世界电竞今日正式宣布， 《反恐精英》2027 年冬季世界锦标赛 (Major) 将于明年 11~12 月由该组织在中国上海主办 。 完美世界电竞此前曾在 2024 年冬季主办过一次《CS》上海 Major，当时 Team Spirit 击败 FaZe Clan 赢得冠军。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "f03bb87f618b7246",
+   "title": "比亚迪腾势 N8L 纯电版开启首批车主交付，29.98 万元起",
+   "url": "https://www.ithome.com/1/002/485.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T03:17:38Z",
+   "summary": "IT之家 9 月 15 日消息，比亚迪腾势 N8L 纯电版今日开启首批车主交付。该车共推出两款车型，售价区间为 29.98 万元至 32.98 万元。 腾势 N8L 纯电版长宽高分别为 5200×1999×1820mm，轴距 3075mm，采用 2+2+2 六座布局。新车配备全新 20 英寸多辐银耀轮毂，并推出金耀墨、冬日青两款新外观色。 该车新增 208L 双层智能电动前备箱，配有带盖排水孔，可直接冲洗清洁。户外装备或沾有沙子的物品可放置其中，避免弄脏车内座椅。 内饰采用麂皮云绒顶棚、透光星空真木饰板等材质，配备 13.2 英寸液晶仪表、17.3 英寸悬浮式中控屏和 13.2 英寸副驾娱乐屏",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "d32ece5ff3a58036",
+   "title": "国家统计局：8月份经济运行呈现“三稳两快”的特点",
+   "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696654.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T03:13:28Z",
+   "summary": "中新网9月15日电 9月15日，国新办就2026年8月份国民经济运行情况举行新闻发布会，国家统计局新闻发言人付凌晖表示，从8月份主要指标来看，经济运行主要呈现“三稳两快”的特点。“三稳”表现在生产稳、就业稳、物价稳。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "b74107f545a96fdd",
+   "title": "Waymo 自动驾驶出租车商业服务目标 2027 年正式登陆日本东京市场",
+   "url": "https://www.ithome.com/1/002/484.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T03:12:43Z",
+   "summary": "IT之家 9 月 15 日消息，Alphabet 旗下自动驾驶企业 Waymo 当地时间 14 日宣布， 其 Robotaxi 商业服务目标于 2027 年正式在日本东京市场全面推出 ，具体时间表取决于日本国家与地方政府的监管批准。 Waymo 早在 2024 年 12 月就宣布了进军日本的计划，并从 2025 年开始与出租车企业日本交通、出行平台 GO 合作进行有监督的自动驾驶实地测试训练。该服务将进一步完善东京交通网络，助力日本应对交通行业的人口老龄化和未来劳动力短缺问题。 Waymo 在东京的 Robotaxi 商业部署将从少量车辆开始 ， 随后逐步扩展至约 100 辆 ，覆盖东京的主要",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "0ef380696e46bdaa",
+   "title": "国补后 38499 元七彩虹灵创 K16 顶配版开售：AMD 锐龙 AI Max+ 395，128GB 内存 + 4TB 存储",
+   "url": "https://www.ithome.com/1/002/482.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T03:12:32Z",
+   "summary": "IT之家 9 月 15 日消息，七彩虹旗下灵创 K16 游戏本新推出的 128GB RAM + 4TB SSD 版本现已开售。 该机搭载 AMD 锐龙 AI Max+ 395 处理器，定价为 39999 元，叠加国补后 38499 元。 京东 七彩虹灵创 K16 笔记本 128GB RAM + 4TB SSD 版本 39999 元 直达链接 2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。 数码补贴： 点此领券 手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。 家电补贴： 点此领券 多类家",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "228a67c5927de413",
+   "title": "2027 款一汽悦意 07 插混汽车上市：最高 235km 一汽弗迪电池，12.49 万 ~13.99 万元",
+   "url": "https://www.ithome.com/1/002/479.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T03:09:35Z",
+   "summary": "IT之家 9 月 15 日消息，2027 款一汽悦意 07 汽车今日正式上市， 官方指导价 12.49 万 ~13.99 万元 ，全系可享超级焕新补贴 1.4 万元以及 521 PLUS 终身质保权益。 150km 心悦版 12.49 万元 235km 乐享版 12.99 万元 235km 悠享版 13.99 万元 2027 款一汽悦意 07 延续了家族化设计语言，增加“晨曦棕”和“云影灰”两款配色，车身尺寸 4745 x 1880 x 1680mm，轴距 2772mm。 该车采用插电混合动力， 前置前驱 168kW 电机，搭配 1.5T 发动机 ，零百加速 6.9 秒，还有前麦弗逊 + 后多",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "6999e512eb16eee7",
+   "title": "国家统计局：1-8月全国固定资产投资（不含农户）293092亿元",
+   "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696594.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T03:05:54Z",
+   "summary": "中新网9月15日电 据国家统计局网站消息，1—8月份，全国固定资产投资(不含农户)293092亿元，同比下降7.2%。其中，知识产权产品投资同比增长9.2%。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "b7734d95c193e80f",
+   "title": "金融总量合理增长 有力支撑经济向新向优向好发展",
+   "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696655.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T03:05:11Z",
+   "summary": "央视网消息(新闻联播)：中国人民银行9月14日公布的数据显示，8月末，广义货币(M2)余额356.81万亿元，同比增长7.5%；社会融资规模存量为464.8万亿元。其中，对实体经济发放的人民币贷款余额278.63万亿元，同比增长5%。我国金融总量合理增长，社会融资条件保持宽松，为经济稳定增长和高质量发展营造了适宜的货币金融环境。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "34c4c26ccaf8b4ac",
+   "title": "请升级：任天堂向初代 Switch 推送 23.0.0 固件，修复二维码漏洞",
+   "url": "https://www.ithome.com/1/002/478.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T03:01:59Z",
+   "summary": "IT之家 9 月 15 日消息，科技媒体 Android Headline 昨日（9 月 14 日）发布博文，报道称任天堂已提醒初代 Switch 游戏掌机玩家， 尽快升级 23.0.0 固件更新，已整合二维码漏洞修复补丁。 IT之家援引博文介绍，本次二维码漏洞影响初代 Switch，而第二代 Switch 不使用二维码将图像传输至手机，因此不受该漏洞影响。 初代 Switch 系列需要用户扫描主机屏幕上的二维码，才能把游戏截图和游戏片段传至手机，再分享到社交媒体或短信。问题在于主机扫描、连接和传输内容时，对通信数据的处理存在缺陷。攻击者若能利用该缺陷，可能让主机执行未经授权的代码，并读取其中",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "84990f31a4df729a",
+   "title": "4999 元：小米推出米家智能意式半自动咖啡机 Pro",
+   "url": "https://www.ithome.com/1/002/476.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T02:56:38Z",
+   "summary": "IT之家 9 月 15 日消息，小米今日上架了一款米家智能意式半自动咖啡机 Pro，售价 4999 元。 IT之家从商品页面获悉，这款咖啡机由宁波坤林科技有限公司制造，额定功率 2200W，支持磨豆、萃取、打奶多能集成，落粉精准称重，搭载两个独立水泵与加热块，配备冷水、热水独立水路，内置 5 颗 NTC 温控探头，支持牛奶、植物奶等 5 种奶品自定义，还支持米家 App 上百种配方。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "5f6b56251f506e54",
+   "title": "2026山东民营企业百强系列榜单发布",
+   "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696643.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T02:53:18Z",
+   "summary": "中新网济宁9月15日电 (吕妍 赵加山)2026山东民营企业百强系列榜单发布会暨全省优强民企助力济宁高质量发展大会9月14日在济宁举行。山东魏桥创业集团有限公司等200家企业入围山东民营企业200强，齐鲁制药集团有限公司等100家企业入围山东民营企业创新100强，万达国贸集团有限公司等100家企业入围山东民营企业服务业100强，歌尔股份有限公司等100家企业入围山东民营企业吸纳就业100强。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "15642a52aec93282",
+   "title": "国家统计局：1-8月全国房地产开发投资总额47979亿元",
+   "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696610.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T02:51:26Z",
+   "summary": "中新网9月15日电 据国家统计局网站消息，2026年1—8月份全国房地产市场基本情况公布，具体如下：",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "a4d561b42b323d0e",
+   "title": "广东数智社会治理研究院揭牌成立",
+   "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696642.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T02:50:10Z",
+   "summary": "中新网广州9月15日电 (记者 许青青)据广州大学15日介绍，广东数智社会治理研究院(下称“研究院”)在近日举行的首届广东数智社会治理论坛上揭牌成立。广东省委社会工作部与广州大学作为共建双方正式签署合作协议，明确在理论研究、政策咨询、人才培养、实践创新等领域开展长期深度协同。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "2f72f43eedddbda1",
+   "title": "卡塔尔BH EPIC项目在山东青岛开工建造 合同总金额约40亿美元",
+   "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696641.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T02:49:02Z",
+   "summary": "中新网青岛9月15日电 (记者 胡耀杰)中国海油所属海洋石油工程股份有限公司(简称“海油工程”)15日对外宣布，卡塔尔伯哈尼(Bul Hanine)油田再开发工程总承包项目(简称“卡塔尔BH EPIC项目”)在山东省青岛西海岸新区开工建造。该项目是中国企业承揽合同金额最大、业务范围最广、综合施工难度最高的国际海洋油气工程总承包项目。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "17b3eca61e8fdccd",
+   "title": "Nickel Producer Halts Plant Ramp-Up on Indonesian Water Shortage",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-15/nickel-producer-halts-plant-ramp-up-on-indonesian-water-shortage",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T02:46:40Z",
+   "summary": "Nickel Industries Ltd. halted the ramp-up of one of its Indonesian processing plants due to water shortages, a sign of how an El-Niño linked drought is hurting output in the world’s top producer.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "e0409dc87bcf5a35",
+   "title": "Supreme Court rejects Trump’s mail-in ballot restrictions for midterms",
+   "url": "https://www.ft.com/content/b3674c9d-9db2-448d-bd57-f1c040de2d54?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T02:43:08Z",
+   "summary": "Justices Samuel Alito and Clarence Thomas dissented in an unsigned decision that comes weeks before congressional elections",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "dd8ac098234f6c84",
+   "title": "国家统计局：8月规上工业原煤产量3.6亿吨，同比下降7.7%",
+   "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696621.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T02:43:04Z",
+   "summary": "中新网9月15日电 据国家统计局网站消息，8月份，规模以上工业(以下简称规上工业)原煤生产降幅收窄，原油生产稳定增长，天然气生产由降转增，电力生产保持平稳。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "dac86333a35b7724",
+   "title": "百家号后退一步，百度想向前半步",
+   "url": "https://www.tmtpost.com/8139865.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T02:40:00Z",
+   "summary": "广告主不再只为“看见”付费。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "0e1e619c72e5a47d",
+   "title": "SoftBank-Backed SB Energy’s IPO Seeks $500 Million in Japan",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-15/softbank-backed-sb-energy-s-ipo-seeks-500-million-in-japan",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T02:38:26Z",
+   "summary": "SB Energy Inc., a data center firm backed by SoftBank Group Corp., is aiming to raise as much as $500 million in the Japanese portion of its planned initial public offering in the US, following other major deals in tapping the country’s deep pools of capital.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "36c348291bd8579d",
+   "title": "South Korea Plans Fewer Towers in Expansion of Electricity Grid",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-15/south-korea-plans-fewer-towers-in-expansion-of-electricity-grid",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T02:37:23Z",
+   "summary": "South Korea plans to cut new transmission towers by as much as 40% and put more power lines underground, as it seeks to boost grid expansion to meet rising demand from data centers and semiconductor plants.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "943c8dcf5457886f",
+   "title": "海博思创利润翻倍，现金流却承压，60亿存货堆在仓库里，这家储能第一股在下什么赌注",
+   "url": "https://www.tmtpost.com/8139705.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T02:34:00Z",
+   "summary": "海博思创利润大增但现金流恶化，囤电芯押锂价，海外业务垫资压力大。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "7b967dde3646637c",
+   "title": "India Bonds in Spotlight as Yield Premium Over Treasuries Hits 22-Year Low",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-09-15/india-bonds-in-spotlight-as-yield-premium-over-treasuries-hits-22-year-low",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T02:33:13Z",
+   "summary": "August inflation data potentially reduces the scope for RBI to remain on hold for long.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "3cde984050a12086",
+   "title": "向实而行——从25297份评价问卷中看辽宁营商之变",
+   "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696627.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T02:31:35Z",
+   "summary": "中新网沈阳9月15日电 (刘家良)营商环境建设非一日之功。《2026上半年辽宁营商环境成效跟踪评价报告》在客观记录全省营商环境稳步进步的同时，不回避、不遮掩经营主体集中反映的各类痛点、堵点、难点。数据向好只是全新起点，想要实现彻底突围、塑造核心竞争优势，仍需啃下多项改革“硬骨头”。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "89f04f614fb7ba82",
+   "title": "国家统计局：1-8月份社会消费品零售总额增长1.1%",
+   "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696606.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T02:31:19Z",
+   "summary": "中新网9月15日电 据国家统计局网站消息，1—8月份，社会消费品零售总额327569亿元，同比增长1.1%。其中，除汽车以外的消费品零售额301764亿元，增长2.7%。8月份，社会消费品零售总额39824亿元，同比增长0.4%。其中，除汽车以外的消费品零售额36545亿元，增长2.5%。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "7970f8cbaadc1498",
+   "title": "China’s economy shows signs of weakness as investment slumps",
+   "url": "https://www.ft.com/content/d9158802-5836-441a-9969-47409044c503?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T02:26:44Z",
+   "summary": "Weakening domestic indicators add pressure on policymakers to increase stimulus spending",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "c452274a987a076c",
+   "title": "储能踩刹车，谁是赢家谁是输家",
+   "url": "https://www.tmtpost.com/8139309.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T02:25:00Z",
+   "summary": "跑马圈地的日子结束了。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "42e84fcd40630841",
+   "title": "54万亩、20亿产值，湖南这座城区为啥还不满足？",
+   "url": "https://www.tmtpost.com/8139928.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T02:21:00Z",
+   "summary": "对于鼎城来说，油茶不仅是一棵树、一滴油，更是一个关于乡村振兴的生动注脚。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "f95e790699b296d4",
+   "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
+   "url": "https://www.qbitai.com/2026/09/489227.html",
+   "source": "量子位",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T02:17:34Z",
+   "summary": "几百个Agent参与研发，AI开始造AI",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "e8766222f1fec5d1",
+   "title": "罗永浩可能是所有品牌公关的“恩人”",
+   "url": "https://www.tmtpost.com/8139845.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T02:16:00Z",
+   "summary": "罗永浩骂得越狠，品牌学得越多？",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "06fe5ee02e9d9a2a",
+   "title": "微信桌面端变“三折叠”，可能是在给小微腾位置",
+   "url": "https://www.tmtpost.com/8139803.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T02:08:00Z",
+   "summary": "友商跑马圈地忙，张小龙为什么不着急？",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "6ed94d6c222143e9",
+   "title": "“十五五”20万亿能源投资怎么分？每天100亿砸下去，电源侧、电网侧和新业态三条主线的三种玩法",
+   "url": "https://www.tmtpost.com/8139704.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T02:02:00Z",
+   "summary": "十五五能源投资超 20 万亿，分电源、电网、新业态三条主线布局。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "cd4d112dca8f1720",
+   "title": "Traxion Executive President-Linked Firm Plans Tender Offer",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-15/traxion-executive-president-linked-firm-plans-tender-offer-mu20z059",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T02:00:44Z",
+   "summary": "A company linked to Grupo Traxion’s Executive President Aby Lijtszain Chernizky plans to launch a tender offer for as much as 100% of the Mexican logistics company’s shares.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "d4c54dac43f97a6d",
+   "title": "不止一颗CPU？智能体经济时代，Arm对算力平台有了新理解",
+   "url": "https://www.leiphone.com/category/chipdesign/9c9xucIBDVwB5OYz.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T01:58:00Z",
+   "summary": "导语：200瓦功耗之差的新战场 记者：郭思 编辑：包永刚 9月9号，人社部公布了第八批新职业名单，尤为瞩目的一个新职位是智能体开发员。岗位的正式确立，意味着相关技术已走向主流，而背后则是底层技术的实质性跃迁，当模型不再停留在问答层面，而是开始具备“行动”能力——底层算力的需求结构也在重塑。智能体在运行过程中，需要频繁地获取数据、调用工具并等待结果返回，这对系统的响应延迟提出了极高的敏感度。因此，以往“唯算力论”的粗放型资源配置模式，已逐渐失去经济性与合理性。 正是在这一技术范式转移的关键节点，产业界给出了最直接的回应。就在职业名单公布的前一天（9月8日），Arm在Arm Everywhere ",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "ef5c3e33340498ec",
+   "title": "去东南亚开酒店，中国品牌这波出海能扎下根吗？",
+   "url": "https://www.tmtpost.com/8139686.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T01:56:00Z",
+   "summary": "这不是第一家中国酒店出海，也不会是最后一家。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "b79c7a696bedd7dd",
+   "title": "Oil extends gains following Houthi strikes on Saudi Arabia",
+   "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T01:55:53Z",
+   "summary": "Oil extended gains amid reports of fresh Houthi strikes on Saudi Arabia and attacks by Iran on ships in the Gulf.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "bc79bbd7ca3b9eb3",
+   "title": "AI下半场，Anthropic、DeepSeek与智谱屯粮备战",
+   "url": "https://www.tmtpost.com/8139551.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T01:49:00Z",
+   "summary": "9月，大模型行业，资本市场的信号密集传来。",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "5c0d3a8b19f3c895",
+   "title": "Russian businessman bankrolls Donald Trump Jr’s Bahamas wedding after-party",
+   "url": "https://www.ft.com/content/3de68677-ef80-4dd9-b31b-7a10fea385ed?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T01:03:47Z",
+   "summary": "President’s son and his wife confirm Umar Kremlev, who is reportedly close to Vladimir Putin, paid for part of celebration",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "c546f1454fbaac80",
+   "title": "Prabowo’s Economic Team Reset Leaves Investors Wanting More",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-15/prabowo-s-economic-team-overhaul-leaves-investors-wanting-more",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T01:02:44Z",
+   "summary": "President Prabowo Subianto’s economic team overhaul is seen by investors as an acknowledgment that his policies have come at a cost and a signal of a return to more stable policymaking.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "2fb54c9608d7f6a0",
+   "title": "Bourses and Brokers May Win From India’s Proposed Auction Revamp",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-15/bourses-and-brokers-may-win-from-india-s-proposed-auction-revamp",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T01:00:00Z",
+   "summary": "Stock exchanges and brokers may be among the biggest beneficiaries of the Securities and Exchange Board of India’s proposed changes to the newly launched closing auction system that’s caused chaos, while market makers may face tighter constraints.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "602365ea69d7fbfd",
+   "title": "Supreme Court rejects Trump bid to lift block on U.S. Postal Service mail-in ballots rule",
+   "url": "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T00:48:36Z",
+   "summary": "Justice Brett Kavanaugh said that applying the U.S. Postal Service rule in the 2026 midterm elections \"would be arbitrary and capricious.\"",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "5696899b21b060d7",
+   "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+   "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+   "source": "Hacker News",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T00:40:14Z",
+   "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 68 # Comments: 31",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "eebe6fa1c6a518bc",
+   "title": "China tightens control of overseas travel in sweeping new law",
+   "url": "https://www.ft.com/content/3f2b2172-0c1a-4708-aba2-559eb37eabc8?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-15T00:28:53Z",
+   "summary": "President Xi Jinping steps up efforts to secure state secrets, advanced technology and highly skilled workers",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "bf13c1a61013bc79",
+   "title": "担心代码被拿去训练！英伟达：限制员工使用 Claude；一汽将成广汽第二大股东！南北丰田拟合并；苹果回应「iPhone 18 Pro破发」",
+   "url": "https://www.leiphone.com/category/zaobao/SrmCbu60oiAwTvkH.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-15T00:23:00Z",
+   "summary": "要闻提示 1.突发！英伟达：限制员工使用 Claude 2.重磅，一汽将成广汽第二大股东！南北丰田拟合并 3.苹果回应“iPhone 18 Pro破发”：第三方渠道有自己的定价权 4.比亚迪高管：燃油车没有未来 5.罗永浩遭前合伙人黄斌怒喷：一辈子都在吹牛，挺可怜的 6.高瓴90后合伙人严文韬或加入DeepSeek担任CFO，已发起离职流程 7.程序员为用公司算力干私活：一条代码删掉89TB数据获刑 8.马斯克预热特斯拉跑车，博主李杰灵晒赛博皮卡订单称“表示怀疑” 今日头条 突发！英伟达：限制员工使用 Claude 9 月 14 日，据外媒报道，英伟达、Palantir、Booz Allen ",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "764c6e93c3037cbf",
+   "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+   "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+   "source": "The Verge",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-15T00:13:47Z",
+   "summary": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how and when we can deliver something like that,\" Valv",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
   {
    "id": "6e05b36ecf92750d",
    "title": "AI 负责创造，人来干脏活，这事儿能否停一下？",
@@ -153,6 +1539,116 @@
    "published": "2026-09-15T00:08:00Z",
    "summary": "点击查看原文>",
    "fetched_at": "2026-09-14T17:54:31Z"
+  },
+  {
+   "id": "be93ef82d95dc088",
+   "title": "Gold Trades Near $4,300 as Higher Oil Stokes Rate-Hike Bets",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-14/gold-holds-losses-as-higher-oil-stokes-september-rate-hike-bets",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T23:49:50Z",
+   "summary": "Gold held a decline as increasing disruptions to oil flows from the Middle East reinforced expectations the Federal Reserve will raise interest rates as soon as this week.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "7ea538c6fefeb5c1",
+   "title": "Samsung backs Nvidia AI chip rival in $230 million funding round as GPU alternatives boom",
+   "url": "https://www.cnbc.com/2026/09/14/samsung-euclyd-ai-chip-funding.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T23:30:02Z",
+   "summary": "Dutch startup Euclyd raised the funding in a round co-led by Samsung, Somerset Capital Partners, the Scaleup Europe Fund and Innovation Industries.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "67abcfaab9017909",
+   "title": "US military reveals it has weapons in space",
+   "url": "https://www.ft.com/content/09d62f21-8697-4518-bca0-3699b4dd866c?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T23:04:50Z",
+   "summary": "Security experts warn announcement could result in the proliferation of weapons by other governments",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "eeb17aa127f5bac7",
+   "title": "Junk Debt From Asia Is Beating Bonds Almost Everywhere in 2026",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-14/asian-junk-debt-is-beating-returns-on-bonds-almost-everywhere",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T23:00:00Z",
+   "summary": "Asian high-yield debt has emerged as a surprising global winner in bond markets as ever-cheaper money in China burnishes issuer finances.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "e4b50f354b69134d",
+   "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+   "source": "The Verge",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-14T22:59:41Z",
+   "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontie",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "fb264a33be35afb5",
+   "title": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
+   "url": "https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T22:43:25Z",
+   "summary": "Broadcom CEO Hock Tan said demand for AI infrastructure remains strong despite growing concerns about increasingly powerful models.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "3ca7ed1825fc35d9",
+   "title": "Apple Home’s new security camera features cost as much as $60 a month",
+   "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+   "source": "The Verge",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-14T22:28:52Z",
+   "summary": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short text descriptions of who and what compatible secur",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "78c7338f0957dd2e",
+   "title": "Mitch McConnell returns to Senate after three-month health absence",
+   "url": "https://www.cnbc.com/2026/09/14/mitch-mcconnell-returns-senate-capitol-health-fall.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T22:23:38Z",
+   "summary": "The 84-year-old Kentucky Republican is back in Washington after a fall, hospitalization, pneumonia and weeks of rehabilitation kept him away from the Senate.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "df8943e60681e40b",
+   "title": "Oil Gains, Asian Bonds Fall on Inflation Concerns: Markets Wrap",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-14/asian-stocks-to-fall-on-ai-key-us-yield-tops-5-markets-wrap",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T22:19:06Z",
+   "summary": "Crude oil extended its rally and Asian bonds tracked Treasuries lower as higher energy prices fueled inflation concerns and strengthened bets on a Federal Reserve interest-rate hike.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "793f79f3c28f1f52",
+   "title": "Latest Oil Market News and Analysis for Sept. 15",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-14/latest-oil-market-news-and-analysis-for-sept-15",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T22:04:31Z",
+   "summary": "Oil rose for a second day as traders weighed disruptions to Middle East supplies, with a critical Saudi Arabian pipeline still offline.",
+   "fetched_at": "2026-09-15T04:01:59Z"
   },
   {
    "id": "32b5eeeb572ef47f",
@@ -188,6 +1684,182 @@
    "fetched_at": "2026-09-14T17:54:31Z"
   },
   {
+   "id": "aca68d0b8fdf48fb",
+   "title": "Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’",
+   "url": "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T21:32:03Z",
+   "summary": "President Trump has been using his social media site to sound off on Anthropic CEO Dario Amodei's suggestion that the AI industry slow its pace of development.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "fa0bf0a9d2fe12e2",
+   "title": "What execs and politicians are saying about slowing down AI development",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+   "source": "The Verge",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-14T21:21:42Z",
+   "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compi",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "8c13889dc16ced6e",
+   "title": "The contagion of fear",
+   "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+   "source": "Simon Willison",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-14T21:18:13Z",
+   "summary": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the end of the decade\". Bryan shares a story of his own youthful mistakes causing unjustified panic among less technical pee",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "41b6d7a1cb40903b",
+   "title": "Trump administration repeals Biden era greenhouse gas requirements for power plants",
+   "url": "https://www.cnbc.com/2026/09/14/trump-epa-carbon-dioxide-power-plant-climate-change.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T20:45:52Z",
+   "summary": "President Donald Trump has systemically dismantled regulations implemented by the Obama and Biden administrations that sought to fight climate change.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "036dfabe9171537e",
+   "title": "Trump throws out power plant climate pollution rules",
+   "url": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
+   "source": "The Verge",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-14T20:45:00Z",
+   "summary": "The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The move will only make electricity dirtier as AI, electric vehicles, and a revival of domestic manufacturing drive up power ",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "1970309eae1842e4",
+   "title": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
+   "url": "https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html",
+   "source": "CNBC Economy",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T20:34:23Z",
+   "summary": "The muted outlook from the country's second-largest bank by assets could be an early signal that Wall Street's AI boom might have hit turbulence.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "6fda9df2a11dbe45",
+   "title": "What blog posts influenced your thinking the most?",
+   "url": "https://simonwillison.net/2026/Sep/14/influences/",
+   "source": "Simon Willison",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-14T20:21:48Z",
+   "summary": "My comment on What blog posts influenced your thinking the most? — Lobste.rs. An early Joel Spolsky one for me was The Law of Leaky Abstractions . I read that near the start of my career and it's encouraged me to always be looking for improved understanding of the layers under where I'm working, jus",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "d70ab1117f4f0df7",
+   "title": "Carney urges EU to cement trade deal as Ottawa seeks pivot from US",
+   "url": "https://www.ft.com/content/1a1d76fc-e02b-40ee-8afc-b45ab9f17c0f?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T20:19:24Z",
+   "summary": "Canada’s prime minister tells FT deeper ties with Europe will make both sides ‘more resilient’ amid Trump turmoil",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "0b4285d3340b48bf",
+   "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+   "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+   "source": "The Verge",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-14T20:03:37Z",
+   "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launche",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "82404ffdc91b1cd3",
+   "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+   "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+   "source": "Hacker News",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-14T19:56:20Z",
+   "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombinator.com/item?id=49703003 Points: 126 # Comments: 118",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "c649bc11d7543522",
+   "title": "Valve’s virtual reality plans hit actual reality",
+   "url": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
+   "source": "The Verge",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-14T19:48:06Z",
+   "summary": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted us the same way they've impacted everybody,\" Valv",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "858286a35aab5c95",
+   "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
+   "url": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T19:47:42Z",
+   "summary": "Traders were pricing in a better than 92% probability of a rate increase, as well as a more than 75% chance for another one in December.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "0410dea45e1ff453",
+   "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
+   "url": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
+   "source": "The Verge",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-14T19:30:58Z",
+   "summary": "As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its “Customer Appreciation” sale is happening because of tariff-related refunds it received from the US government, and it ends on September 2",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "6860ae25bff9c85f",
+   "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+   "source": "Google AI Blog",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-14T19:00:00Z",
+   "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "85dba6e1f5c968b9",
+   "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+   "url": "https://pub.sakana.ai/pc-alm/",
+   "source": "Hacker News",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-14T18:03:12Z",
+   "summary": "https://arxiv.org/abs/2605.31022 https://github.com/SakanaAI/pc-alm Comments URL: https://news.ycombinator.com/item?id=49701182 Points: 55 # Comments: 12",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "b847922400c782cf",
+   "title": "The AI industry has taken a doomer turn. What now?",
+   "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+   "source": "MIT Technology Review",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-14T17:54:22Z",
+   "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the techn",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
    "id": "ce300d2e533ca08d",
    "title": "Trump agrees to ethics requirements in crypto Clarity Act as GOP seeks Democratic votes",
    "url": "https://www.cnbc.com/2026/09/14/clarity-act-senate-vote-crypto-regulation.html",
@@ -197,6 +1869,17 @@
    "published": "2026-09-14T17:50:36Z",
    "summary": "Community banks fear customers will withdraw deposits to buy stablecoin crypto assets that could pay higher yields.",
    "fetched_at": "2026-09-14T17:54:31Z"
+  },
+  {
+   "id": "03f1b5d4496010a6",
+   "title": "iOS 27, iPadOS 27, and macOS 27",
+   "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+   "source": "Hacker News",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-14T17:50:29Z",
+   "summary": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/ Comments URL: https://news.ycombinator.com/item?id=49701004 Points: 450 # Comments: 497",
+   "fetched_at": "2026-09-15T04:01:59Z"
   },
   {
    "id": "12647e07fc0357f8",
@@ -351,6 +2034,17 @@
    "published": "2026-09-14T17:16:53Z",
    "summary": "",
    "fetched_at": "2026-09-14T17:54:31Z"
+  },
+  {
+   "id": "7d69374969455963",
+   "title": "As the oil surge continues, trader Mike Khouw sees more upside in this surging name",
+   "url": "https://www.cnbc.com/2026/09/14/as-the-oil-surge-continues-trader-mike-khouw-sees-more-upside-in-this-surging-name.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T17:16:23Z",
+   "summary": "Michael Khouw breaks down how he's trading this energy name.",
+   "fetched_at": "2026-09-15T04:01:59Z"
   },
   {
    "id": "d0ec5ffb4c083e22",
@@ -925,6 +2619,17 @@
    "fetched_at": "2026-09-14T17:54:31Z"
   },
   {
+   "id": "5bd8289ee6266184",
+   "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+   "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+   "source": "Hacker News",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-14T14:29:23Z",
+   "summary": "Article URL: https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/ Comments URL: https://news.ycombinator.com/item?id=49697477 Points: 55 # Comments: 17",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
    "id": "3fac0390eeaed2aa",
    "title": "3D 打印龙头拓竹官宣 9 月 22 日发布 R1 激光切割机",
    "url": "https://www.ithome.com/1/002/304.htm",
@@ -934,6 +2639,17 @@
    "published": "2026-09-14T14:09:34Z",
    "summary": "IT之家 9 月 14 日消息，今日，3D 打印龙头拓竹官宣将于 9 月 22 日 22:00 发布 R1 激光切割机。 8 月 13 日， 拓竹已预热激光产品 R1 。IT之家注意到，UV 打印机是一种免制版全彩色数码印刷机，不受材料限制，可以在 T 恤、移门、柜门、推拉门、玻璃、板材、各种标牌、水晶、PVC、亚克力、金属、塑料、石材、皮革等表面进行彩色照片级印刷，可以实现部分 3D 浮雕效果，不过整体还是偏向 2D 印刷。 作为国内消费级 3D 打印机龙头企业，拓竹科技消费级 3D 打印机国内累计销量 已突破 100 万台 ，距其首款产品上市仅约 4 年。 根据拓竹官方的 2025 年国内",
    "fetched_at": "2026-09-14T17:54:31Z"
+  },
+  {
+   "id": "febc8a742196586b",
+   "title": "National specialty clothing chain closing all its stores",
+   "url": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T14:07:00Z",
+   "summary": "",
+   "fetched_at": "2026-09-15T04:01:59Z"
   },
   {
    "id": "7396346a6a5ef8d6",
@@ -967,6 +2683,17 @@
    "published": "2026-09-14T14:04:53Z",
    "summary": "Article URL: https://spectrum.ieee.org/adversarial-fashion Comments URL: https://news.ycombinator.com/item?id=49697094 Points: 46 # Comments: 24",
    "fetched_at": "2026-09-14T17:54:31Z"
+  },
+  {
+   "id": "078c69822839e7cd",
+   "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+   "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+   "source": "Hacker News",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-14T13:59:09Z",
+   "summary": "Article URL: https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/ Comments URL: https://news.ycombinator.com/item?id=49697014 Points: 122 # Comments: 68",
+   "fetched_at": "2026-09-15T04:01:59Z"
   },
   {
    "id": "81cb09e1bf4ca1f7",
@@ -1145,6 +2872,17 @@
    "fetched_at": "2026-09-14T17:54:31Z"
   },
   {
+   "id": "0cbcfb95692855d5",
+   "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+   "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+   "source": "Hacker News",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-09-14T13:38:58Z",
+   "summary": "Article URL: https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete Comments URL: https://news.ycombinator.com/item?id=49696697 Points: 99 # Comments: 92",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
    "id": "8d28284eeccf277b",
    "title": "宁夏彭阳健全联农带农利益联结机制 铺就农户增收“快车道”",
    "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696380.shtml",
@@ -1176,6 +2914,17 @@
    "published": "2026-09-14T13:38:32Z",
    "summary": "",
    "fetched_at": "2026-09-14T17:54:31Z"
+  },
+  {
+   "id": "fd0feba3cb09cb4e",
+   "title": "Costco rations Kirkland motor oil, raises price to $57.99",
+   "url": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T13:33:08Z",
+   "summary": "",
+   "fetched_at": "2026-09-15T04:01:59Z"
   },
   {
    "id": "0627729e7fbb37ca",
@@ -1495,6 +3244,17 @@
    "published": "2026-09-14T10:00:10Z",
    "summary": "Prince Michael of Liechtenstein accuses EU of ‘bureaucratic zeal’ over anti-money laundering rules",
    "fetched_at": "2026-09-14T17:54:31Z"
+  },
+  {
+   "id": "5d4c45f6242105d4",
+   "title": "国产智驾芯片新纪录，被产业伙伴联合书写的里程碑",
+   "url": "https://www.leiphone.com/category/transportation/DMdDed44liSYTSBx.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-09-14T10:00:00Z",
+   "summary": "2025年，中国生产了3453.1万辆汽车，连续17年位居全球第一。即便规模巨大，中国汽车产量仍在快速增长，其中新能源汽车产量同比增长29%。 当中国车企在电动化赛道上已经跑赢全球，另一场更为隐秘的战争才刚刚分出胜负：装进汽车里的那颗“ 大脑”，正在从海外公司的手里，被一家中国公司夺回来。 汽车产量逐年增加，装进汽车里的国产智驾芯片，出货也同步加速。 国内量产规模最高的地平线征程系列，累计出货突破 1500万套。第一个500万套用了近四年，到了第三个500万套，时间已经缩短到约一年。 1500万套，意味着 上千万辆 中国汽车，第一次用上了中国人自己造的智驾芯片，也意味着从十几万的代步车到三四十",
+   "fetched_at": "2026-09-15T04:01:59Z"
   },
   {
    "id": "482de76a6dac2943",
@@ -2498,6 +4258,17 @@
    "fetched_at": "2026-09-14T04:03:10Z"
   },
   {
+   "id": "dc0701bb2ac8efac",
+   "title": "38-year-old beloved steakhouse chain closing over 40 locations",
+   "url": "https://finance.yahoo.com/small-business/articles/38-old-beloved-steakhouse-chain-020300119.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T02:03:00Z",
+   "summary": "",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
    "id": "091213ca4d003d00",
    "title": "China’s Economy Enters Critical Phase Determining 2026 Stimulus",
    "url": "https://www.bloomberg.com/news/articles/2026-09-14/china-s-economy-enters-critical-phase-determining-2026-stimulus",
@@ -2760,6 +4531,17 @@
    "published": "2026-09-14T01:05:56Z",
    "summary": "Most battery cells currently rely on raw materials from China. GM is seeking to establish domestic supply chains both for EVs and energy storage.",
    "fetched_at": "2026-09-14T01:45:21Z"
+  },
+  {
+   "id": "99ae794388a0288c",
+   "title": "AI agents to start spending your money with Visa, Mastercard",
+   "url": "https://finance.yahoo.com/technology/ai/articles/ai-agents-start-spending-money-010300686.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-14T01:03:00Z",
+   "summary": "",
+   "fetched_at": "2026-09-15T04:01:59Z"
   },
   {
    "id": "2f61b197bc534916",
@@ -3246,6 +5028,17 @@
    "fetched_at": "2026-09-14T01:46:43Z"
   },
   {
+   "id": "ec445243804be0b7",
+   "title": "Wonder Deal, $240M Cash, and 31% Short Interest. A Short Squeeze Could Be Brewing in Serve Robotics Stock.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/wonder-deal-240m-cash-31-183225342.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T18:32:25Z",
+   "summary": "",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
    "id": "8b6c5a92da638f26",
    "title": "Apple is reportedly working on iPhone game controllers",
    "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
@@ -3255,6 +5048,17 @@
    "published": "2026-09-13T18:30:16Z",
    "summary": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's cod",
    "fetched_at": "2026-09-14T01:45:21Z"
+  },
+  {
+   "id": "9d480a38136b4214",
+   "title": "Nvidia’s Jensen Huang Just Delivered a Huge Vote of Confidence to CoreWeave and Nebius",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-jensen-huang-just-delivered-183002396.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T18:30:02Z",
+   "summary": "",
+   "fetched_at": "2026-09-15T04:01:59Z"
   },
   {
    "id": "a47918347f45abf3",
@@ -3301,6 +5105,61 @@
    "fetched_at": "2026-09-14T01:46:43Z"
   },
   {
+   "id": "e3c23ff4b059c933",
+   "title": "Navan (NAVN) Rides Enterprise Momentum Into Events and Meetings Through BoomPop Deal",
+   "url": "https://finance.yahoo.com/technology/ai/articles/navan-navn-rides-enterprise-momentum-171047781.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T17:10:47Z",
+   "summary": "",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "2c112cd78b0a2e11",
+   "title": "Dear SpaceX Stock Fans, Mark Your Calendars for September 21",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/dear-spacex-stock-fans-mark-170826925.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T17:08:26Z",
+   "summary": "",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "dac266ce7757d424",
+   "title": "Korn Ferry (KFY) Expands Global Standing With AMS Acquisition",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/korn-ferry-kfy-expands-global-170618310.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T17:06:18Z",
+   "summary": "",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "f70eda1b5b82b37b",
+   "title": "Fed Decision, Retail Sales and Other Can't Miss Items This Week",
+   "url": "https://finance.yahoo.com/economy/policy/articles/fed-decision-retail-sales-other-170002358.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T17:00:02Z",
+   "summary": "",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
+   "id": "920214244b0d3dfe",
+   "title": "AMD and Intel’s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both Stocks?",
+   "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-shared-ai-instructions-165917161.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T16:59:17Z",
+   "summary": "",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
    "id": "b809d89bf56d74aa",
    "title": "Here are the 2 big things we're watching in this week's stock market",
    "url": "https://www.cnbc.com/2026/09/13/here-are-the-2-big-things-were-watching-in-this-weeks-stock-market.html",
@@ -3312,6 +5171,17 @@
    "fetched_at": "2026-09-14T01:45:21Z"
   },
   {
+   "id": "eae129e19238ac5e",
+   "title": "Jim Cramer Suggests Waiting for a Lower Entry on Howmet Aerospace (HWM)",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-waiting-lower-165503524.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T16:55:03Z",
+   "summary": "",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
    "id": "4e3f293e30946b2a",
    "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
    "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
@@ -3321,6 +5191,17 @@
    "published": "2026-09-13T16:52:33Z",
    "summary": "Article URL: https://twitter.com/DavidSacks/status/2098973625252708460 Comments URL: https://news.ycombinator.com/item?id=49685991 Points: 255 # Comments: 189",
    "fetched_at": "2026-09-14T01:45:21Z"
+  },
+  {
+   "id": "68ee3db02b5fcbd0",
+   "title": "Being a millionaire isn’t enough to join America’s top 10% — here’s the net worth it actually takes to be in the top",
+   "url": "https://finance.yahoo.com/markets/articles/being-millionaire-isn-t-enough-164500172.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T16:45:00Z",
+   "summary": "",
+   "fetched_at": "2026-09-15T04:01:59Z"
   },
   {
    "id": "5a84f4505f06fb75",
@@ -3354,6 +5235,17 @@
    "published": "2026-09-13T16:11:26Z",
    "summary": "Train struck on route used by David Petraeus, Boris Johnson, Carl Bildt and other senior officials",
    "fetched_at": "2026-09-14T01:46:43Z"
+  },
+  {
+   "id": "2e70ff295fb00784",
+   "title": "Zcash Price Prediction: Bearish RSI Divergence Sets Stage for Pullback to $850",
+   "url": "https://finance.yahoo.com/markets/crypto/articles/zcash-price-prediction-bearish-rsi-160848407.html",
+   "source": "Yahoo Finance",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-13T16:08:48Z",
+   "summary": "",
+   "fetched_at": "2026-09-15T04:01:59Z"
   },
   {
    "id": "e0d5487f6471d506",
@@ -4742,6 +6634,17 @@
    "fetched_at": "2026-09-14T01:45:21Z"
   },
   {
+   "id": "76fb4e83c26009e0",
+   "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+   "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+   "source": "CNBC Economy",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-09-11T16:06:31Z",
+   "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
+   "fetched_at": "2026-09-15T04:01:59Z"
+  },
+  {
    "id": "30bdba9275f0627a",
    "title": "Quoting huggingface.co/security.txt",
    "url": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
@@ -4839,314 +6742,6 @@
    "published": "2026-09-11T14:37:21Z",
    "summary": "中国各地分布着逾 12,000 座废弃煤矿，这些煤矿拥有巨大的地下空间和完善的基础设施，具备改造利用的潜力。太原理工大学、山西省煤基资源绿色高效开发工程中心等机构的研究人员在《中国矿业》期刊上发表论文，提议利用废弃煤矿展开农业试验。废弃煤矿的一个显而易见的缺陷是缺乏农作物所必须的阳光和降雨，但优点是地下环境能精确调控，不受天气波动、气候变化及自然灾害的影响。研究人员称，“在全球气候变化加剧及极端与封闭环境农业需求不断增长的背景下，探索煤矿地下空间农业实验模式具有重要科学意义与工程价值。”研究团队进行了一番评估，认为部分煤矿能提供足够稳定的环境可用于农业种植。研究人员称，“结果表明：在围岩稳定性",
    "fetched_at": "2026-09-14T01:45:21Z"
-  },
-  {
-   "id": "05db07f33fba6879",
-   "title": "Don't sleep on wrapture",
-   "url": "https://simonwillison.net/2026/Sep/11/wrapture/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-09-11T13:51:32Z",
-   "summary": "Graham Dumpleton's new monkey patching package wrapture is shaping up to be an indispensable tool for Python developers. I'm not sure why I've seen so little buzz about it! Graham has been posting new tutorials for it almost daily since the initial release on August 31st. Here's everything he's publ",
-   "fetched_at": "2026-09-14T01:45:21Z"
-  },
-  {
-   "id": "ba60b3599a47b9d8",
-   "title": "儿童因经常将笔记本电脑放在腹部而出现烤肤症",
-   "url": "https://www.solidot.org/story?sid=85352",
-   "source": "Solidot",
-   "category": "tech",
-   "category_name": "计算机科学与技术",
-   "published": "2026-09-11T12:46:03Z",
-   "summary": "《BMJ Case Reports》报告了一起奇特的病例，一名儿童因腹部皮肤出现奇怪斑痕而送去急症。医生查找许久未发现病因，因此开了抗生素让他回家，叮嘱父母如果病情变化立即来复诊。两周后，这名儿童再次入院，他的病情出现恶化。皮肤斑块变大，颜色变深，且有触痛。这名儿童透露了一个情况，他是在家上学，经常使用笔记本电脑，他习惯将笔电放在腹部，有时一用就是八个小时，还经常在电脑充电时使用。医生终于明白了他的病因，诊断他患有 Erythema ab igne（EAI），也被称为烤肤综合征（toasted skin syndrome），一种因反复、长时间接触低强度热源而引发的皮肤病，多见于成年人，常见诱因",
-   "fetched_at": "2026-09-14T01:45:21Z"
-  },
-  {
-   "id": "73203b681b5a8dca",
-   "title": "Fine-Tuning Agentic AI: A Practical Guide",
-   "url": "https://machinelearningmastery.com/fine-tuning-agentic-ai-a-practical-guide/",
-   "source": "Machine Learning Mastery",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-09-11T12:00:50Z",
-   "summary": "In this article, you will learn how to fine-tune an agentic AI system holistically, covering all four critical dials: training data, parameter-efficient fine-tuning, runtime hyperparameters,...",
-   "fetched_at": "2026-09-14T01:45:21Z"
-  },
-  {
-   "id": "8f66268b81b13eb1",
-   "title": "Sub-$100 smartphones becoming a rarity as AI memory prices soar",
-   "url": "https://www.cnbc.com/2026/09/11/cheap-china-smartphones-rare-memory-ai-costs.html",
-   "source": "CNBC Markets",
-   "category": "finance",
-   "category_name": "金融财经",
-   "published": "2026-09-11T11:59:39Z",
-   "summary": "The days of the sub-$100 smartphone may be numbered, including in China.",
-   "fetched_at": "2026-09-14T01:45:21Z"
-  },
-  {
-   "id": "5bb9d799ec206a51",
-   "title": "Rust 语言成为微软的一级支持语言",
-   "url": "https://www.solidot.org/story?sid=85351",
-   "source": "Solidot",
-   "category": "tech",
-   "category_name": "计算机科学与技术",
-   "published": "2026-09-11T11:04:52Z",
-   "summary": "微软 Rust 工具团队首席工程师 Victor Ciura 在本周举行的 RustConf 大会宣布，微软已将 Rust 语言指定为“一级（Tier One）”支持语言，与 C++、C# 和 TypeScript 处于同一位置。Ciura 表示，微软构建了一套完善的工具和流程体系，为 Rust 语言在整个软件开发生命周期中的本地开发提供支持。Rust 语言是一种内存安全的高性能语言，已被微软逾百个项目库使用。为减少内存相关 bug，Rust 语言正被用于重构从数据库到包管理器等各种软件项目。",
-   "fetched_at": "2026-09-14T01:45:21Z"
-  },
-  {
-   "id": "0cb61e383c65cdd3",
-   "title": "25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access",
-   "url": "https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html",
-   "source": "CNBC Economy",
-   "category": "finance",
-   "category_name": "金融财经",
-   "published": "2026-09-11T11:00:01Z",
-   "summary": "Years after 9/11, the U.S. government is walking back some security screenings as threats and technology evolve.",
-   "fetched_at": "2026-09-14T01:45:21Z"
-  },
-  {
-   "id": "c7d3c8aeae425678",
-   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-   "source": "OpenAI News",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-09-11T10:00:00Z",
-   "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-   "fetched_at": "2026-09-14T01:45:21Z"
-  },
-  {
-   "id": "0dea70b6eb2efaae",
-   "title": "约会软件在消失",
-   "url": "https://www.solidot.org/story?sid=85350",
-   "source": "Solidot",
-   "category": "tech",
-   "category_name": "计算机科学与技术",
-   "published": "2026-09-11T09:57:39Z",
-   "summary": "很多人的智能手机上可能仍然安装了约会软件，但打开频率日益下降。2026 年的一项 Harris 民调显示，三分之二的单身人士没有使用过约会软件，而八成美国人将现实生活中认识某个人视为“可爱”或“酷”。约会软件承诺提供丰富的选择：成百上千的潜在伴侣，足不出户即可触达。但这种丰富性也带来了新的负担。每次使用都需要用户做出一系列繁琐的决定——是否滑动屏幕、发起对话、维持对话、安排约会，还是继续寻找更合适的人。研究表明，这个过程会让人精疲力竭。亚利桑那州立大学 Relationships and Technology Lab 主任 Liesel Sharabi 领导的一项纵向研究，追踪了约会软件用户 ",
-   "fetched_at": "2026-09-14T01:45:21Z"
-  },
-  {
-   "id": "0860e76d0f1fff8d",
-   "title": "2026 年 8 月是全球有记录以来最热的月份，并列第一",
-   "url": "https://www.solidot.org/story?sid=85349",
-   "source": "Solidot",
-   "category": "tech",
-   "category_name": "计算机科学与技术",
-   "published": "2026-09-11T09:05:16Z",
-   "summary": "欧盟哥白尼气候变化服务中心（C3S）公布的数据显示，2026 年 8 月是全球有记录以来最热的月份，与 2023 年 7 月并列第一。这一记录是气候变化与厄尔尼诺影响增强共同驱动的。8 月气温比工业化前水平高 1.65C，超过了世界各国为避免气候变化最严重后果而商定的 1.5C 阈值。单月气温超过 1.5C 并不意味着这一阈值已被永久突破，但显示出一种逼近该限制的趋势。今年夏天也是西欧有记录以来最热的夏天。",
-   "fetched_at": "2026-09-14T01:45:21Z"
-  },
-  {
-   "id": "07db08a7252df541",
-   "title": "2026 年夏天是美国有记录以来最热的夏天",
-   "url": "https://www.solidot.org/story?sid=85348",
-   "source": "Solidot",
-   "category": "tech",
-   "category_name": "计算机科学与技术",
-   "published": "2026-09-11T08:17:54Z",
-   "summary": "NOAA 的数据显示，美国经历了有记录 132 年以来最热的夏天，气温超过了 1936 年和 2021 年夏天——这两个年份此前并列最热夏天纪录。2026 年 8 月以及 6-8 月整个夏季均创下了历史新高，而 7 月更是美国有记录以来最热的一个月份。美国本土 48 州 8 月份的平均气温为 75.6 华氏度，比 20 世纪的平均水平高出 3.5 华氏度。夏季 6-8 月平均气温为 74.4 华氏度，比平均水平高出 3 华氏度。西南部的亚利桑那州、新墨西哥州、犹他州和科罗拉多州均创下了各自最热夏季纪录。全美范围内创下或追平月高温纪录的次数高达 1541 次，而创下或追平月度低温纪录的次数仅为 ",
-   "fetched_at": "2026-09-14T01:45:21Z"
-  },
-  {
-   "id": "340d6065278f59e9",
-   "title": "datasette-publish-fly 1.4",
-   "url": "https://simonwillison.net/2026/Sep/11/datasette-publish-fly/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-09-11T02:58:52Z",
-   "summary": "Release: datasette-publish-fly 1.4 Sets force_https=true in fly.toml . #31 Fix for Volume could not be found bug. #32 Compatible with app-scoped deploy tokens. #34 Tags: datasette , fly",
-   "fetched_at": "2026-09-14T01:45:21Z"
-  },
-  {
-   "id": "f7c37a72afda1076",
-   "title": "github-to-sqlite 2.9.1",
-   "url": "https://simonwillison.net/2026/Sep/11/github-to-sqlite/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-09-11T00:28:39Z",
-   "summary": "Release: github-to-sqlite 2.9.1 Fix for compatibility with sqlite-utils 4.x . #85 Tags: github , sqlite",
-   "fetched_at": "2026-09-14T01:45:21Z"
-  },
-  {
-   "id": "cb50b0c3c8564548",
-   "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-   "url": "https://huggingface.co/blog/gradio-workflow-1111",
-   "source": "Hugging Face Blog",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-09-10T00:00:00Z",
-   "summary": "",
-   "fetched_at": "2026-09-14T01:46:43Z"
-  },
-  {
-   "id": "d4e55a9164f4783e",
-   "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-   "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-   "source": "Hugging Face Blog",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-09-10T00:00:00Z",
-   "summary": "",
-   "fetched_at": "2026-09-14T17:54:31Z"
-  },
-  {
-   "id": "e8608e40b7228951",
-   "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-   "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-   "source": "Hugging Face Blog",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-09-09T15:36:24Z",
-   "summary": "",
-   "fetched_at": "2026-09-14T01:46:43Z"
-  },
-  {
-   "id": "4f420d1c5cd0cb94",
-   "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-   "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-   "source": "Hugging Face Blog",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-09-08T14:23:07Z",
-   "summary": "",
-   "fetched_at": "2026-09-14T01:46:43Z"
-  },
-  {
-   "id": "96a3500c5a4b2fb7",
-   "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-   "url": "https://huggingface.co/blog/Hcompany/neomme",
-   "source": "Hugging Face Blog",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-09-03T13:13:48Z",
-   "summary": "",
-   "fetched_at": "2026-09-14T01:46:43Z"
-  },
-  {
-   "id": "45020768fad998be",
-   "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-   "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-   "source": "Hugging Face Blog",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-09-03T00:00:00Z",
-   "summary": "",
-   "fetched_at": "2026-09-14T01:46:43Z"
-  },
-  {
-   "id": "86b47b47cb7422fd",
-   "title": "Give Your Coding Agents a Memory You Own",
-   "url": "https://huggingface.co/blog/funes",
-   "source": "Hugging Face Blog",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-09-03T00:00:00Z",
-   "summary": "",
-   "fetched_at": "2026-09-14T01:46:43Z"
-  },
-  {
-   "id": "b844bdeeb825fb68",
-   "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-   "url": "https://huggingface.co/blog/train-to-paint-with-code",
-   "source": "Hugging Face Blog",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-09-03T00:00:00Z",
-   "summary": "",
-   "fetched_at": "2026-09-14T01:46:43Z"
-  },
-  {
-   "id": "23bdbfdbd061867c",
-   "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-   "url": "https://huggingface.co/blog/allenai/benchmirt",
-   "source": "Hugging Face Blog",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-09-01T21:39:07Z",
-   "summary": "",
-   "fetched_at": "2026-09-14T01:46:43Z"
-  },
-  {
-   "id": "85562dc16345cc8b",
-   "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-   "url": "https://huggingface.co/blog/webgpu-kernels",
-   "source": "Hugging Face Blog",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-09-01T00:00:00Z",
-   "summary": "",
-   "fetched_at": "2026-09-14T01:46:43Z"
-  },
-  {
-   "id": "b0b2c2da12a5bc45",
-   "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-   "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-   "source": "Hugging Face Blog",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-08-28T00:00:00Z",
-   "summary": "",
-   "fetched_at": "2026-09-14T01:46:43Z"
-  },
-  {
-   "id": "5309d96554639301",
-   "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-   "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-   "source": "Hugging Face Blog",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-08-26T00:00:00Z",
-   "summary": "",
-   "fetched_at": "2026-09-14T01:46:43Z"
-  },
-  {
-   "id": "74043a2c13e42e05",
-   "title": "Granite 4.2 LLMs: How They're Built",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-   "source": "Hugging Face Blog",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-08-25T15:14:14Z",
-   "summary": "",
-   "fetched_at": "2026-09-14T01:46:43Z"
-  },
-  {
-   "id": "f6b26e55a4899220",
-   "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-   "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-   "source": "Hugging Face Blog",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-08-25T11:39:24Z",
-   "summary": "",
-   "fetched_at": "2026-09-14T01:46:43Z"
-  },
-  {
-   "id": "2983dbf79834f512",
-   "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-   "url": "https://huggingface.co/blog/gradio-workflow-guide",
-   "source": "Hugging Face Blog",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-08-25T00:00:00Z",
-   "summary": "",
-   "fetched_at": "2026-09-14T01:46:43Z"
-  },
-  {
-   "id": "bcd3314d2ba2a36f",
-   "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-   "url": "https://huggingface.co/blog/pwc-search",
-   "source": "Hugging Face Blog",
-   "category": "ai",
-   "category_name": "人工智能",
-   "published": "2026-08-21T00:00:00Z",
-   "summary": "",
-   "fetched_at": "2026-09-14T01:46:43Z"
   }
  ]
 }
