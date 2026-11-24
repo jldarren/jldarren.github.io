@@ -1,8 +1,932 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T09:01:44Z",
- "count": 218,
+ "generated_at": "2026-11-24T22:04:15Z",
+ "count": 361,
  "items": [
+  {
+   "id": "e1d13d7d681df347",
+   "title": "华通铂银看市-原油大幅上涨 金银收高",
+   "url": "http://finance.sina.com.cn/money/future/20080612/16444975125.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T22:04:15Z",
+   "summary": "华通铂银看市-原油大幅上涨 金银收高",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "9c46b3c966709ce1",
+   "title": "上海期货交易所（期锌）交易综述0612",
+   "url": "http://finance.sina.com.cn/money/future/20080612/16444975124.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T22:04:15Z",
+   "summary": "上海期货交易所（期锌）交易综述0612",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "50707d95df04764e",
+   "title": "上海期货交易所（期铜）交易综述0612",
+   "url": "http://finance.sina.com.cn/money/future/20080612/16444975123.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T22:04:15Z",
+   "summary": "上海期货交易所（期铜）交易综述0612",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "09830a8065401f4f",
+   "title": "上海期货交易所（期铝）交易综述0612",
+   "url": "http://finance.sina.com.cn/money/future/20080612/16444975122.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T22:04:15Z",
+   "summary": "上海期货交易所（期铝）交易综述0612",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "c9f9e29357ded404",
+   "title": "刘建华个展(图)",
+   "url": "http://finance.sina.com.cn/money/collection/ysqsl/20080612/16434975120.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T22:04:15Z",
+   "summary": "刘建华个展(图)",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "476086f2e47dd1f2",
+   "title": "中国CPI涨幅下行但通胀压力依存",
+   "url": "http://finance.sina.com.cn/china/hgjj/20080612/16434975119.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T22:04:15Z",
+   "summary": "中国CPI涨幅下行但通胀压力依存",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "b37b1b93a0b408d8",
+   "title": "国际油价再回136美元",
+   "url": "http://finance.sina.com.cn/world/gjjj/20080612/16434975118.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T22:04:15Z",
+   "summary": "国际油价再回136美元",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "93c913919453753e",
+   "title": "亚太综述：主要股市全线尽墨",
+   "url": "http://finance.sina.com.cn/stock/othermarket/20080612/16424975117.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T22:04:15Z",
+   "summary": "亚太综述：主要股市全线尽墨",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "200e921c9861439a",
+   "title": "都亚特画廊(图)",
+   "url": "http://finance.sina.com.cn/money/collection/ysqsl/20080612/16414975116.shtml",
+   "source": "新浪财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T22:04:15Z",
+   "summary": "都亚特画廊(图)",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "3f1a07cbc9c8206f",
+   "title": "EMNLP 2026 | 美团技术团队学术论文精选",
+   "url": "https://tech.meituan.com/2026/11/18/Papers-EMNLP-2026.html",
+   "source": "美团技术团队",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T22:04:15Z",
+   "summary": "2026 年，美团技术团队共计 20 余篇论文被 EMNLP 2026 收录，我们从中精选了 12 篇主会论文（Long Paper）分享给大家。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "f78606104efcb452",
+   "title": "如何在“不能出错”的系统里使用 AI Coding？分布式存储实践与边界",
+   "url": "https://tech.meituan.com/2026/10/29/AI-Coding-IN-Distributed-Storage-System.html",
+   "source": "美团技术团队",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T22:04:15Z",
+   "summary": "本文结合美团基础技术部在 AI 评审、问题排查和自动化开发中的真实实践，分享 AI 能帮上什么忙、容易在哪些地方犯错，以及哪些地方仍需要人来把关。比「多写代码」更重要的，是让代码和结论经得起验证。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "c588c966b91db0d1",
+   "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
+   "url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
+   "source": "美团技术团队",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T22:04:15Z",
+   "summary": "我们推出了《Agent评测白皮书》系列博客，体系化地为大家讲解评测的落地指南，分为《评测全览》、《冷启动篇》、《扩量篇》、《自进化篇》等共4篇，本文为系列的第一篇。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "dcd327682447228b",
+   "title": "美团智播——数字人直播技术创新与实践",
+   "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
+   "source": "美团技术团队",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T22:04:15Z",
+   "summary": "美团智播围绕 AI 主播「长得真→动得准→演得活→卖得好」构建了完整技术闭环：真人 1:1 复刻、换装换背景身份不跑偏；动作自然流畅，告别「木偶戏」；边说边动、音画一致；背后还有推理加速技术支撑万路并发开播，让普惠落地成为可能。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "5b0ad5da71dfe1dd",
+   "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+   "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T22:04:09Z",
+   "summary": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "732fd1570f14ddbe",
+   "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+   "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T22:03:01Z",
+   "summary": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "832161bfe656b543",
+   "title": "US Readies Tariff Hike on China, EU Goods",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-24/us-readies-tariff-hike-on-china-eu-goods-video",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T21:58:15Z",
+   "summary": "The US is set to announce as soon as Tuesday plans to raise tariffs on goods from China, the European Union and more than a dozen other economies, according to people familiar with the matter. Alicia Diaz reports. (Source: Bloomberg)",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "bc222e748d7ee543",
+   "title": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
+   "url": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T21:50:21Z",
+   "summary": "Verdict marks a victory for federal prosecutors after an eight-year legal battle with the Chinese telecoms company",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "16b41b9e1d8a0d6f",
+   "title": "GTA VI PC recompilation project shut down by Take-Two",
+   "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
+   "source": "The Verge",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T21:39:14Z",
+   "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leak",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "54826f9e96757951",
+   "title": "Quant Funds Are Having a Hard Time Keeping Up With This Market",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/quant-funds-are-having-a-hard-time-keeping-up-with-this-market",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T21:36:22Z",
+   "summary": "The stock market narrative is shifting so quickly, even the so-called fast money can’t keep up.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "23cf8f3aa53c65d0",
+   "title": "Bond Traders Rush to Hedge Risk of Fed Hikes Stalling Economy",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/bond-traders-rush-to-hedge-risk-of-fed-hikes-stalling-economy",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T21:30:00Z",
+   "summary": "Bond traders are racing to hedge the risk that the Federal Reserve’s interest-rate hikes and the stock market’s slide will significantly slow the US economy, forcing the central bank to shift back to easing monetary policy as soon as late next year.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "04dca54d7f511378",
+   "title": "Escalation in Iran Appears As the Default",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-24/opinion-escalation-in-iran-appears-as-the-default-video",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T21:27:41Z",
+   "summary": "The US and Israel assassinated Supreme Leader Ali Khamenei, the only man with the authority to force an unpalatable compromise like a deal with Washington on regime hardliners. That leaves escalation as the default, Bloomberg Opinion columnist Marc Champion says. (Source: Bloomberg)",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "999a4c166bc39ff1",
+   "title": "惠普 2026 财年全年归母净利润 24.25 亿美元，同比下降 4.1%",
+   "url": "https://www.ithome.com/1/031/901.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T21:23:11Z",
+   "summary": "IT之家 11 月 25 日消息，惠普今日发布 2026 财年（2025 年 11 月 1 日～2026 年 10 月 31 日）全年及第四财季（2026 年 8 月 1 日～2026 年 10 月 31 日）报告： 2026 财年全年 营业总收入 ：605.27 亿美元 （IT之家注：现汇率约合 4042.78 亿元人民币） ，同比增长 9.5% 毛利润 ：115.96 亿美元 （现汇率约合 774.53 亿元人民币） 毛利率 ：19.16% 归母净利润 ：24.25 亿美元 （现汇率约合 161.97 亿元人民币） ，同比下降 4.1% 经营现金流 ：39.76 亿美元 （现汇率约合 26",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "ac9f934991bf2618",
+   "title": "Dell Raises AI Server Outlook as Backlog Hits Record $132 Billion | Closing Bell",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-24/dell-raises-ai-server-outlook-closing-bell-video",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T21:21:25Z",
+   "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "1e35ae55deb75ce7",
+   "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang’s Return",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-option-trader-scores-1-984-gain-after-ceo-huang-s-return",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T21:17:23Z",
+   "summary": "Reddit user Outrageous-Voice1459 made a lot of money on Monday.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "fd9d6acc316c899b",
+   "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+   "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T21:13:39Z",
+   "summary": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "897edcb402e0b25d",
+   "title": "The Verge’s 2026 holiday gift guide for moms",
+   "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+   "source": "The Verge",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T21:09:59Z",
+   "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've […]",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "07b4e95a07685fe2",
+   "title": "Working with AI",
+   "url": "https://www.anthropic.com/research/working-with-ai",
+   "source": "Hacker News",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T21:07:38Z",
+   "summary": "Article URL: https://www.anthropic.com/research/working-with-ai Comments URL: https://news.ycombinator.com/item?id=50634734 Points: 19 # Comments: 8",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "460ecfec9c5053f9",
+   "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+   "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T21:07:19Z",
+   "summary": "Sanofi faces a revenue drop toward the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "007f0cedbd55abe5",
+   "title": "Russian Pleads Not Guilty in Snooping Case Targeting Palantir",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/russian-pleads-not-guilty-in-snooping-case-targeting-palantir",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T21:04:19Z",
+   "summary": "A Russian national pleaded not guilty to US charges that he acted as a foreign agent who covertly sought information about workers at Palantir Technologies Inc. over Ukraine’s wartime use of the company’s software.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "2116f73a7761b91a",
+   "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
+   "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T21:04:03Z",
+   "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "6014a04f08fa1462",
+   "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+   "url": "https://news.ycombinator.com/item?id=50634426",
+   "source": "Hacker News",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T20:44:15Z",
+   "summary": "Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine ( https://versine.com ). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon. ",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "0e1dbd847d3bfd2e",
+   "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+   "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T20:42:07Z",
+   "summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "80a5acb9a1770104",
+   "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+   "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T20:37:40Z",
+   "summary": "Meta doesn't serve ads in its Muse personal agent, but the tool is already boosting the company's ad business, a senior executive told CNBC.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "79070e62a418859b",
+   "title": "TikTok was down",
+   "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+   "source": "The Verge",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T20:27:27Z",
+   "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasionally didn't show up as expected in the app on iOS or Android, or ",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "43941f835739f643",
+   "title": "OceanBase发布AI数据平OceanLake！CEO杨冰：我们赌多模态，就像当年赌分布式一样",
+   "url": "https://www.infoq.cn/article/qEXNRNufkiFkiUEU9aae?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T20:21:09Z",
+   "summary": "点击查看原文>",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "6863371c3fbc7327",
+   "title": "Huang says he still does not believe in CEO succession planning at Nvidia",
+   "url": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T20:18:29Z",
+   "summary": "Chief executive speaks to staff at first company-wide meeting after returning to the chipmaker",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "ca7efd0c9bb94d77",
+   "title": "Ternary Bonsai 2.5 27B",
+   "url": "https://prismml.com/news/bonsai-2-5-27b",
+   "source": "Hacker News",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T20:08:03Z",
+   "summary": "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 149 # Comments: 47",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "32af257829de9696",
+   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+   "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+   "source": "The Verge",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T20:02:03Z",
+   "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbaske",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "491556fd0dddf254",
+   "title": "The clock is running out for America’s most contentious spying law",
+   "url": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
+   "source": "The Verge",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T20:00:00Z",
+   "summary": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending bill. Sen. Mike Rounds (R-SD) told Politico that Section 702 of the Foreign Intelligenc",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "54b19165a14116cb",
+   "title": "Anthropic shares fall below IPO price. Traders see even more pain",
+   "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T19:47:42Z",
+   "summary": "Anthropic shares fell below the $83 IPO price as options activity surged, with large put buys, call buys and put sales pointing to a divided market.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "c39ea0fc9e3f37fd",
+   "title": "Retail turnarounds are taking hold just in time for the holiday season",
+   "url": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T19:26:39Z",
+   "summary": "Retail earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer and stronger execution.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "b8eecd19cdaad945",
+   "title": "Gold is doing something strange. Here's one way to play it",
+   "url": "https://www.cnbc.com/2026/11/24/gold-is-doing-something-strange-heres-one-way-to-play-it-.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T19:25:13Z",
+   "summary": "Gold is not acting like the traditional safe haven. How one trader is playing the move.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "ec4356c90f0ef4d8",
+   "title": "Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold",
+   "url": "https://www.cnbc.com/investingclub/2026/11/24/who-qualifies-for-costcos-dividend-plus-meta-pauses-share-plan.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T19:23:59Z",
+   "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "fe3401e2cda5055a",
+   "title": "Amazon is knocking almost $50 off six months of Apple TV",
+   "url": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
+   "source": "The Verge",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T19:00:00Z",
+   "summary": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming service usually costs $14.99 per month, but following this page will let you […]",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "83b7d0d15eb92c92",
+   "title": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
+   "url": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button",
+   "source": "The Verge",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T18:44:57Z",
+   "summary": "Mozilla released Firefox 161 on Tuesday with a new setting you can use to choose which pages automatically open with the browser's VPN active. Using the \"Manage VPN rules\" option in Firefox's VPN panel, you can set it to \"always on\" or \"always off\" for specific sites, so you don't have to toggle it ",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "3bbd4827384133a7",
+   "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+   "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T18:34:43Z",
+   "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "75033e623438c2b0",
+   "title": "Speculative Decoding",
+   "url": "https://machinelearningmastery.com/speculative-decoding/",
+   "source": "Machine Learning Mastery",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T18:33:03Z",
+   "summary": "Overview This post is divided into six parts; they are: • Draft and Verify • Sampling-Based Speculative Decoding • Assisted Generation with a Draft Model • Measuring Acceptance and Speedup • Other Ways to Draft Tokens • When Speculation Helps Draft and Verify Speculative decoding involves two models",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "3e9a37054bc90542",
+   "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+   "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+   "source": "The Verge",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T18:15:00Z",
+   "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-ful",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "621f2126db802727",
+   "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+   "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T17:59:12Z",
+   "summary": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "b4aa4dce7919c3ff",
+   "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+   "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+   "source": "CNBC Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T17:51:45Z",
+   "summary": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "9bdca33ab92c8037",
+   "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
+   "url": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
+   "source": "The Verge",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T17:30:00Z",
+   "summary": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you focus on more enjoyable things. And thanks to Black Friday, you can pick up some of the best we’ve test",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "56a42c660c234539",
+   "title": "Bank of Canada Shakes Up Core Measures, Focuses on 2% Inflation Target",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/bank-of-canada-fades-core-inflation-switches-gauges",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T17:25:52Z",
+   "summary": "The Bank of Canada is changing the metrics it uses to weigh underlying price pressures as part of its new monetary policy framework, Governor Tiff Macklem said.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "c7d2da5c582fe3f0",
+   "title": "Tidal will start banning AI-generated music next month",
+   "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+   "source": "The Verge",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T17:17:09Z",
+   "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labe",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "6febf9889d49120f",
+   "title": "华为：截至目前，对外专利许可协议累计金额超 69 亿美元",
+   "url": "https://www.ithome.com/1/031/896.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T17:06:26Z",
+   "summary": "IT之家 11 月 25 日消息，以“卓越创新、开放共赢”为主题的第七届华为创新和知识产权论坛昨日在北京举办。 ▲ 华为在北京召开第七届创新和知识产权论坛 据介绍， 2025 年华为增加了 20 个被许可人 ，覆盖网络与通信设备、消费电子与计算、物联网、汽车、流媒体和半导体等领域。 截至目前，华为对外专利许可协议累计金额超 69 亿美元 （IT之家注：现汇率约合 460.87 亿元人民币） ，其中 2025 年的专利许可收入约为 8 亿美元 （现汇率约合 53.43 亿元人民币） 。截至 2025 年底，超过 32 亿部 5G 设备、超过 16 亿台 Wi-Fi 消费电子终端及超过 41 亿台",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "2ec605cc86892b76",
+   "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+   "url": "https://jobs.ashbyhq.com/weave-os",
+   "source": "Hacker News",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T17:00:55Z",
+   "summary": "Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50631041 Points: 0 # Comments: 0",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "f796e127a00ba54d",
+   "title": "GPT 6.2 Astra Solves a Historical Mystery",
+   "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+   "source": "Simon Willison",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T16:53:59Z",
+   "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale’s Be",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "0069eac5aeec3bdc",
+   "title": "削峰填谷！余承东揭秘华为 Mate X8“超平整”内屏原理，首创磁控展平技术定向修复",
+   "url": "https://www.ithome.com/1/031/895.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T16:47:59Z",
+   "summary": "IT之家 11 月 25 日消息，在昨天下午的 HUAWEI Mate X8 及全场景新品发布会上， 华为 Mate X8 大折旗舰机正式发布 ，全系搭载麒麟 9050 Pro 处理器，售价 12,999 元起。 此次华为 Mate X8 在屏幕上又有新技术突破。其中，大家最关心的就是折痕水平。根据此前曝光的视频来看，Mate X8 内屏在采用“亮面”设计的情况下，折痕多角度查看处于几乎不可见的状态。 而据华为官方数据， Mate X8 内屏平整度对比前代 X7 提升了 90% 。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东也在发布会现场揭秘了新机“超平整”内屏的实现原理， ",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "bbef1e94d167ddf6",
+   "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+   "url": "https://news.ycombinator.com/item?id=50630809",
+   "source": "Hacker News",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T16:45:44Z",
+   "summary": "Basically the title. Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models. Our only usage which I think could get us flagged is automated regression benchmarks whenever we change some AI settings. But this is not against their policy",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "16565a3f5dc091b0",
+   "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+   "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+   "source": "Hugging Face Blog",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T16:34:13Z",
+   "summary": "",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "6c787a85e2e6a1c1",
+   "title": "Active intrusion campaign against Check Point security management servers",
+   "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+   "source": "Hacker News",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T16:32:17Z",
+   "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 229 # Comments: 94",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "c967df2cec82e369",
+   "title": "Trump readies raft of new tariffs on major economies",
+   "url": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T16:30:35Z",
+   "summary": "China, the EU, Japan and South Korea expected to be hit by levies as US president doubles down on trade strategy",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "e2544bc1aeb2953e",
+   "title": "How Gemini is changing the game for Golden State's organization and fans.",
+   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+   "source": "Google AI Blog",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T16:00:00Z",
+   "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "307ec7853a39b082",
+   "title": "These are the gifts developers will actually want",
+   "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+   "source": "GitHub Blog",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T16:00:00Z",
+   "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The GitHub Blog .",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "ab29da53a4f6627a",
+   "title": "东北积雪天数预计将会显著减少",
+   "url": "https://www.solidot.org/story?sid=85982",
+   "source": "Solidot",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T15:57:38Z",
+   "summary": "根据两项研究，未来东北地积雪覆盖天数将普遍减少。与 2001 年—2020 年相比，到本世纪末，中等排放情景下区域平均积雪覆盖天数预计减少约 64 天，低排放和高排放情景下分别减少约 42天 和 85 天。高排放情景下，年积雪覆盖不足 50 天的区域占比预计由 19% 增至 99%，表明大范围地区可能向短暂、间歇性积雪状态转变。研究进一步指出，未来雪季缩短具有明显的季节非对称性。雪季前期积雪变化主要与降雪条件相关，而冬末至春季积雪持续性对升温更为敏感，其损失成为较强增暖情景下雪季缩短的突出特征。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "4c5beba78ea7153a",
+   "title": "Shanghai’s powerful Communist Party boss toppled as Xi escalates purge",
+   "url": "https://www.ft.com/content/02240d42-ccd8-4b4d-b0e3-49a04c950eea?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T15:55:20Z",
+   "summary": "Chen Jining under investigation over suspected ‘severe violations of discipline and laws’",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "048f35f87fa1fb6c",
+   "title": "黑得深邃：宾利首款纯电 SUV 托卡尔新增纯黑特别版，全球只有 20 台",
+   "url": "https://www.ithome.com/1/031/894.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T15:17:45Z",
+   "summary": "IT之家 11 月 24 日消息，宾利首批纯电 SUV Torcal（IT之家注：官方中文名为“托卡尔”）的交付尚未启动，第二款限量特别版就紧随其后完成亮相。近日，继托卡尔 First Edition 首发版之后，宾利 又公布了一款全新定制车型 。 这款特别版由日本潮流设计师藤原浩亲自操刀， 全球仅生产 20 辆，整车采用全黑设计 。车身采用名为“Beluga”的黑色涂装，黑色徽标、熏黑格栅和 22 英寸 Vortex 黑色轮毂也与之呼应。 新车搭载的全锻造轮毂 采用碳纤维嵌件 ，在提升视觉效果的同时兼顾空气动力学表现。 藤原浩于 2003 年创立东京设计品牌 FRGMT，品牌标识也出现在这辆",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "7765d9882542ae27",
+   "title": "Raising the stakes for enterprise networks with AI modernization",
+   "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+   "source": "MIT Technology Review",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T15:15:16Z",
+   "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than t",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "e8f64e3fc98cd1e0",
+   "title": "Brazil Real Gains on Reports Lula Backs More Spending Curbs",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/brazil-real-rallies-on-reports-lula-backs-further-spending-curbs",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T15:12:01Z",
+   "summary": "The Brazilian real gained on Tuesday on reports that President Luiz Inácio Lula da Silva is backing moves to curb fiscal spending, easing the concerns about the budget deficit that have dragged the currency down since his surprise re-election.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "21e8e4f9db051854",
+   "title": "HKC 神盾 27Q420B 显示器上市：QD Mini LED + Ultrafast IPS，2399 元",
+   "url": "https://www.ithome.com/1/031/893.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T15:06:53Z",
+   "summary": "IT之家 11 月 24 日消息，HKC（惠科）现已开始在电商平台销售神盾 (Shield) 27Q420B 显示器。这一型号结合了 Ultrafast IPS 薄层液晶、1152 分区 Mini LED 背光、QD 色彩增强，售价 2399 元。 神盾 27Q420B 基于 27\" 面板，拥有 QHD (2560×1440) 分辨率、420Hz 超频刷新率（IT之家注：原生刷新率 360Hz）， 获得 VESA DisplayHDR1000 认证 。 其 HDR 峰值亮度达 1200nits ，SDR 亮度也有 500nits；灰阶 (GtG) 响应时间 0.5ms；色深 8bit + FR",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "efe0ef87f873b54e",
+   "title": "微软 Win11 将淘汰蓝牙 MTP 功能，标准蓝牙文件传输不受影响",
+   "url": "https://www.ithome.com/1/031/892.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T15:05:16Z",
+   "summary": "IT之家 11 月 24 日消息，微软会出于各种原因陆续废弃 Windows 功能，比如使用率偏低、老旧技术维护成本过高，或是功能整合。 IT之家注意到，早在 2025 年，微软就停用了多项 Windows 功能，包括位置历史记录、打印用的 LPR / LPD 协议、地图应用及其配套接口。而 2026 年到这次官宣前，3D 查看器是唯一被废弃的 Windows 客户端功能。现在微软宣布，还要移除另外两项功能。 第一项是 Windows 端微软家庭安全应用，后续新版 Windows 将不再预装它。但这项调整不等于关停家庭安全服务本身，用户依旧可以通过微软家庭移动端 App 或者网页管理后台使用相",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "197dc8b3ac4dbd20",
+   "title": "A training engine for your local model, using your idle compute",
+   "url": "https://github.com/sous-labs/songe",
+   "source": "Hacker News",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T15:03:40Z",
+   "summary": "Article URL: https://github.com/sous-labs/songe Comments URL: https://news.ycombinator.com/item?id=50629231 Points: 131 # Comments: 37",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "2000c0e8c980fbeb",
+   "title": "鸿蒙系统终端设备数破亿，华为同步官宣注册开发者超 1200 万、可获取应用服务超 46 万",
+   "url": "https://www.ithome.com/1/031/891.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T15:00:13Z",
+   "summary": "IT之家 11 月 24 日消息，鸿蒙 HarmonyOS 终端设备数今日官宣破亿。华为官方也发布感谢信，向开发者、用户、讲师等每一位“鸿蒙人”致谢。 华为还同步官宣， 鸿蒙操作系统可获取的应用和服务超 46 万，注册开发者超 1,200 万 。华为官方表示，这标志着鸿蒙生态跨越规模临界点，进入发展新阶段，同时也是中国自主操作系统规模化应用的重要进展。 IT之家从华为官网了解到，目前， 开源鸿蒙已拥有 1.4 万余名贡献者，形成 120 余个行业发行版 ，在电力、水务、工业等领域持续探索应用。 华为还公布了一组数据：基于跨设备协同、系统级 AI 等能力，以及阔折叠、阔直板、折叠电脑等形态创新，",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "71363bc73fa11cbd",
+   "title": "基因工程烟草能用于高效合成抗癌药",
+   "url": "https://www.solidot.org/story?sid=85981",
+   "source": "Solidot",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T14:53:56Z",
+   "summary": "紫杉醇（paclitaxel）是临床上应用最广泛的化疗药物之一，被大量用于治疗乳腺癌、卵巢癌和肺癌等多种恶性肿瘤。然而这种救命药最初提取自太平洋红豆杉的树皮，天然含量极低。科学家正在尝试把红豆杉合成紫杉醇的基因全部搬到生长迅速的其他植物或微生物中，像酿酒或种庄稼一样，低成本、可持续地批量生产紫杉醇。一项研究在本氏烟草（Nicotiana benthamiana）中首次完整重构并验证了紫杉醇的从头生物合成途径，使工程烟草中的紫杉醇产量飙升 500 倍以上，达到与天然红豆杉树皮相当的水平。本氏烟草是普通烟草的近亲，但它通常不被用来制作香烟，而因为生长周期短、容易进行基因工程而成为生物科学研究中的重",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "d36e529bf39ccc63",
+   "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+   "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+   "source": "CNBC Economy",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T14:51:58Z",
+   "summary": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "53e946f34aec6360",
+   "title": "Creative BlasterX B5 条形桌面蓝牙音箱预售，到手价 368 元",
+   "url": "https://www.ithome.com/1/031/889.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T14:44:13Z",
+   "summary": "IT之家 11 月 24 日消息，Creative（创新科技）现已启动桌面条形音箱新品 BlasterX B5 的预售。这一型号基于山景 DSP 芯片， 采用 4 发声单元 + 双导管设计 ，支持蓝牙 6.0 无线连接，参与预售到手价 368 元。 BlasterX B5 配备 2 个 40mm 高音单元、2 个 58mm 低音单元，峰值功率 40W， 具备 4 种专属 EQ 预设 ；集成 18.5Whr 锂电池，无线续航 10hr；内置降噪麦克风；提供旋钮、触控 2 种操控方式，支持 RGB 动态灯效。 京东 创新 BlasterX B5 桌面音箱 368 元 直达链接",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "3347b31d07513746",
+   "title": "Steam 新一周销量榜：《EA SPORTS FC 27》5 折登顶全球，《双人成行》2 折登顶国区",
+   "url": "https://www.ithome.com/1/031/888.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T14:43:09Z",
+   "summary": "IT之家 11 月 24 日消息，Steam 平台现已公布最新一周游戏销量排行榜（2026 年 11 月 17 日 - 2026 年 11 月 24 日，无免费游戏），《EA SPORTS FC™ 27》以 5 折折扣强势登顶全球收费游戏榜单，《双人成行》携 2 折折扣登顶国区收费游戏榜首，《天国：拯救 2》大促暴涨 60 位跻身全球榜前五。 全球榜单： EA SPORTS FC 27 Call of Duty: Modern Warfare 4 Bodycam Grand Theft Auto V 增强版 迪士尼梦幻星谷 影之刃零 双人成行 红色沙漠：增强版 天国：拯救 2 Euro Tru",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "bec09af73ac6e6f9",
+   "title": "空气污染是痴呆症的一个诱因",
+   "url": "https://www.solidot.org/story?sid=85980",
+   "source": "Solidot",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T14:40:37Z",
+   "summary": "根据发表在《Journal of Neuroinflammation》期刊上的一项研究，微小的空气污染颗粒可能会通过改变大脑免疫细胞的行为对大脑造成损害。研究结果表明空气污染是痴呆症的一个诱因。研究人员分析了英国生物样本库（UK Biobank）约 50 万名成年人的数据；该研究数据集对参与者的健康状况进行了长达 14 年的追踪。结果发现，相比生活在污染程度最低的三分之一地区的人群，居住在污染程度最高的三分之一地区的人群，患阿尔茨海默病或相关痴呆症的风险高 25%。在排除了年龄、吸烟、糖尿病等因素的影响后，这一结论依然成立。无论个人患阿尔茨海默病的遗传风险高低，空气污染都会增加其患病风险。研究",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "18c5a65d45b058f6",
+   "title": "拓竹发布全新 3D 打印机 P3C：标配多头打印，国补到手价 6374.2 元起",
+   "url": "https://www.ithome.com/1/031/887.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T14:39:10Z",
+   "summary": "IT之家 11 月 24 日消息，拓竹 P3C 3D 打印机于今日正式发布，定价为 7499 元起。 京东 拓竹 P3C 3D 打印机 7499 元 直达链接 P3C 标准版：7499 元（IT之家注：初上市价 7999 元，首发直降 500 元，预估国补到手价 6374.2 元起） P3C 七头闪切版：8479 元（初上市价 8979 元，首发直降 500 元，预估到手价 7207.15 元起） P3C 多线径耗材版：8579 元（初上市价 9079 元，首发直降 500 元，预估到手价 7292.15 元起） P3C 工作站版：10049 元（初上市价 10549 元，首发直降 500 元",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "e98dc603a973ce6f",
+   "title": "华为折叠机外屏伴随式 AI 新交互将至，Mate X8 升级 HarmonyOS 7.0.0.135 可用",
+   "url": "https://www.ithome.com/1/031/886.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T14:38:29Z",
+   "summary": "IT之家 11 月 24 日消息，华为今日下午正式发布了 Mate X8 大折旗舰手机，并带来了小艺伴随式 AI。 华为官方在发布会现场演示的伴随式 AI 是在内屏侧触发的。IT之家从官网了解到，Mate X8 还将带来外屏伴随式 AI 新交互， HarmonyOS 7.0.0.135 及以上版本可用 。 据介绍，小艺伴随式 AI 通过智能感知屏幕与场景提供全文摘要、长文导读、备忘待办、话题推荐等服务，用户也可以针对屏幕内容，随时问小艺（需要先打开双击导航条触发伴随式 AI 开关才能体验该功能：设置 > 系统 > 伴随式 AI > 双击导航条触发伴随式 AI）。 开启方式： 外屏使用手机时， ",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "c8caeed7d3326446",
+   "title": "NASA 好奇号与毅力号在火星接连发现奇特岩石，揭示远古水环境线索",
+   "url": "https://www.ithome.com/1/031/885.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T14:29:55Z",
+   "summary": "IT之家 11 月 24 日消息，NASA 的好奇号和毅力号火星车在火星上拍到了大量奇特地貌：薯片一样的岩石、泛着白晕的岩体，还有刻在红色地表上的神秘纹路。 据IT之家了解，这些外形怪异的构造，价值远不止有趣的照片，它们是科学家解开火星数十亿年地质演化之谜的线索。尤其是这些岩石和矿物沉积，能帮助还原火星曾经有水的年代，锁定那些或许曾经适合微生物生存的环境。 好奇号近期在代号“纳斯卡”的地点完成一轮钻探，这里的基岩里嵌着圆盘状晶体。NASA 介绍，部分晶体薄而扁平，科考团队形容它们像薯片。好奇号机械臂末端搭载的火星手持透镜成像仪，在火星日 5067 天（11 月 7 日）拍下了这批构造的特写。其",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "5df9cc6a0fd3f3cc",
+   "title": "天钡推出 WORK H255 工作站迷你主机：三 M.2、双 USB4、单 OCuLink",
+   "url": "https://www.ithome.com/1/031/884.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T14:25:05Z",
+   "summary": "IT之家 11 月 24 日消息，天钡 (AOOSTAR) 今日宣布推出基于 AMD 锐龙 7 H 255 处理器的 WORK H255 工作站迷你主机。 这一型号拥有沉稳的黑色铝合金 CNC 机身，配备至高 70W 性能释放的 均热板 + FDB 轴承涡轮风扇散热 系统，板载 24GB LPDDR5 内存。 IT之家了解到，WORK H255 三维 130×150×55 (mm)，质量约 660g；内置 3 个 M.2 2280 (PCIe Gen4 ×4) 插槽，配备 Wi-Fi 6E & 蓝牙 5.3 无线网卡。 其正面提供 2 个 USB-A 10Gbps、1 个全功能 USB-C 4",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "0361d44b1d9c7fe5",
+   "title": "首款四卡三待大折叠：华为 Mate X8 通信能力公开，支持星闪 E2.0、eSIM、北斗卫星消息等",
+   "url": "https://www.ithome.com/1/031/883.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T14:24:15Z",
+   "summary": "IT之家 11 月 24 日消息，在今天下午的 HUAWEI Mate X8 及全场景新品发布会上， 华为 Mate X8 大折旗舰机正式发布 ，全系搭载麒麟 9050 Pro 处理器， 售价 12,999 元起 。 IT之家从华为官方了解到， 这也是首款四卡三待大折叠手机 ，支持实体卡 + eSIM 任意切换。 该功能需开通运营商相关业务使用，同一个手机可以存储最多 2 个 eSIM 号码。当前同一个 eSIM 手机上最多允许支持四个号码（2 张实体卡号码 + 2 个 eSIM 号码），可以同时使用三个号码（三个号码中至少有两个号码为同一中国大陆运营商）。 目前，华为官网已公开新机全部通信能",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "ca63fc549dd6e7f7",
+   "title": "比亚迪与英力士就收购法国汉巴赫工厂展开独家谈判，目标生产更符合欧洲需求汽车",
+   "url": "https://www.ithome.com/1/031/882.htm",
+   "source": "IT之家",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T14:22:30Z",
+   "summary": "IT之家 11 月 24 日消息，比亚迪今天（24 日）晚间通过新闻稿宣布，与英力士汽车就收购其法国汉巴赫工厂展开独家谈判。目前，交易仍需履行与相关职工代表机构的协商程序。比亚迪希望在当地生产 更符合欧洲驾驶者需求的汽车 。 比亚迪执行副总裁李柯表示：“我们对欧洲市场的长期投入不会改变。汉巴赫投资计划体现了我们对法国市场的信心，也彰显了比亚迪继续拓展欧洲业务的决心。我们希望让欧洲消费者 有更多法国制造车型可供选择 ，同时将比亚迪的技术和电动出行创新成果带到欧洲消费者身边。” 声明说，比亚迪希望通过这一项目维持工厂的正常生产，保障当地就业，并为当地员工和供应商创造新的发展机会。贴近客户布局生产，",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "fa08ffb315791349",
+   "title": "Firefox 161 释出",
+   "url": "https://www.solidot.org/story?sid=85979",
+   "source": "Solidot",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T14:22:21Z",
+   "summary": "Mozilla 释出了 Firefox 161。主要新特性包括：对常用功能如复制当前标签页网址等设置快捷键，方法是在地址栏输入 about:keyboard；主题区域新增经典主题，可选择早期版本的 Proton 主题或 Firefox OLED 主题；支持 JPEG XL 图像格式，允许下载前预览完整图像；Windows 版本支持播放 HDR 视频；内置 VPN 功能支持对特定网站设置开启或关闭，允许用户在全局启用 VPN 时将特定网站排除在外；开发者功能包括支持 random() CSS 函数，支持嵌套任意替换函数，支持 CSS Typed Object Model 等等。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
   {
    "id": "cc4b488b71e92e28",
    "title": "当 AI 改变一切，下一步如何构建？",
@@ -13,6 +937,17 @@
    "published": "2026-11-24T14:12:36Z",
    "summary": "点击查看原文>",
    "fetched_at": "2026-11-24T09:01:44Z"
+  },
+  {
+   "id": "d28c3eb78da027c3",
+   "title": "Windows Server 移除对 32 位应用的支持",
+   "url": "https://www.solidot.org/story?sid=85978",
+   "source": "Solidot",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T14:04:48Z",
+   "summary": "微软宣布下个版本的 Windows Server—— Windows Server 2028——将移除允许 32 位 Windows 应用运行在 64 位操作系统上的兼容层。这意味着新操作系统不再默认包含 WoW64 兼容层——WoW64 让 32 位应用能在 64 位 Windows 环境中运行。Windows Server 最后一个 32 位版本发布于 2008 年，此后的所有版本均为纯 64 位系统。WoW64 子系统此前一直存在于 64 位 Windows 中，旨在确保 32 位应用能在 64 位系统上继续运行。但在 Windows Server 2028 中，这一 32 位兼容层将转",
+   "fetched_at": "2026-11-24T22:04:15Z"
   },
   {
    "id": "756b1c7116a090b8",
@@ -26,6 +961,138 @@
    "fetched_at": "2026-11-24T09:01:44Z"
   },
   {
+   "id": "59b2387b1dec0de0",
+   "title": "我国牵头推动全球首个生成式人工智能治理国际标准提案",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737255.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T13:56:21Z",
+   "summary": "中新网北京11月24日(记者 左雨晴) 24日，记者从市场监管总局专题新闻发布会上了解到，我国正深度参与国际标准体系建设，聚焦数据治理、人机交互、安全可信等关键领域，组织头部企业、领先科研机构，牵头29项基础共性国际标准研制；围绕智慧城市、智能制造等重点行业，统筹15个标准技术机构牵头推动49项行业应用国际标准研制，形成协同推进、相互支撑的良好格局。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "e440c61c935e6ca1",
+   "title": "洗脚盆上车？车企创新别跑偏",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737250.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T13:49:27Z",
+   "summary": "“这不是普通的手电筒，在有光的时候它就会亮。”",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "aad79513c617b77c",
+   "title": "建筑央企赋能绘就梅州城乡融合新画卷",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737244.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T13:48:57Z",
+   "summary": "中新网梅州11月24日电 题：建筑央企赋能绘就梅州城乡融合新画卷",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "7baf838ef2dfadfd",
+   "title": "广东推广专利开放许可、落地“先使用后付费”模式",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737240.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T13:46:53Z",
+   "summary": "中新网广州11月24日电 (记者 王坚)广东省科学技术厅二级巡视员李迪云24日在广州表示，广东推广专利开放许可、落地“先使用后付费”模式，是全省扎实推进《广东省知识产权保护和运用“十五五”规划》落地实施的重要举措。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "34230ee5f17d3f2b",
+   "title": "北京怀柔自贸联动发展区实施方案发布 打造原始创新成果转化示范区",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737233.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T13:44:45Z",
+   "summary": "中新网北京11月24日电 (记者 杜燕)中国(北京)自由贸易试验区怀柔联动发展区建设新闻发布会24日召开，对外发布建设方案，解读怀柔依托大科学装置集群推进制度创新、加速科技成果转化的实施路径，标志着怀柔高水平对外开放迈出关键一步。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "08311b6df7434f18",
+   "title": "西藏“十五五”时期将提升樟木、里孜等口岸通关能力",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737249.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T13:42:44Z",
+   "summary": "中新社拉萨11月24日电 (赵朗 卢鑫)西藏自治区商务和供销合作社发展“十五五”规划发布会24日在拉萨市举行。记者从会上获悉，“十五五”期间，西藏将提升口岸通关能力，调整优化樟木口岸功能布局，完善里孜口岸设施，保持普兰口岸正常运转，发挥航空口岸在虫草等高价值货物出口方面作用。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "8982ce080f5e22de",
+   "title": "编造检验记录，宝莱特华北唯一透析粉液基地遭飞检停产",
+   "url": "https://www.tmtpost.com/8216634.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T13:40:24Z",
+   "summary": "叠加血透耗材集采持续降价、主业连续亏损的经营压力，宝莱特把目光投向存储芯片赛道，试图寻找新的增长支点。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "2b8b1f009bf62446",
+   "title": "卓越创新、开放共赢，华为举办第七届创新和知识产权论坛",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737221.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T13:35:28Z",
+   "summary": "今日，以“卓越创新、开放共赢”为主题的第七届华为创新和知识产权论坛在北京举办。本届论坛汇集全球创新和知识产权领域专家与产业伙伴，重申应以开放驱动产业创新、以保护筑牢创新基础；并探讨人工智能技术革命背景下，如何以持续创新推动技术演进、以开放合作促进产业升级与生态共赢。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "2081089be8eede4c",
+   "title": "珠肇高铁江机段5标无砟轨道施工转入铺轨阶段",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737223.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T13:18:27Z",
+   "summary": "中新网广州11月24日电 (记者 郭军)记者24日从中铁广州工程局集团获悉，近日，由该局承建的珠肇高铁江机段5标无砟轨道施工全面收官，正式转入铺轨阶段，为项目建成通车筑牢基础。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "b86e44c848deb0ad",
+   "title": "内存涨价、换机乏力，荣耀如何接住中端市场的难题",
+   "url": "https://www.tmtpost.com/8216686.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T13:15:02Z",
+   "summary": "中端市场的竞争，从来不只是价格和配置的较量。当参数逐渐趋同，谁能重新定义用户需要什么，谁才有机会在下一轮竞争中占据主动。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "caed2252169c7897",
+   "title": "香港推出个人创业培育计划 降低AI创业门槛",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737216.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T13:12:07Z",
+   "summary": "中新网香港11月24日电 由香港科技园公司(HKSTP)与腾讯云最具价值专家(TVP)合办的“AI for All, AI for One”项目发布活动24日在香港举行。活动同期启动“一人公司”培育计划(“OPC BUILD”)，落地“全民AI(人工智能)第一课”，双方合力构建香港“一人公司”创业生态。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "f4d41ea9647cb4f7",
+   "title": "自变量发布具身基础模型WALL-OSS-1.0，自测零样本成功率55.1%",
+   "url": "https://www.tmtpost.com/8216666.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T13:09:16Z",
+   "summary": "“理解世界”与“执行动作”在同一模型中成形",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
    "id": "5867b413ecff8f1a",
    "title": "谷歌发现，技术债务会通过“智能体分心”导致编码智能体偏离正轨",
    "url": "https://www.infoq.cn/article/sFmubmDWkulIOTBLX0Dr?utm_source=rss&utm_medium=article",
@@ -35,6 +1102,28 @@
    "published": "2026-11-24T13:00:00Z",
    "summary": "点击查看原文>",
    "fetched_at": "2026-11-24T09:01:44Z"
+  },
+  {
+   "id": "3c6728c1bfd19879",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "source": "OpenAI News",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T13:00:00Z",
+   "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "48018712cee4f534",
+   "title": "哈尔滨市道外区：打造“冰雪+艺术”“ 冰雪+运动”两大文旅消费场景",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737213.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T12:46:11Z",
+   "summary": "中新网哈尔滨11月24日电 (记者 刘锡菊)24日，记者从哈尔滨市人民政府新闻办公室主办的“约会哈尔滨冰雪暖世界”2026—2027年哈尔滨冰雪季系列新闻发布会(第二场)上获悉，这个冬季，哈尔滨市道外区将设计“冰雪+艺术”和“冰雪+运动”两大文旅消费场景，并打造规模化冰上汽车文化综合体。",
+   "fetched_at": "2026-11-24T22:04:15Z"
   },
   {
    "id": "4f8a54cfbb13a94f",
@@ -48,6 +1137,28 @@
    "fetched_at": "2026-11-24T09:01:44Z"
   },
   {
+   "id": "4881d20998fa55c1",
+   "title": "今年前10个月新疆进出口值同比增超13%",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737200.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T12:41:15Z",
+   "summary": "中新社乌鲁木齐11月24日电 (胡嘉琛)据乌鲁木齐海关统计，今年前10个月，新疆进出口总值4737.1亿元(人民币，下同)，同比(下同)增长13.1%。其中，出口4141.9亿元，增长11.9%；进口595.2亿元，增长21.9%。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "ef8096d74f5dfd33",
+   "title": "LLM agents work for their parent companies, not for you",
+   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+   "source": "Hacker News",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T12:40:15Z",
+   "summary": "Article URL: https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=50627340 Points: 828 # Comments: 344",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
    "id": "16d74a3dbaa240f5",
    "title": "数据分析的下一站：智能体分析",
    "url": "https://www.infoq.cn/video/Q0rXqh3OmSAhcePiDjh2?utm_source=rss&utm_medium=article",
@@ -57,6 +1168,28 @@
    "published": "2026-11-24T12:40:02Z",
    "summary": "点击查看原文>",
    "fetched_at": "2026-11-24T09:01:44Z"
+  },
+  {
+   "id": "3a666b7d890f9dc5",
+   "title": "波士顿咨询报告：中国是亚太地区AI应用最广泛的市场之一",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737195.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T12:38:19Z",
+   "summary": "中新社北京11月24日电 (记者 刘亮)波士顿咨询公司(BCG)24日发布的《2026亚太职场AI观察：战略清晰，价值方能释放》报告指出，亚太地区人工智能(AI)应用日益普及，中国是AI应用最为广泛的市场之一。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "3156934f85e9da70",
+   "title": "广西南宁织密医疗保障防护网 长护险惠及1.95万失能民众",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737190.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T12:36:39Z",
+   "summary": "中新网南宁11月24日电(黄艳梅 杨彩虹)广西南宁市医疗保障局局长黄时毅24日介绍，南宁市持续推动医保服务提质增效，长期护理保险制度运行五年来，覆盖参保职工178万余人，累计惠及失能民众1.95万人，年均为失能家庭减负超过2万元(人民币，下同)。",
+   "fetched_at": "2026-11-24T22:04:15Z"
   },
   {
    "id": "87a06433aefab279",
@@ -70,6 +1203,39 @@
    "fetched_at": "2026-11-24T09:01:44Z"
   },
   {
+   "id": "94d865dd1835faf1",
+   "title": "今年前十月广州实物商品网上零售额超3100亿元",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737189.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T12:34:01Z",
+   "summary": "中新网广州11月24日电(王华 秦小雅)第六届直播电商节(中国·广州)暨2026湾区直播电商年度盛典23日晚启幕。其间，广州市商务局公布数据显示，今年1月至10月，广州实物商品网上零售额超3100亿元，占社零比重提升至33.8%，成为拉动消费的重要引擎。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "22581c9193c649fb",
+   "title": "湖南省首单跨市州“区港联动”业务落地常德保税物流中心",
+   "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737185.shtml",
+   "source": "中新网财经",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T12:28:26Z",
+   "summary": "中新网常德11月24日电 (吉喆 谭茗睿)11月24日下午，一批重26吨、货值82万元的南非碧根果，自岳阳城陵矶港进口，通过“区港联动”监管通道直接运抵常德保税物流中心(B型)。这是长沙关区首票成功落地的“区港联动”业务，标志着岳阳港与常德保税物流中心实现监管互通、物流直连。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "58861b464a1d594e",
+   "title": "Some U.S. food banks see demand top pandemic levels",
+   "url": "https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html",
+   "source": "CNBC Economy",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T12:00:01Z",
+   "summary": "A combination of high costs and restrictions to federal aid have led to soaring demand at many food banks in the U.S.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
    "id": "eb0dd815e18545a3",
    "title": "把 Rust 表达式直接翻译成 JavaScript，Topcoat 走了一条反 WASM 路线",
    "url": "https://www.infoq.cn/article/obHr7mdXqLU1GLskZYN2?utm_source=rss&utm_medium=article",
@@ -79,6 +1245,149 @@
    "published": "2026-11-24T12:00:00Z",
    "summary": "点击查看原文>",
    "fetched_at": "2026-11-24T09:01:44Z"
+  },
+  {
+   "id": "c04294837066a4cb",
+   "title": "Russian navy licks its wounds as another warship is sunk",
+   "url": "https://www.ft.com/content/ef3cfa29-4613-426c-9b87-dd76664e6859?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T11:51:27Z",
+   "summary": "Ukrainian drones have struck Moscow’s warships and freighters in the Black Sea, Baltic and Mediterranean",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "bc9058b8abe3655e",
+   "title": "Anthropic Shares Plunge Below IPO Price in Fourth Trading Day",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T11:19:24Z",
+   "summary": "Anthropic PBC shares traded below their $83 initial public offering price for the first time, wiping out gains for investors who piled into the artificial intelligence lab’s record-setting debut last week.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "0cc032083b69b188",
+   "title": "中国国航，一张油价看跌期权",
+   "url": "https://www.tmtpost.com/8215597.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T11:13:22Z",
+   "summary": "迎来周期反转了吗？",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "254c5ad582539d39",
+   "title": "连续四月销量破10万，零跑回应“几箱啤酒压穿后备箱”风波",
+   "url": "https://www.tmtpost.com/8215052.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T11:12:38Z",
+   "summary": "新势力“销冠”零跑汽车，又一次卷入风波。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "3926ed22f6864eef",
+   "title": "传统大厂的智驾，困在了组织里",
+   "url": "https://www.leiphone.com/category/transportation/Q7xf6JUVu3HScTsH.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T11:12:00Z",
+   "summary": "一位传统车厂高管曾向雷峰网回忆，疫情期间，他所任职的车厂负责人去了一趟苏州博世。 那时车企都在忙着保供。按照他的记忆，这位CEO级的负责人为了一项主动安全系统的供应，在那里守了几天，最后既没见到负责人，也没能保供成功。 走出博世时，他长叹一口气：“到底谁是甲方，谁是乙方。” 他记住了这件事，这件事也让这家传统车厂下定决心：最关键的东西，一定要自己做。 传统车厂做智驾，故事往往就从这样的决心开始。但往后走，有的公司等来了量产，有的公司只等来了一轮又一轮组织调整。 钱花了，人也招了，为什么还是做不出来？几位智驾负责人和长期服务车企的专家，把问题指向了两个地方：钱能不能持续投，真正懂技术的人能不能做",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "f298374e82d63be0",
+   "title": "DeepSeek限额，腾讯社交帝国松口气",
+   "url": "https://www.tmtpost.com/8209876.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T11:11:06Z",
+   "summary": "AI免费时代的成本与社交变局。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "dadcaa361e372b9a",
+   "title": "理想“去宁德化”凶猛",
+   "url": "https://www.tmtpost.com/8214994.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T11:11:02Z",
+   "summary": "都在悄悄做，嘴里都不说。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "c150cdd331a8998d",
+   "title": "从「卖向全球」到「扎根全球」，奇瑞怎么把增长做久？",
+   "url": "https://www.leiphone.com/category/transportation/DQjM3IyKu5bVltcG.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T11:11:00Z",
+   "summary": "“如果把这个剔除之外，应该达到170多亿元。” 近期，在一场小范围沟通会上，奇瑞汽车管理层透露汇率波动对利润造成了影响。前三季度，奇瑞有31.71亿元汇兑净损失。去年同期，这一项还是29.74亿元净收益，一来一回差了61.45亿元。 这导致，奇瑞前三季度的归母净利润为139.63亿元，同比下降2.8%。 雷峰网注意到，归母净利润降了些，但把奇瑞放到同行里看，它的利润表现依然靠前。前三季度，奇瑞净利润率为6.05%，是同期中国汽车制造业营业收入利润率（3.3%）的1.83倍。在已经披露三季报的十几家中国上市车企中，奇瑞的净利润率和归母净利润率（5.79%）都排在第一。 再往利润表前面翻，奇瑞前三",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "df1528563c03e6be",
+   "title": "中国汽车的下一场硬仗：让世界为中国式豪华买单",
+   "url": "https://www.leiphone.com/category/transportation/mQcJOTY4udaVnxHp.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T11:08:00Z",
+   "summary": "11月7日，阿布扎比文华东方酋长皇宫酒店，两位中国女性高管的着装格外惹眼。 雷峰网注意到，被人群簇拥着走上舞台的，是比亚迪执行副总裁李柯。她身着一袭融合东方山水意境的礼服，丝绒上衣汲取中国旗袍的韵味，裙身以中国画的泼墨、泼彩为底，手绘山河，再辅以刺绣、青金石与羽毛绣，将中国传统绘画中的山水意境穿在了身上。 站在她身旁的是仰望汽车总经理胡晓庆。她身穿中式立领丝绒上衣，搭配非遗云锦妆花长裙，传统缠枝纹样呈现出中国织造工艺的细腻与厚重。 两位女性高管身着充满东方韵味的礼服，向台下来自不同国家的嘉宾介绍一辆中国汽车。 这是一辆超豪华行政旗舰轿车，名叫鼎曜。它车长5.6米，轴距3.5米，采用礼宾级对开门",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "05c90e3b97b3f003",
+   "title": "希望《无限暖暖》送我300抽，记马斯克账上",
+   "url": "https://www.tmtpost.com/8216374.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T11:07:11Z",
+   "summary": "叠纸必须打赢的一仗。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "4c9abebc51a26d9d",
+   "title": "市值蒸发3000亿后，摩尔线程要拿出10亿回购",
+   "url": "https://www.tmtpost.com/8216343.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T11:07:08Z",
+   "summary": "摩尔线程拟最高10亿元回购。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "a7cd7146222456b7",
+   "title": "猛犸象没必要把自己包装成大家买不起的样子",
+   "url": "https://www.tmtpost.com/8216367.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T11:07:03Z",
+   "summary": "找适合自己的路。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "46f081173b805ce3",
+   "title": "10.5亿现金全资拿下银球科技，斯菱智驱机器人转型再下重注",
+   "url": "https://www.tmtpost.com/8216503.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T11:02:50Z",
+   "summary": "先参股后控股分步落子，机器人第二增长曲线能否兑现仍待验证。",
+   "fetched_at": "2026-11-24T22:04:15Z"
   },
   {
    "id": "638b8a28f6a4e15e",
@@ -92,6 +1401,28 @@
    "fetched_at": "2026-11-24T09:01:44Z"
   },
   {
+   "id": "f3aa9260f1094b37",
+   "title": "Searching for distant planets with Astra",
+   "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "source": "OpenAI News",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T11:00:00Z",
+   "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "b94847a1ef329829",
+   "title": "The Complete Guide to Embedding Models for Machine Learning",
+   "url": "https://machinelearningmastery.com/the-complete-guide-to-embedding-models-for-machine-learning/",
+   "source": "Machine Learning Mastery",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T11:00:00Z",
+   "summary": "In this article, you will learn how embedding models differ, what they cost to run at scale, and how to benchmark open-weight models on your...",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
    "id": "704cfa9f137a7cae",
    "title": "基于紫光展锐UIS7885的首个5G开源派诞生！",
    "url": "https://www.infoq.cn/article/eX1YFM98P3MvrYqBbo0x?utm_source=rss&utm_medium=article",
@@ -101,6 +1432,17 @@
    "published": "2026-11-24T10:46:46Z",
    "summary": "点击查看原文>",
    "fetched_at": "2026-11-24T09:01:44Z"
+  },
+  {
+   "id": "64da9ece6042dafb",
+   "title": "神舟二十四号计划 25 日 8 时发射",
+   "url": "https://www.solidot.org/story?sid=85977",
+   "source": "Solidot",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T10:24:21Z",
+   "summary": "中国载人航天工程办公室星期二（11月24日）宣布，神舟二十四号计划于星期三（11月25日）早上8时18分发射。航天员乘组由汤洪波（指令长）、武毅以及巴基斯坦航天员穆罕默德·齐尚·阿里（载荷专家）组成。其中巴基斯坦航天员穆罕默德·齐尚·阿里（Muhammad Zeeshan Ali）将成为首位到访中国天宫空间站的外籍航天员，执行短期任务后将随神舟二十三号乘组返回地球。航天员汤洪波执行过神舟十二号、神舟十七号载人飞行任务。航天员武毅来自于中国第三批航天员，是首次执行飞行任务。巴基斯坦航天员在轨期间，除参与乘组日常工作外，主要承担中巴合作空间科学实验任务，重点完成实验样品及实验单元的安装，并按计划开",
+   "fetched_at": "2026-11-24T22:04:15Z"
   },
   {
    "id": "badf866cffa9f734",
@@ -123,6 +1465,61 @@
    "published": "2026-11-24T10:00:00Z",
    "summary": "点击查看原文>",
    "fetched_at": "2026-11-24T09:01:44Z"
+  },
+  {
+   "id": "3df56c27cdefb0d7",
+   "title": "黄仁勋回归，AI泡沫是否继续？",
+   "url": "https://www.tmtpost.com/8215280.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T09:46:00Z",
+   "summary": "一场关于AI商业价值的真正考验才刚刚开始。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "fead27d05f79ae5c",
+   "title": "Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Loom",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-tech-stocks-poised-to-slide-as-ai-caution-returns-after-rally",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T09:45:27Z",
+   "summary": "The Nasdaq 100 Index plunged on Tuesday, led by another steep decline in chipmakers as a relief rally in technology stocks gave way to renewed worries about the durability of the AI trade. Plans for new US tariffs also weighed on stocks.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "f2f40ff9c55aad44",
+   "title": "AI办公，不再只拼大模型",
+   "url": "https://www.tmtpost.com/8215293.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T09:21:45Z",
+   "summary": "AI办公竞争升维。",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "2e2cd5a65a954ab4",
+   "title": "艾为电子落子电源芯片业务，钰泰半导体八年资本路迎新局 | 并购一线",
+   "url": "https://www.tmtpost.com/8216284.html",
+   "source": "钛媒体",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T09:18:48Z",
+   "summary": "钰泰半导体能否借此登陆资本市场拭目以待",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "d7948f2968470f0b",
+   "title": "索尼称逾 3900 万玩家玩过了 GTA6",
+   "url": "https://www.solidot.org/story?sid=85976",
+   "source": "Solidot",
+   "category": "tech",
+   "category_name": "计算机科学与技术",
+   "published": "2026-11-24T09:04:43Z",
+   "summary": "索尼官方博客周一称，截至 11 月 22 日已有逾 3900 万玩家在 PS5 上体验了 11 月 19 日上市的 GTA6。GTA6 创下了 PlayStation 平台游戏同时在线玩家人数的新纪录，超过了此前多人游戏、免费游戏及单机游戏保持的纪录；累积游戏时长高达 6.83 亿小时，每位玩家平均玩了 17.4 小时；PS5 单日联网激活数量创新高，新激活的 PS5 游戏机中七成玩家选择 GTA6 作为第一款玩的游戏。根据此前 Sensor Tower 的数据，GTA6 在 PS5 和 Xbox 上的销售比是 3：1，如果这一数字正确那么 GTA6 的首周销量可能超过了 5000 万份。",
+   "fetched_at": "2026-11-24T22:04:15Z"
   },
   {
    "id": "3fb6826c85351d36",
@@ -257,6 +1654,17 @@
    "fetched_at": "2026-11-24T09:01:44Z"
   },
   {
+   "id": "a0cfb675bb201f40",
+   "title": "蚂蚁OceanBase交出六年政企成绩单：服务22个省级数字政府、三分之一央企核心系统",
+   "url": "https://www.leiphone.com/category/industrynews/b7Pw487MPHsDMSyR.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T08:36:00Z",
+   "summary": "随着人工智能加速进入政务与央国企核心业务，数据底座不仅要稳定承载关键系统，也开始支撑生产级AI应用。 11月24日，蚂蚁OceanBase在北京举办AI数据大会，正式发布湖库一体的OceanLake AI数据平台，并披露2026年经营进展。2026年，OceanBase专有云金融和政企客户总数增长50%，其中政企客户数首次与金融客户数持平，成为专有云业务的重要增长力量。 目前，OceanBase已服务22个省级数字政府和数百家央国企，进入约三分之一央企的核心业务系统，覆盖通信、能源、交通等关键行业，并为服务10亿人的医保“一码通”提供数据底座。从政务和央企的核心系统，到覆盖广泛人群的民生服务，",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
    "id": "c48edcb3a9c07335",
    "title": "九州风神推出新款冰元素 360 ARGB GT 水冷散热器：冷头可选透镜 / 无限镜风格、一体框联排风扇，399 元",
    "url": "https://www.ithome.com/1/031/606.htm",
@@ -378,6 +1786,17 @@
    "fetched_at": "2026-11-24T09:01:44Z"
   },
   {
+   "id": "8d178053a42fde67",
+   "title": "百度智能云等发起香港前沿科技产业发展联盟，助力具身智能企业拓展全球市场",
+   "url": "https://www.leiphone.com/category/industrynews/uFuwhvMHGUY0Qeu0.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T08:33:00Z",
+   "summary": "11月23日，第十六届香港国际金融论坛暨第七届领航“9+2”粤港澳大湾区发展论坛举办。作为论坛重要活动，香港国际具身智能领袖峰会同期举行，并正式发布香港前沿科技产业发展联盟。该联盟由百度智能云、香港特区政府商务及经济发展局、香港特区政府创新科技署、投资家网，以及智平方、零次方、众擎、地瓜机器人、帕西尼、贝塔无限、零次方、破壳、亮源新创、松应、智动未来等企业共同发起，将依托大湾区产业基础和香港国际化优势，聚焦人工智能、智能装备、数字经济等领域，搭建技术、场景、资本与国际资源的对接平台，推动具身智能等企业开展技术验证、场景落地和海外合作。 香港前沿科技产业发展联盟正式成立 百度智能云副总裁、百度智",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
    "id": "09e947d32df29651",
    "title": "华为首款动态血糖仪“维感 G1”发布，限时优惠价 299 元",
    "url": "https://www.ithome.com/1/031/586.htm",
@@ -431,6 +1850,17 @@
    "published": "2026-11-24T08:22:12Z",
    "summary": "IT之家 11 月 24 日消息，卓威 (ZOWIE) 现已正式发布新一代 EW 系列无线电竞鼠标，提供 EC（非对称人体工学）、FK（对称低背）、ZA（对称高背）、U（微不对称收腰）多种模具选择。 EW 系列全系采用 Rhythm Click 分体式按键设计，结合特殊弹性材质按键板、特调微动开关、倾斜微动设计， 实现更有节奏的回弹和更迅速的复位 ；此外，还覆盖了干爽类肤涂层。 EW 家族的首发款式为 U2-DW，售价 1,279 元。其三维 123.3 × 64.3 × 38.1 (mm)，最窄处 58.4 (mm)。质量 52±1g。 该型号配备支持 42,000 DPI 的 ZOWIE ",
    "fetched_at": "2026-11-24T09:01:44Z"
+  },
+  {
+   "id": "a290e862092807ca",
+   "title": "自营商品获国际奖项，新华网报告：零售商“定义商品”助推中国零售业高质量发展",
+   "url": "https://www.leiphone.com/category/industrynews/YnXVvIVqWjrFhrDC.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T08:19:00Z",
+   "summary": "11月24日，新华网研究院发布题为《商超平台探索深度自营，驱动中国零售业转型升级》的研究报告（以下简称《报告》）。《报告》提出，中国零售业正在发生深层转向：从传统商超到线上平台，从综合零售到垂直业态，自营已不再是单一企业的个别选择，而是全行业共同加码的确定性方向。零售业的发展逻辑，正从过去的“拼渠道、拼规模、拼流量”，加速向“拼商品、拼供应链、拼履约效率”切换。自营率的稳步提升，既是消费市场走向成熟、消费需求持续提质的直观体现，也是中国商品供应链转型升级、供需匹配效率不断提高的重要标志。 《报告》着重从商品力角度切入，剖析了行业集体加码自营对于零售业高质量发展的助推作用。《报告》指出，零售业的",
+   "fetched_at": "2026-11-24T22:04:15Z"
   },
   {
    "id": "3177580a5ee32585",
@@ -642,6 +2072,17 @@
    "fetched_at": "2026-11-24T09:01:44Z"
   },
   {
+   "id": "493418e0ff037b6e",
+   "title": "华金证券接入千问办公，73个技能重塑投研风控全流程",
+   "url": "https://www.leiphone.com/category/industrynews/ubwFeDsrkrcQf1BB.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T08:01:00Z",
+   "summary": "近日，华金证券股份有限公司（以下简称\"华金证券\"）正式接入千问办公，围绕权益投资的事前研究、事中管理、事后监控三大核心环节，打造\"投研、投管、投监\"三位一体AI工作台。该工作台已沉淀73个成熟的专业AI技能，将盘前研究准备时间从2小时压缩至10分钟以内，推动证券自营业务从\"人工搬数据\"迈向\"AI驱动判断\"的新阶段。 华金证券是珠海华发集团重要成员企业，总部位于上海自贸区，拥有全牌照业务资格。证券自营业务对数据时效性、口径一致性和合规留痕要求极高，研究员与风控岗的大量时间长期消耗在多系统对接数据和手工计算上，专业经验散落在个人Excel与制度附件中，难以复核和传承。 华金证券使用千问办公搭建三位",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
    "id": "0f1f6cd2d00c6670",
    "title": "JPMorgan, HSBC Trade Digital Gold in London for the First Time",
    "url": "https://www.bloomberg.com/news/articles/2026-11-24/jpmorgan-hsbc-trade-digital-gold-in-london-for-the-first-time",
@@ -752,6 +2193,17 @@
    "fetched_at": "2026-11-24T09:01:44Z"
   },
   {
+   "id": "2bad3ee41c19a203",
+   "title": "解锁折叠屏新体验范式，华为Mate X8铸就华为史上最强大折叠",
+   "url": "https://www.leiphone.com/category/industrynews/SA56oov1EKhe9sPs.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T07:52:00Z",
+   "summary": "11月24日，华为Mate X8在万众瞩目下登场。华为常务董事、产品投资评审委员会主任、终端BG董事长余承东口中“华为史上最强大折叠”，承载的不仅是Mate X系列八年八代的技术沉淀，更是一个品类从尝鲜走向日常主力机的关键一跃。不过相较于华为Mate X8的强势表现，官方的一组数据更是让用户和行业为之惊叹。 根据数据显示，华为Mate X系列在过去的八年时间里，已经成为2000万用户手里的主力选择。在折叠屏这个曾经被视为小众赛道的品类里，两千万的存量用户意味着华为以一己之力撑起了中国大折叠市场的基本盘。其中2026年上半年，华为国内折叠屏份额保持在70%以上，万元以上超高端市场，占比更是达到了",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
    "id": "83735af9a983022c",
    "title": "Franklin Templeton Urges Investors to Look Beyond the AI Trade",
    "url": "https://www.bloomberg.com/news/articles/2026-11-24/franklin-templeton-urges-investors-to-look-beyond-the-ai-trade",
@@ -796,6 +2248,17 @@
    "fetched_at": "2026-11-24T09:01:44Z"
   },
   {
+   "id": "9313ce90be102217",
+   "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，CTO杨传辉解读三大能力",
+   "url": "https://www.leiphone.com/category/industrynews/HXbRi8ascVBkUsJP.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T07:38:00Z",
+   "summary": "11月24日，蚂蚁OceanBase AI数据大会在北京召开。OceanBase正式发布湖库一体AI数据平台OceanLake，并宣布开源其核心引擎AI数据库OceanSeek。OceanBase CTO杨传辉在大会分享中透露了背后的技术思考，他认为，面向AI时代，数据基础设施需要具备湖库一体、在离线一体、Agent友好和多模混合搜索等关键能力，为企业AI应用提供统一的数据底座。 Agent访问量半年增长13倍，传统架构难以支撑 杨传辉的判断来自蚂蚁真实业务及OceanBase自身的AI实践，大会披露的一组数据显示：主要面向Agent调用的MCP访问量，从4月到9月增长约13.36倍，人工页面",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
    "id": "606adcc8d726b6ed",
    "title": "Commerzbank Weighs Partial Withdrawal From US Treasury Market",
    "url": "https://www.bloomberg.com/news/articles/2026-11-24/commerzbank-weighs-partial-withdrawal-from-us-treasury-market",
@@ -827,6 +2290,39 @@
    "published": "2026-11-24T07:22:48Z",
    "summary": "Google 提交了一项专利申请，利用它所掌握的关于你的信息，创造一个由 AI 生成的电视频道。该频道将充满为你量身定制的节目：由你本人担任主角，同时还会穿插个性化定制的广告。该专利是 AI 视频技术未来发展方向的最新信号：企业和广告商通过收集大量与你相关的数据，自动生成源源不断、高度精准且完全个性化的内容。该专利被称为 creating a channel of video experiences tailored to a user，通过输入提示词要求大模型为用户生成定制视频，其中用户将扮演主角。生成的视频将是基于用户画像特征、用户最常观看内容的风格和偏好。该频道还会关联广告服务器，为 A",
    "fetched_at": "2026-11-24T09:01:44Z"
+  },
+  {
+   "id": "c26fe2565dd430f1",
+   "title": "iPhone Duo迎劲敌！华为旗舰大折叠Mate X8将在美团闪购同步首发",
+   "url": "https://www.leiphone.com/category/industrynews/znn4Mo8Qqn4i7HES.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T07:21:00Z",
+   "summary": "据“华为终端”官方预告，11月24日，华为将举行Mate X8及全场景新品发布会。多方消息显示，这款最新旗舰大折叠手机将迎来多项重磅升级：新机将支持虚拟触控板，折叠平整度也将再上一个台阶。 在产品力突破之外，华为也持续布局销售新渠道，即时零售成为华为新品发售的新亮点。记者从相关方面获悉，与新品发布会同步，全国7000余家美团闪购华为官方授权店铺将同步首发、首销新品。全国各地消费者可闪购下单，最快30分钟收到新机。同时，消费者闪购新机可获得12期免息、200元购机礼券包等权益。 ▲近期华为Mate系列、OSTA星芒等新品连续“闪购首发”。（摄影：小飞） 受益于“官方店铺直发”“最快30分钟送达”",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "fbead6a24446c1b6",
+   "title": "蚂蚁OceanBase发布AI数据平台：统一管理多模态数据，为Agent提供业务上下文",
+   "url": "https://www.leiphone.com/category/industrynews/vo7BI6hIy3wL6Mi4.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T07:18:00Z",
+   "summary": "11月24日，蚂蚁OceanBase AI数据大会在北京召开。OceanBase CEO杨冰在会上表示，当模型越来越先进，Agent基建越来越成熟，挑战终将回归数据。面向这一变化，AI时代的数据基础设施应坚持“湖库一体、多模融合、Agent友好、开源开放”四大原则。围绕这一方向，OceanBase正式发布AI战略产品——湖库一体AI数据平台OceanLake，并宣布向全球开源其核心引擎AI数据库，邀请开发者和产业伙伴共同建设面向AI的数据基础设施。 杨冰认为，当前企业的智能化转型远不及预期。其一，模型能力的商品化已经完成，能力迅速提升、成本持续下降，模型本身不再是瓶颈；其二，“低枝果实”已被摘",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "d6722a68748f762f",
+   "title": "从“望闻问切”到开源模型，蚂蚁阿福加速打通AI健康服务闭环",
+   "url": "https://www.leiphone.com/category/medigital/P6Ota0mqLwk8wsN2.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T07:13:00Z",
+   "summary": "大模型进入医疗健康行业后，最先被改变的是“问”。 健康问答、报告解读、预问诊、挂号导诊，用户只需输入一段文字，AI就能迅速给出看似专业的回答。但健康服务真正漫长的部分，往往发生在提问之后：患者描述的信息是否完整，AI的建议能否得到医生确认，院外数据能否持续沉淀，健康方案能否长期执行，最终又由谁为健康改善付费。 这些问题，决定了医疗AI能否从一种新型交互工具，变成真正可持续的健康服务。 11月23日，2026蚂蚁阿福医疗健康生态大会在广州举行。蚂蚁阿福发布新版App，上线实时视频“看健康”功能，升级面向全家人的“AI健康管家”，并推出AI健康手环和AI健康戒指。与此同时，蚂蚁百灵医疗健康模型家族",
+   "fetched_at": "2026-11-24T22:04:15Z"
   },
   {
    "id": "fdbead87f74d8706",
@@ -904,6 +2400,17 @@
    "published": "2026-11-24T06:30:04Z",
    "summary": "Plus, Capex or die trying",
    "fetched_at": "2026-11-24T09:01:44Z"
+  },
+  {
+   "id": "d568bd0f4c31430f",
+   "title": "Latam Currencies Lag Emerging Peers as Global Selloff Weighs",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/emerging-market-stocks-rally-as-huang-s-return-revives-ai-trade",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T06:26:44Z",
+   "summary": "Most Latin American currencies slumped Tuesday as falling metal prices and a renewed selloff in US tech stocks fanned a move away from riskier assets.",
+   "fetched_at": "2026-11-24T22:04:15Z"
   },
   {
    "id": "e5443a2519486806",
@@ -992,6 +2499,17 @@
    "published": "2026-11-24T05:00:16Z",
    "summary": "AI groups are now at the heart of geopolitics. Some are not ready",
    "fetched_at": "2026-11-24T09:01:44Z"
+  },
+  {
+   "id": "525af206da2af254",
+   "title": "SpaceX-Tesla: the directors negotiating the biggest merger ever",
+   "url": "https://www.ft.com/content/2585e45e-9133-4215-a2d8-e1275e1033b9?syn-25a6b1a6=1",
+   "source": "FT",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T05:00:16Z",
+   "summary": "Five executives are charged with combining Elon Musk’s sprawling enterprises into a potential $3.5tn colossus",
+   "fetched_at": "2026-11-24T22:04:15Z"
   },
   {
    "id": "78345d4ecf71dd10",
@@ -1115,6 +2633,17 @@
    "fetched_at": "2026-11-24T09:01:44Z"
   },
   {
+   "id": "012b324bfc0a36c0",
+   "title": "Copper Edges Closer to Bear Market on Tech Rout, Tariff Anxiety",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/copper-resumes-decline-as-investors-look-beyond-drama-at-nvidia",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T02:38:19Z",
+   "summary": "Copper closed at a 13-month low as a selloff in technology giants dragged down stocks and commodities, while the White House is set to unleash another round of tariffs.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
    "id": "10f7634741492852",
    "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
    "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
@@ -1225,6 +2754,17 @@
    "fetched_at": "2026-11-24T09:01:44Z"
   },
   {
+   "id": "bad0fc120958c6e8",
+   "title": "Gold Slips as Investors Weigh Fed Outlook, US Tariff Plans",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
+   "source": "Bloomberg Markets",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-24T00:06:57Z",
+   "summary": "Gold slumped, erasing most of Monday’s dramatic rebound as investors bet on further interest-rate hikes while a tariff-driven rout in equities prompted some traders to sell bullion to cover losses elsewhere.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
    "id": "485decdaf4812bd7",
    "title": "Google alternative Kagi launches an email service",
    "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
@@ -1234,6 +2774,28 @@
    "published": "2026-11-24T00:02:52Z",
    "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, and no lock-in.\" With Ka",
    "fetched_at": "2026-11-24T09:01:44Z"
+  },
+  {
+   "id": "ec442b764e041cd2",
+   "title": "How Intentful uses dots to make more time for growth",
+   "url": "https://openai.com/business/customer-stories/intentful-dots",
+   "source": "OpenAI News",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T00:00:00Z",
+   "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+   "fetched_at": "2026-11-24T22:04:15Z"
+  },
+  {
+   "id": "7a6462e387eb267a",
+   "title": "How iFood scales coding agents across 15,000 repositories",
+   "url": "https://openai.com/business/customer-stories/ifood",
+   "source": "OpenAI News",
+   "category": "ai",
+   "category_name": "人工智能",
+   "published": "2026-11-24T00:00:00Z",
+   "summary": "",
+   "fetched_at": "2026-11-24T22:04:15Z"
   },
   {
    "id": "ef3910f6a7af585b",
@@ -1278,6 +2840,17 @@
    "published": "2026-11-23T20:26:39Z",
    "summary": "CrowdStrike's quarterly results, released alongside the deal's announcement, show a company acting from a position of strength rather than weakness.",
    "fetched_at": "2026-11-24T09:01:44Z"
+  },
+  {
+   "id": "77255295200c4ab3",
+   "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+   "url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+   "source": "CNBC Economy",
+   "category": "finance",
+   "category_name": "金融财经",
+   "published": "2026-11-21T12:00:01Z",
+   "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+   "fetched_at": "2026-11-24T22:04:15Z"
   },
   {
    "id": "1eb7507f8cbef96f",
